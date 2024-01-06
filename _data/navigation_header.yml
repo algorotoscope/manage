@@ -3,8 +3,47 @@ left:
   - title: Home
     url: /
 
-  - title: Updates
-    url: /updates/    
-
+  - title: Collections
+    dropdown:
+      - title: America Immigration Dumping Ground
+        url: /applied/america-immigration_dumping-ground/
+      - title: America Under Socialism
+        url: /applied/america-under-socialism/
+      - title: American Dream Fundamental
+        url: /applied/american-dream-fundamental/
+      - title: BF Skinner
+        url: /applied/bf-skinner/
+      - title: Birth of a Nation
+        url: /applied/birth-of-a-nation/
+      - title: Blue Circuit
+        url: /applied/blue-circuit/
+      - title: Braceros Domingo Ulloa
+        url: /applied/braceros-domingo-ulloa/
+      - title: California Trvel by Train
+        url: /applied/california-travel-by-train/
+      - title: Citizenship
+        url: /applied/citizenship/
+      - title: Copper Circuit
+        url: /applied/copper-circuit/                                               
+      - title: Every Sunday Morning
+        url: /applied/every-sunday-morning/
+      - title: Goodyear Home Merchandise
+        url: /applied/good-year-home-merchandise/ 
+      - title: Leaflets of the Russian Revolution
+        url: /applied/leaflets-of-the-russian-revolution/
+      - title: Nazi Invasion
+        url: /applied/nazi-invasion/
+      - title: Norman Rockwell Ruby Bridges
+        url: /applied/norman-rockwell-ruby-bridges/
+      - title: Oakland California
+        url: /applied/oakland-california/
+      - title: Persistence of Memory
+        url: /applied/persistence-of-memory/
+      - title: Stalin
+        url: /applied/stalin/
+      - title: Uncle Same
+        url: /applied/uncle-sam/
+      - title: Yellow Journalism
+        url: /applied/yellow-journalism/                            
 
 right:
