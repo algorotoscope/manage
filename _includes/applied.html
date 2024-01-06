@@ -1,0 +1,10 @@
+<div class="uk-child-width-1-{{ columns }}@m uk-grid-match uk-text-center uk-margin-medium-top" data-uk-grid>
+{% assign targets = site.data.targets %}
+{% for target in targets %}
+    <div style="width: 250px;">
+        <div>
+            <a href="https://kinlane-productions2.s3.amazonaws.com/algorotoscope-master/{{ slug }}-{{ target }}"><img src="https://kinlane-productions2.s3.amazonaws.com/algorotoscope-master/{{ slug }}-{{ target }}" width="100%"></a>
+        </div>
+    </div>
+{% endfor %}
+</div>

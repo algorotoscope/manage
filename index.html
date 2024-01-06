@@ -1,0 +1,30 @@
+---
+layout: page
+width: expand
+title: Algorotoscope - Manage
+---
+
+<div class="uk-container{{container}}">
+
+	<h3>Applied</h3>
+	<div class="uk-child-width-1-{{ columns }}@m uk-grid-match uk-text-center uk-margin-medium-top" data-uk-grid>
+	{% assign models = site.data.models %}
+	{% for model in models %}
+		<div style="width: 300px;">
+			<div>
+				<a href="/applied/{{ model.slug }}/"><img src="{{ model.image }}" width="100%"></a>
+				<h3 class="uk-card-title uk-margin"><a href="/applied/{{ slug }}/">{{ model.name }}</a></h3></h3>
+			</div>
+		</div>
+	{% endfor %}
+	</div>
+
+	<h3>Commands</h3>
+
+	<ul>
+		<li><a href="commands/pull-targets/">Pull Targets</a></li>
+		<li><a href="commands/apply-to-images/">Apply to Images</a></li>
+		<li><a href="commands/upload-applied-to-s3/">Upload Applied to S3</a></li>
+	</ul>
+
+</div>

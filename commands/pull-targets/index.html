@@ -1,0 +1,16 @@
+---
+layout: page
+width: expand
+title: Algorotoscope - Pull Targets
+---
+
+<div class="uk-container{{container}}">
+
+	<h3>Pull Targets</h3>
+	{% assign models = site.data.models %}
+	{% assign targets = site.data.targets %}
+	{% for target in targets %}
+		aws s3 cp s3://kinlane-productions2/algorotoscope-targets/{{ target }} targets/{{ target }}<br>
+	{% endfor %}		
+
+</div>

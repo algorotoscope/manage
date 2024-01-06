@@ -1,0 +1,20 @@
+---
+layout: page
+width: expand
+title: Algorotoscope - Manage
+---
+
+<div class="uk-container{{container}}">
+
+	<h3>Applied</h3>
+	{% assign models = site.data.models %}
+	{% assign targets = site.data.targets %}
+	{% for model in models %}
+	<h3>{{ model.name }}</h3>
+		{% for target in targets %}
+		python evaluate.py --checkpoint models/{{ model.slug }}  --in-path targets/{{ target }}  --out-path images/{{ model.slug }}-{{ target }}<br>
+		{% endfor %}		
+		<br>[BREAK]<br>
+	{% endfor %}
+
+</div>
