@@ -6,13 +6,13 @@ title: Algorotoscope - Manage
 
 <div class="uk-container{{container}}">
 
-	<h3>Applied</h3>
+	<h3>Upload to S3</h3>
 	{% assign models = site.data.models %}
 	{% assign targets = site.data.targets %}
 	{% for model in models %}
 		<ol>
 		{% for target in targets %}
-			<li>python evaluate.py --checkpoint models/{{ model.slug }}  --in-path targets/{{ target }}  --out-path images/{{ model.slug }}-{{ target }}</li>
+			<li>aws s3 cp {{ model.slug }}-{{ target }} s3://kinlane-productions2/algorotoscope-master/{{ model.slug }}-{{ target }}</li>
 		{% endfor %}		
 		</ol>
 	{% endfor %}
