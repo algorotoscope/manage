@@ -1,4 +1,7 @@
 ---
+- name: 1939 New York Worlds Fair
+  slug: 1939-new-york-worlds-fair
+  image: https://kinlane-productions2.s3.amazonaws.com/algorotoscope-cli/1939-new-york-worlds-fair-square.jpg
 - name: American Immigration Dumping Ground
   slug: america-immigration_dumping-ground
   image: https://algorithmic.rotoscope.work/images/collections/america-immigration-dumping-ground/america-immigration-dumping-ground.jpg
@@ -29,6 +32,9 @@
 - name: Copper Circuit
   slug: copper-circuit
   image: https://algorithmic.rotoscope.work/images/collections/copper-circuit/copper-circuit-feature.jpg
+- name: Eugenics
+  slug: eugenics
+  image: https://kinlane-productions2.s3.amazonaws.com/algorotoscope-cli/eugenics-square.jpg  
 - name: Persistence of Memory
   slug: dark-dali
   image: https://algorithmic.rotoscope.work/images/collections/the-persistence-of-memory/the-persistence-of-memory-feature.jpg
