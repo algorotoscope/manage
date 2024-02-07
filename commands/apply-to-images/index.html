@@ -6,15 +6,32 @@ title: Algorotoscope - Manage
 
 <div class="uk-container{{container}}">
 
-	<h3>Applied</h3>
+	{% assign this_batch = 1 %}
+	<h3>Apply to Batch {{ this_batch }}</h3>
 	{% assign models = site.data.models %}
-	{% assign targets = site.data.targets %}
+	{% assign targets = site.data.targets %}	
 	{% for model in models %}
 		<ol>
 		{% for target in targets %}
-			<li>python evaluate.py --checkpoint models/{{ model.slug }}  --in-path targets/{{ target }}  --out-path images/{{ model.slug }}-{{ target }}</li>
+			{% if target.batch == this_batch %}
+				<li>python evaluate.py --checkpoint models/{{ model.slug }}  --in-path targets/{{ target.name }}  --out-path images/{{ model.slug }}-{{ target.name }}</li>
+			{% endif %}
 		{% endfor %}		
 		</ol>
 	{% endfor %}
+
+	{% assign this_batch = 2 %}
+	<h3>Apply to Batch {{ this_batch }}</h3>
+	{% assign models = site.data.models %}
+	{% assign targets = site.data.targets %}	
+	{% for model in models %}
+		<ol>
+		{% for target in targets %}
+			{% if target.batch == this_batch %}
+				<li>python evaluate.py --checkpoint models/{{ model.slug }}  --in-path targets/{{ target.name }}  --out-path images/{{ model.slug }}-{{ target.name }}</li>
+			{% endif %}
+		{% endfor %}		
+		</ol>
+	{% endfor %}	
 
 </div>

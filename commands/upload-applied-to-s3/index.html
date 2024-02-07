@@ -6,15 +6,32 @@ title: Algorotoscope - Manage
 
 <div class="uk-container{{container}}">
 
-	<h3>Upload to S3</h3>
+	{% assign this_batch = 1 %}
+	<h3>Upload Batch {{ this_batch }} to S3</h3>
 	{% assign models = site.data.models %}
 	{% assign targets = site.data.targets %}
 	{% for model in models %}
 		<ol>
 		{% for target in targets %}
-			<li>aws s3 cp {{ model.slug }}-{{ target }} s3://kinlane-productions2/algorotoscope-master/{{ model.slug }}-{{ target }}</li>
+			{% if target.batch == this_batch %}
+				<li>aws s3 cp {{ model.slug }}-{{ target.name }} s3://kinlane-productions2/algorotoscope-master/{{ model.slug }}-{{ target.name }}</li>
+			{% endif %}			
 		{% endfor %}		
 		</ol>
 	{% endfor %}
+	
+	{% assign this_batch = 2 %}
+	<h3>Upload Batch {{ this_batch }} to S3</h3>
+	{% assign models = site.data.models %}
+	{% assign targets = site.data.targets %}
+	{% for model in models %}
+		<ol>
+		{% for target in targets %}
+			{% if target.batch == this_batch %}
+				<li>aws s3 cp {{ model.slug }}-{{ target.name }} s3://kinlane-productions2/algorotoscope-master/{{ model.slug }}-{{ target.name }}</li>
+			{% endif %}			
+		{% endfor %}		
+		</ol>
+	{% endfor %}	
 
 </div>

@@ -1,772 +1,1542 @@
 ---
-- an-me-store-front.jpeg
-- angry-king-crown.jpeg
-- angry-man-head.jpeg
-- arrow-in-ground.jpeg
-- audrey-nyc-skyline.jpeg
-- autom-leaves-street.jpeg
-- bagel-poppy-plain-boil.jpeg
-- bagels-plain-boiling.jpeg
-- banana-subway-stairs.jpeg
-- bay-bridge-second-half.jpeg
-- big-seven.jpeg
-- big-zero.jpeg
-- bike-path-all-the-way.jpeg
-- blue-hhill-fair.jpeg
-- boat-coming-through-bridge-1.jpeg
-- boat-coming-through-bridge-2.jpeg
-- brooklyn-bridge-traffic.jpeg
-- building-art-construction.jpeg
-- building-wet-day.jpeg
-- cactus-nyc-skyline.jpeg
-- cell-tower-close-2.jpeg
-- cell-tower-close.jpeg
-- cell-tower-overload-up-close.jpeg
-- cell-tower-overloaded.jpeg
-- cell-tower-satellite-dishes.jpeg
-- central-park-bridge-light.jpeg
-- central-park-bridge-morning.jpeg
-- central-park-leaves-2.jpeg
-- central-park-leaves.jpeg
-- central-park-water.jpeg
-- central-park-winter-walkway.jpeg
-- classroom-computers.jpeg
-- clock-fancy.jpeg
-- computer-setup-1.jpeg
-- computer-setup-2.jpeg
-- confused-man-head.jpeg
-- corner-restaurant.jpeg
-- corner-shirt-waist-factory.jpeg
-- cotton-candy.jpeg
-- crane-sunrise-buildings.jpeg
-- demon-art.jpeg
-- demon-face.jpeg
-- docks-oakland-1.jpeg
-- docks-oakland-2.jpeg
-- docks-oakland-3.jpeg
-- docks-oakland-4.jpeg
-- docks-oakland-5.jpeg
-- docks-oakland-6.jpeg
-- downtown-city-lights.jpeg
-- dual-security-cameras.jpeg
-- emergency-third-rail-power-trip.jpeg
-- energy-tower-1.jpeg
-- energy-tower-2.jpeg
-- fancy-man-1.jpeg
-- feminist-pioneers.jpeg
-- ferris-wheel-fair.jpeg
-- fixing-satellite-1.jpeg
-- fixing-satellite-2.jpeg
-- flag-police-car.jpeg
-- funnel-cake.jpeg
-- glass-buildings-walk-way.jpeg
-- god-dancing-statue.jpeg
-- god-sitting-hand-on-kneww.jpeg
-- god-sitting-hand-out.jpeg
-- god-talking-statue.jpeg
-- guggenheim-outside.jpeg
-- house-freeway-behind.jpeg
-- hub.jpeg
-- ice-skating.jpeg
-- japanese-carrying-over-bridge.jpeg
-- japanese-cherry-tree.jpeg
-- japanese-little-boats.jpeg
-- japanese-man-sitting.jpeg
-- japanese-mountains.jpeg
-- jarritos.jpeg
-- justic-for-alan-blueford.jpeg
-- kin-boulder-last-before.jpeg
-- kin-flag.jpeg
-- kin-kaia-tea.jpeg
-- kin-pet-area.jpeg
-- kin-poppy-bench.jpeg
-- koa-journey.jpeg
-- lane-1-2-3.jpeg
-- lion-mouth-open.jpeg
-- looking-toward-sky.jpeg
-- loom.jpeg
-- met-stage.jpeg
-- metlife-bulding-siide.jpeg
-- new-and-old-building.jpeg
-- nordstoms.jpeg
-- ny-56th-foggy.jpeg
-- nyc-57th-1.jpeg
-- nyc-57th-3.jpeg
-- nyc-firdst-day.jpeg
-- nyc-from-brooklyn-1.jpeg
-- nyc-from-lex.jpeg
-- nyc-people-marketplace.jpeg
-- nyc-public-library.jpeg
-- nyc-skyline-from-hudson.jpeg
-- nyc-streeet-dark-steam-1.jpeg
-- nyc-streeet-dark-steam-2.jpeg
-- old-bearded-man-thinking.jpeg
-- old-building-sky.jpeg
-- old-church-police-car.jpeg
-- old-cool-building.jpeg
-- old-docks-1.jpeg
-- old-docks-tree.jpeg
-- old-downtown-store-front.jpeg
-- old-japanese-man-1.jpeg
-- old-japanese-man-2.jpeg
-- old-japanese-man-3.jpeg
-- old-japanese-man-eyebrows.jpeg
-- old-phone-on-handle.jpeg
-- old-small-town-buildings.jpeg
-- old-tall-building-fire-escape.jpeg
-- old-tools.jpeg
-- old-tower-buildings-light-nyc.jpeg
-- only-walk-zone.jpeg
-- please-do-not-feed-the-pigeons.jpeg
-- poppy-nyc-skyline.jpeg
-- poppy-trash-can.jpeg
-- power-station-new-building.jpeg
-- reparations.jpeg
-- rockefeller-christmas-tree.jpeg
-- ron-carter-bass-2.jpeg
-- ron-carter-bass.jpeg
-- rv-rest-area-bench.jpeg
-- sailboat-under-bay-bridge.jpeg
-- sailboat-under-bridge.jpeg
-- san-francisco-bay-bridge.jpeg
-- san-francisco-downtown-bay-bridge.jpeg
-- security-sign-surveillance.jpeg
-- sheep-hay.jpeg
-- sin-will-find-you.jpeg
-- skyscraper-construction-crane-2.jpeg
-- skyscraper-construction-crane-3.jpeg
-- skyscraper-construction-crane-nbc-2.jpeg
-- skyscraper-construction-crane-nbc.jpeg
-- skyscraper-construction-crane.jpeg
-- spacce-burger-fence.jpeg
-- streaming-fountain-1.jpeg
-- streaming-fountain-2.jpeg
-- streaming-fountain-3.jpeg
-- streaming-fountain-5.jpeg
-- subway-59th-stairs.jpeg
-- subway-crowd-average-day.jpeg
-- subway-floor-average-day.jpeg
-- subway-platform.jpeg
-- subway-train-110th.jpeg
-- subway-walk-into.jpeg
-- subway-wife.jpeg
-- tea-timer.jpeg
-- the-empress-front.jpeg
-- the-roxy.jpeg
-- thinking-man-5.jpeg
-- three-building-east-side.jpeg
-- three-little-buildings.jpeg
-- tiffany-lamp-1.jpeg
-- tiffany-lamp-2.jpeg
-- tiffany-lamp-3.jpeg
-- tiffany-lamp-4.jpeg
-- time-square-tables.jpeg
-- times-square-corner.jpeg
-- train-car-budweiser.jpeg
-- train-car-heinz.jpeg
-- train-car-pabst.jpeg
-- train-engine.jpeg
-- train-hand-car.jpeg
-- train-tunnel-1930.jpeg
-- treasure-island-bay-bridge.jpeg
-- tree-graffitti.jpeg
-- underpass-top-dark.jpeg
-- us-flag-tree.jpeg
-- uss-intrepid.jpeg
-- abandoned-church-far.jpg
-- adam-smith-edinburgh.jpg
-- alamada-county-building.jpeg
-- alan-turing-side.jpg
-- alpine-inn.jpg
-- amsterdam-water.jpg
-- angela-art.jpeg
-- apple-2-e-close.jpg
-- apple-2-e.jpg
-- apple-conference.jpg
-- armor-light-behind.jpg
-- astoria-bridge-columbia.jpg
-- atlantic-avenue.jpg
-- audrey-top-mountain.jpeg
-- axe-woodpile-cop.jpg
-- baggage-department.jpg
-- baptist-church.jpeg
-- barack-obama.jpg
-- barbed-wire.jpg
-- baseball-field.jpg
-- basket-containers.jpg
-- bay-bridge-pillar.jpg
-- beach-sun-bay.jpeg
-- beach-walking-dog.jpeg
-- beach-water-spain.jpg
-- bell-in-window.jpg
-- bench-forest.jpeg
-- berlin-wall-down.jpg
-- berlin-wall-face.jpg
-- berline-wall-old-building.jpg
-- big-antennae-tower.jpg
-- big-crow-statue.jpg
-- bird-catching-bug.jpg
-- blechlety-old-racks.jpg
-- bletchley-computer-racks.jpg
-- bletchley-computer.jpg
-- bletchley-racks.jpg
-- bletchly-bombay.jpg
-- boats-waterfront-bristol.jpg
-- border-crossing-through-fence-2.jpg
-- border-crossing-through-fence.jpg
-- border-down-the-fence-line.jpg
-- border-fence-down-the-line-2.jpg
-- border-fence-down-the-line.jpg
-- border-watching-cars.jpg
-- bridge-over-columbia.jpg
-- bridge-road-old.jpg
-- bright-light-bulb.jpg
-- bristol-street-up.jpg
-- british-black-cab-street.jpg
-- british-city-bend.jpg
-- british-guards-marching.jpg
-- british-sgtreet-phone-booth.jpg
-- building-crane-concreete.jpeg
-- building-hanger.jpeg
-- building-old-simple.jpeg
-- building-shadows-sun.jpg
-- burned-van-back.jpeg
-- burned-van-side.jpeg
-- bus-station.jpeg
-- butterfly-on-flower.jpg
-- butterfly-purple-flower.jpg
-- c-line-nyc.jpg
-- california-coastal-trail.jpeg
-- california-hotel.jpeg
-- camel-in-desert.jpg
-- canal-ships-bridge.jpg
-- cannon_36556797762_o.jpg
-- cannons-with-ropes.jpg
-- capital_36728420065_o.jpg
-- capital_36728421355_o.jpg
-- capital-blue-sky.jpg
-- capital-records-building.jpg
-- capital-white-guy.jpg
-- cargo-ship_36587814601_o.jpg
-- cargo-ship-fog.jpg
-- castle-cannon-tree.jpg
-- castle-clouds-green-lawn.jpg
-- castle-front-shot.jpg
-- castle-on-hill.jpg
-- castle-on-the-hill-windows.jpg
-- castle-window_35928999923_o.jpg
-- castle-wires.jpg
-- cat-dozer.jpeg
-- cemetery_35902984304_o.jpg
-- cemetery_36690406946_o.jpg
-- checkpoint-charlie-mcdonalds.jpg
-- checkpoint-charlie.jpg
-- chess-in-the-park-with-pigeons.jpg
-- chinese-stores.jpeg
-- christ-cross-chalice.jpg
-- christ-on-cross.jpg
-- church-oakland.jpg
-- city-building-trees-sky.jpg
-- city-clouds-building-crowded.jpg
-- city-clouds-view.jpg
-- city-clouds-waterfront.jpg
-- city-down-street.jpg
-- city-fog-sun.jpeg
-- city-skyline-bright.jpg
-- city-skyline-grey.jpg
-- city-vancouver-clouds.jpg
-- city-waterfront-path.jpg
-- cloks-many-of-them.jpg
-- close-to-all-remote-aircraft.jpg
-- cloud-red.jpg
-- clowns_35893926114_o.jpg
-- colonial-solider-pointing.jpg
-- commodore-vic-20.jpg
-- concert-hall-bright-lights.jpg
-- congtrols-old-ship.jpg
-- construction-crane-city.jpg
-- construction-zone-claw.jpg
-- container-several-colors-grey.jpg
-- container-ship-in-seattle.jpg
-- containers-stack.jpeg
-- containers-white.jpg
-- covid-tests.jpeg
-- craftmen-home.jpg
-- crank-window.jpg
-- creepy-doll-looking-down.jpg
-- cross-against-trees.jpg
-- cross-clouds.jpg
-- cross-dark-moon.jpg
-- cross-rock-woods.jpeg
-- crow-in-sand.jpg
-- crow-stailess-steal.jpg
-- crow-stkump-waterfront.jpg
-- cruise-ship-c-175.jpg
-- cruise-ship-clouds.jpg
-- cruise-ship-shore-log.jpg
-- crypto-wheels-old-compute-bletchley.jpg
-- d-train.jpg
-- dandelions-in-rocks.jpg
-- dark-city-buildings.jpg
-- dark-city-street.jpg
-- dark-hallway-in-hotel.jpg
-- dark-tower-of-london.jpg
-- desert-mining.jpeg
-- desert-road-mountains.jpg
-- desert-sovarampi.jpeg
-- desktop-laptop-chair.jpg
-- destruction-seattle-viaduct.jpg
-- dial-old-computer.jpg
-- dinosaur-stepping-on-lego.jpg
-- dinosaur-walking-desert.jpg
-- do-not-enter-sign.jpg
-- do-not-turn-trolley-car.jpg
-- docks-big-cosco-ship.jpg
-- docks-far-way.jpeg
-- docks-in-itealy-tower.jpg
-- docks-ships-cranes.jpg
-- docks-water-front-ships-containers.jpg
-- docks-water-front.jpg
-- docs-cranes-waterfront.jpg
-- down-side-street-shop-sign.jpg
-- down-the-line-harlem.jpg
-- downtow-cool-car.jpg
-- downtown-125thstreet.jpg
-- downtown-berlin-crowds.jpg
-- downtown-dufur.jpg
-- downtown-la_36349151230_o.jpg
-- downtown-light-posts.jpg
-- downtown-sidewalk-washington.jpg
-- downtown-street-crosswalk.jpg
-- dragon-desert-looking.jpg
-- dragon-shadow-sun-2.jpg
-- dragon-shadow-sun.jpg
-- dragon-turning-head.jpg
-- dried-flowers-snow-2.jpeg
-- dried-flowers-snow.jpeg
-- drone-boats.jpeg
-- dSC_0037.jpg
-- DSC_0041.jpg
-- eagle-soaring.jpg
-- eagle-spread-tree-2.jpg
-- eagle-spread-tree.jpg
-- early-computer-bletchley.jpg
-- edgefield-2.jpg
-- eeob-white-house.jpg
-- effiel-tower-paris.jpg
-- egret-water-silhouette.jpeg
-- eiphel-tower-paris-brown.jpg
-- electric-tower-sun-behind.jpg
-- ellis-island-flags.jpg
-- ellis-island-nyc.jpg
-- ellis-island-windows.jpg
-- escalator-close-in.jpg
-- eye-mosaic.jpg
-- f5-tow3ers.jpg
-- face-eyes-open-statue.jpg
-- face-eyes-shut-statue.jpg
-- face-mosaic.jpg
-- factory-road.jpg
-- fat-old-pigeon-on-fence.jpg
-- fire-hydrant-water.jpg
-- fire-truck-pulling-out-of-station.jpg
-- firetruck-bright-sun.jpg
-- fishing-boat-lake.jpg
-- fishing-docks-lake.jpg
-- fishing-ship-in-docks.jpg
-- fishing-vessel.jpg
-- fixing-cross.jpg
-- flower-blue-close.jpeg
-- flower-red-close.jpeg
-- flower-white-close.jpeg
-- flower-white-purple-close.jpeg
-- flowers-diamon-creek.jpg
-- for-rent-apartment.jpg
-- fort-ross-cannons.jpeg
-- fox-oakland-day.jpeg
-- fox-oakland-out-front.jpeg
-- fox-oakland-up.jpeg
-- freeway-carss-overpass.jpg
-- freeway-gree-building.jpeg
-- freeway-homeless.jpeg
-- freeway-interchange-fence.jpeg
-- freeway-interchange-park.jpeg
-- freeway-neighborhood.jpeg
-- freway-interchange-city.jpeg
-- frosty-downtown-lights.jpg
-- full-stack-woodpile.jpg
-- gargoyle-paris-2.jpg
-- gargoyle-paris-3.jpg
-- gargoyle-paris.jpg
-- gatew-into-field.jpg
-- gauge-holding.jpg
-- gauge-on-aircraft-carrier.jpg
-- gear-rocks.jpg
-- gear-wood.jpg
-- gears-pipes-plumbing.jpg
-- geese-on-grass.jpg
-- girl-reading-bench-garden.jpg
-- girl-reading-garden-flowers.jpg
-- glass-ball-downtown.jpg
-- going-to-dowtown-los-angeles.jpg
-- golden-gate-bridge-other-side.jpeg
-- golden-gate-night.jpeg
-- google-front-of-business.jpg
-- graffitti-red-hat-man.jpg
-- grafitti-crown-guy.jpg
-- grafitti-woman-bangs.jpg
-- grain-ship-docking-grass.jpg
-- grain-ship-docs.jpg
-- green-typewriter.jpg
-- gypsy-house-pen.jpg
-- gypsy-house-with-pen.jpg
-- hallelujah-junction.jpeg
-- hallway-long-hospital.jpg
-- hallway-mirrors-hotel.jpg
-- hawk-light.jpeg
-- heron-log.jpg
-- heron-logs.jpg
-- hiding-monster-statue.jpg
-- high-speed-train-station-france.jpg
-- high-speed-train-station.jpg
-- highway-granary_36331800650_o.jpg
-- highway-granary-truck_36557728122_o.jpg
-- highway-line.jpeg
-- hollywood-sign-hills.jpg
-- hollywood-sign-with-tower.jpg
-- homeless-tents.jpeg
-- horrified-statue.jpg
-- horse-new-orleans.jpg
-- hospital-old-hill-trees.jpeg
-- hospital-old.jpeg
-- hotel-down-sidewalk.jpg
-- house-abandoned-fence.jpeg
-- howling-monkey.jpg
-- imperial-inn.jpg
-- industrial-fans.jpeg
-- iron-horse-close.jpeg
-- iron-horse-side.jpeg
-- japanese-garden-tree.jpg
-- jerry-art.jpeg
-- jesus-in-old-rock-church.jpg
-- jesus-on-bench.jpg
-- jets-in-formation.jpg
-- jets-over-city.jpg
-- john-kehoes.jpg
-- kin-back-of-van.jpg
-- kin-chesapeake.jpg
-- kin-family.jpg
-- kin-no-pictures.jpg
-- kin-poppy-car.jpeg
-- kin-speaking-hat-mic.jpg
-- kin-working-1.jpeg
-- kin-working-2.jpeg
-- kin-working-3.jpeg
-- kin-working-4.jpeg
-- kin-working-5.jpeg
-- kin-working-6.jpeg
-- king-tut-museum.jpg
-- Kins-Album-Mom-1_0016.jpg
-- Kins-Album-Mom-2_0010.jpg
-- Kins-Album-Mom-2.jpg
-- knob-dial-old.jpg
-- lane-shif-ahead.jpg
-- light-rail-yellow-calif.jpg
-- lighthouse_36679514616_o.jpg
-- lincoln-memorial_36690528196_o.jpg
-- lincoln-sitting-front.jpg
-- london-underground-covent-garden.jpg
-- looking-down-over-city.jpg
-- los-angeles-downtown-from-afar.jpg
-- marketplace-people.jpg
-- markets-amsterdam.jpeg
-- mayan-statue-red.jpg
-- memorial-to-the-jews-in-berlin-2.jpg
-- mexico-only.jpg
-- miami-beach-tower-city.jpg
-- miami-beach-walkway.jpg
-- mining-mountains-2.jpeg
-- mining-mountains.jpeg
-- mo-business-center.jpeg
-- model-manneqin.jpg
-- mushroom-bark.jpeg
-- nationwide.jpeg
-- new-building-start.jpeg
-- new-york-city-skyline_36655833162_o.jpg
-- new-york-high-up.jpg
-- nyc-coming-in-on-train.jpg
-- nyc-intersection.jpg
-- nyc-skyline-from-ferry.jpg
-- nyc-skyline-rain.jpg
-- nyc-streets-laundromat.jpg
-- nyc-streets.jpg
-- nyc-subway-train-125th.jpg
-- oakland-city-hall-tree.jpeg
-- oakland-clock.jpeg
-- oakland-downtown.jpeg
-- oakland-lake-merritt.jpeg
-- oakland-oak-tree.jpeg
-- oakland-thin-building.jpeg
-- old-barn-falling-over.jpg
-- old-barn-in-hills.jpg
-- old-ben-clouds.jpg
-- old-black-car.jpg
-- old-books-rack.jpg
-- old-broken-piano-street.jpg
-- old-building-and-cars_36680898846_o.jpg
-- old-building-barcelona-waterfront.jpg
-- old-building-fence.jpg
-- old-building-paris.jpg
-- old-building-phoenix.jpg
-- old-building-seattle-clouds.jpg
-- old-car-model-t.jpg
-- old-chair-hopsital.jpg
-- old-cherry-close.jpeg
-- old-cherry-tree.jpeg
-- old-church_36588495271_o.jpg
-- old-church-in-field.jpg
-- old-church-in-sierras.jpeg
-- old-computer-bletchley-crypto.jpg
-- old-computer-box.jpg
-- old-comuter-wheels-crypto.jpg
-- old-crypto-wheels.jpg
-- old-dark-bridge.jpg
-- old-foggy-tree-rocks.jpeg
-- old-foggy-trees.jpeg
-- old-gas-station_35891228584_o.jpg
-- old-gas-station_36588462091_o.jpg
-- old-gas-station_36680991076_o.jpg
-- old-house_36681740046_o.jpg
-- old-ibm-computer.jpg
-- old-jeep-green.jpg
-- old-mail-slot.jpeg
-- old-man-crossing-border.jpg
-- old-pay-phone.jpg
-- old-phat-face.jpg
-- old-piano-paris-hospital.jpg
-- old-piano-playing-hospital.jpg
-- old-remington-typewriter.jpg
-- old-ship-waterfront-harbor.jpg
-- old-tank-british.jpg
-- old-time-cash-register.jpg
-- old-town-bristol.jpg
-- old-train-on-tracks.jpg
-- old-trolley-car-sf.jpg
-- orchard-almonds-2.jpeg
-- orchard-almonds.jpeg
-- over-the-town.jpg
-- oxford-old-building.jpg
-- oxoford-circus-station.jpg
-- p9180054.jpg
-- palace-water-fountain.jpg
-- paris-bookstand.jpg
-- parking-ay.jpeg
-- parking-meter-close.jpeg
-- parking-open-closed.jpeg
-- path-in-woods-green-lush.jpg
-- pelican-flying-low.jpg
-- people-eating-canal.jpg
-- people-walking-down-street.jpg
-- piano-in-street-good.jpg
-- pier-fishing-boat.jpeg
-- pier-long-foggy.jpeg
-- pier-under.jpeg
-- pier-waves.jpeg
-- pigeon_35927783393_o.jpg
-- pigeons-do-not-feed-them.jpg
-- pigeons-on-ledge.jpg
-- pink-elephant-car-wash.jpg
-- plane-wing.jpeg
-- playing-guitar.jpg
-- please-do-not-feed-the-pigeon.jpg
-- plumbing-water-agriculture.jpeg
-- pong.jpg
-- poppy-close-up.jpeg
-- poppy-flower-sidewalk.jpeg
-- poppy-running.jpeg
-- public-market-farmers-market.jpg
-- public-market-fish.jpg
-- radio-antanae.jpeg
-- radio-antannae-building.jpeg
-- rail-crossing.jpg
-- railroad-tracks-rocks.jpeg
-- raven-on-fence.jpg
-- razor-wire-buildings.jpg
-- razor-wire-weeds-2.jpg
-- razor-wire-weeds.jpg
-- red-chairs-hallway.jpg
-- red-roses-garden.jpg
-- red-typwriter.jpg
-- robot-sign-helper.jpg
-- rocking-chair-on-porch_36332220150_o.jpg
-- roman-marcus-looking-down.jpg
-- row-houses-england.jpg
-- sailboat-in-front-of-housing.jpg
-- sailboat-in-harbor.jpg
-- san-diego-city.jpeg
-- san-francisco-across-runway.jpeg
-- san-francisco-fence.jpeg
-- san-francisco-from-salesforce-west.jpg
-- san-francisco-lights-skyline.jpg
-- san-francisco-salesforce-bay-bridge.jpg
-- san-francisco-skyline-smoke.jpg
-- san-francisco-skyline.jpg
-- san-francisco-wharf-clock.jpg
-- san-pedro-light-cities.jpg
-- satellite-dish-pointing-upwards.jpg
-- satellite-dishes-pointing-up.jpg
-- satellite-with-sunset.jpg
-- screaming-face-statue.jpg
-- seatlle-shipping-mountain.jpg
-- seattle-looking-north.jpg
-- seattle-public-market_36725946605_o.jpg
-- seattle-shipping-people-walking.jpg
-- seattle-waterfront-ferris-wheel.jpg
-- senior-citizen-facility.jpeg
-- server-rack-1.jpg
-- server-rack-2.jpg
-- sheep-grazing-grass-green.jpg
-- ship-bird-foreground.jpg
-- ship-grain-docking.jpg
-- shipping-container-ship-sunny-day.jpg
-- shipping-container-yard-police-boat.jpg
-- shipping-containers-cranes.jpeg
-- shipping-docks_36331347010_o.jpg
-- shipping-docs-cranes.jpg
-- sierra-town-corner.jpeg
-- sierraville-post-office.jpeg
-- single-headstone.jpg
-- skulls-catacomb-up-close.jpg
-- skulls-catacombs.jpg
-- skyline-standing.jpg
-- skyline-thinking.jpg
-- skyscraper-dark.jpg
-- small-lighthouse_36556509232_o.jpg
-- small-town-street-2.jpg
-- small-town-street.jpg
-- smiling-face-wall.jpeg
-- snow-machine-1.jpeg
-- social-distancing-is-mandatory.jpeg
-- soliders-fighting-statue.jpg
-- stainless-tree-clouds.jpg
-- stainless-tree-sun-ray.jpg
-- stairs-down-blue-green.jpg
-- stairs-up-subway.jpg
-- statue-architecture-holding.jpg
-- statue-capital-cannon.jpg
-- statue-face-looking-up.jpg
-- statue-face-spikes.jpg
-- statue-facing-scrunched.jpg
-- statue-green-eyes.jpg
-- statue-liberty-clouds-front-far.jpg
-- statue-of-liberty_35910144944_o.jpg
-- statue-of-liberty_36744433525_o.jpg
-- statue-of-liberty-back.jpg
-- statue-of-liberty-front-bright.jpg
-- statue-playing-instrument.jpg
-- statue-preaching.jpg
-- statue-staring-down-to-right.jpg
-- statue-supreme-court.jpg
-- statue-thinking.jpg
-- statue-with-shield-dark.jpg
-- statue-woman.jpeg
-- steam-engine-iceland.jpg
-- stone-door.jpeg
-- stop-empty.jpeg
-- storefront-signage.jpg
-- stork-club.jpeg
-- street-car-san-francisco.jpg
-- sub-way-bart-going-by.jpg
-- subway-brooklyn-station.jpg
-- subway-c-line-nyc.jpg
-- subway-train-125th.jpg
-- subway-underground_35904617894_o.jpg
-- subway-underground_36599191851_o.jpg
-- sundial.jpeg
-- sunflower-big-green.jpg
-- sunset-seattle.jpg
-- supreme-court_36341562380_o.jpg
-- supreme-court-columns.jpg
-- surveillance-3-camers.jpg
-- surveillance-cameras_36343058400_o.jpg
-- surveillance-cameras_36569244062_o.jpg
-- surveillance-over-the-city.jpg
-- sydney-opera-house.jpg
-- target-new.zip
-- thinking-man-statue.jpg
-- through-berlin-wall.jpg
-- times-square-up-road.jpg
-- tower-trees-sky.jpg
-- trail-bridge-walking.jpg
-- trail-in-the-woods.jpg
-- train--car-orange.jpeg
-- train-car_35892468014_o.jpg
-- train-coming-up-tracks.jpg
-- train-france-high-speed-in-station.jpg
-- train-in-nyc-long.jpg
-- train-in-station-two-coming.jpg
-- train-nyc-125th.jpg
-- train-small-town-station.jpg
-- train-station-cloud.jpg
-- train-station-old.jpeg
-- train-station-statue.jpg
-- train-subway-125th-down-the-line.jpg
-- train-switch.jpg
-- train-tracks-bending.jpg
-- train-tracks-seattle-waterfront.jpg
-- tree-rock-view-city.jpeg
-- trees-killer.jpeg
-- tribume-downtown.jpeg
-- tribune-top.jpeg
-- tug-boat-ties.jpg
-- turing-front-view.jpg
-- two-smoke-stacks.jpg
-- two-statues-rock.jpg
-- underground-subway_35929749683_o.jpg
-- underground-subway_36342747010_o.jpg
-- us-flag-close-up.jpg
-- vancouver-waterfront_36556357642_o.jpg
-- vending-machines.jpeg
-- viewer-close.jpg
-- volkswagon-microbus-windows.jpg
-- waiting-for-subway.jpg
-- walk-through-garden-tunnel.jpg
-- walking-sand-dunes.jpg
-- walking-water-front-sun.jpg
-- washington-monument-afar.jpg
-- water-canal-annaci.jpg
-- water-fountain-many-shooting.jpg
-- water-splashing-in-rocks.jpg
-- water-taxi-canada.jpg
-- waterfall-iceland.jpg
-- waterfall-southern-oregon.jpg
-- waterfront-in-italy-mist.jpg
-- waterpump-old-time.jpg
-- watson-headstone.jpg
-- weeds-sidewalk.jpeg
-- western-union-telegraph-and-cable.jpeg
-- whie-house-close-up-2.jpg
-- white-face-freaky.jpg
-- white-house-close-up.jpg
-- white-house-kin.jpg
-- white-house-lawn-view.jpg
-- white-house-press-room-flag.jpg
-- white-house-west-wing-view.jpg
-- who-cares.jpg
-- wild-gease-in-the-water.jpg
-- window-mountain.jpg
-- wooden-path.jpeg
-- working-on-railroad-1.jpg
-- working-on-railroad-2.jpg
-- working-ship.jpg
-- working-waterfront-2.jpg
-- working-waterfront.jpg
-- wwdc-2011---moscone---san-francisco_5809419816_o.jpg
-- wysteria-walk.jpeg
-- yarder-back.jpeg
-- yarder-black.jpeg
-- yarder.jpeg
-- yello-taxi-nyc.jpg
-- yellow-roses-garden.jpg
-- yellow-tree-car.jpeg
-- yellow-tree-in-rocks.jpg
+- name: an-me-store-front.jpeg
+  batch: 2
+- name: angry-king-crown.jpeg
+  batch: 2
+- name: angry-man-head.jpeg
+  batch: 2
+- name: arrow-in-ground.jpeg
+  batch: 2
+- name: audrey-nyc-skyline.jpeg
+  batch: 2
+- name: autom-leaves-street.jpeg
+  batch: 2
+- name: bagel-poppy-plain-boil.jpeg
+  batch: 2
+- name: bagels-plain-boiling.jpeg
+  batch: 2
+- name: banana-subway-stairs.jpeg
+  batch: 2
+- name: bay-bridge-second-half.jpeg
+  batch: 2
+- name: big-seven.jpeg
+  batch: 2
+- name: big-zero.jpeg
+  batch: 2
+- name: bike-path-all-the-way.jpeg
+  batch: 2
+- name: blue-hhill-fair.jpeg
+  batch: 2
+- name: boat-coming-through-bridge-1.jpeg
+  batch: 2
+- name: boat-coming-through-bridge-2.jpeg
+  batch: 2
+- name: brooklyn-bridge-traffic.jpeg
+  batch: 2
+- name: building-art-construction.jpeg
+  batch: 2
+- name: building-wet-day.jpeg
+  batch: 2
+- name: cactus-nyc-skyline.jpeg
+  batch: 2
+- name: cell-tower-close-2.jpeg
+  batch: 2
+- name: cell-tower-close.jpeg
+  batch: 2
+- name: cell-tower-overload-up-close.jpeg
+  batch: 2
+- name: cell-tower-overloaded.jpeg
+  batch: 2
+- name: cell-tower-satellite-dishes.jpeg
+  batch: 2
+- name: central-park-bridge-light.jpeg
+  batch: 2
+- name: central-park-bridge-morning.jpeg
+  batch: 2
+- name: central-park-leaves-2.jpeg
+  batch: 2
+- name: central-park-leaves.jpeg
+  batch: 2
+- name: central-park-water.jpeg
+  batch: 2
+- name: central-park-winter-walkway.jpeg
+  batch: 2
+- name: classroom-computers.jpeg
+  batch: 2
+- name: clock-fancy.jpeg
+  batch: 2
+- name: computer-setup-1.jpeg
+  batch: 2
+- name: computer-setup-2.jpeg
+  batch: 2
+- name: confused-man-head.jpeg
+  batch: 2
+- name: corner-restaurant.jpeg
+  batch: 2
+- name: corner-shirt-waist-factory.jpeg
+  batch: 2
+- name: cotton-candy.jpeg
+  batch: 2
+- name: crane-sunrise-buildings.jpeg
+  batch: 2
+- name: demon-art.jpeg
+  batch: 2
+- name: demon-face.jpeg
+  batch: 2
+- name: docks-oakland-1.jpeg
+  batch: 2
+- name: docks-oakland-2.jpeg
+  batch: 2
+- name: docks-oakland-3.jpeg
+  batch: 2
+- name: docks-oakland-4.jpeg
+  batch: 2
+- name: docks-oakland-5.jpeg
+  batch: 2
+- name: docks-oakland-6.jpeg
+  batch: 2
+- name: downtown-city-lights.jpeg
+  batch: 2
+- name: dual-security-cameras.jpeg
+  batch: 2
+- name: emergency-third-rail-power-trip.jpeg
+  batch: 2
+- name: energy-tower-1.jpeg
+  batch: 2
+- name: energy-tower-2.jpeg
+  batch: 2
+- name: fancy-man-1.jpeg
+  batch: 2
+- name: feminist-pioneers.jpeg
+  batch: 2
+- name: ferris-wheel-fair.jpeg
+  batch: 2
+- name: fixing-satellite-1.jpeg
+  batch: 2
+- name: fixing-satellite-2.jpeg
+  batch: 2
+- name: flag-police-car.jpeg
+  batch: 2
+- name: funnel-cake.jpeg
+  batch: 2
+- name: glass-buildings-walk-way.jpeg
+  batch: 2
+- name: god-dancing-statue.jpeg
+  batch: 2
+- name: god-sitting-hand-on-kneww.jpeg
+  batch: 2
+- name: god-sitting-hand-out.jpeg
+  batch: 2
+- name: god-talking-statue.jpeg
+  batch: 2
+- name: guggenheim-outside.jpeg
+  batch: 2
+- name: house-freeway-behind.jpeg
+  batch: 2
+- name: hub.jpeg
+  batch: 2
+- name: ice-skating.jpeg
+  batch: 2
+- name: japanese-carrying-over-bridge.jpeg
+  batch: 2
+- name: japanese-cherry-tree.jpeg
+  batch: 2
+- name: japanese-little-boats.jpeg
+  batch: 2
+- name: japanese-man-sitting.jpeg
+  batch: 2
+- name: japanese-mountains.jpeg
+  batch: 2
+- name: jarritos.jpeg
+  batch: 2
+- name: justic-for-alan-blueford.jpeg
+  batch: 2
+- name: kin-boulder-last-before.jpeg
+  batch: 2
+- name: kin-flag.jpeg
+  batch: 2
+- name: kin-kaia-tea.jpeg
+  batch: 2
+- name: kin-pet-area.jpeg
+  batch: 2
+- name: kin-poppy-bench.jpeg
+  batch: 2
+- name: koa-journey.jpeg
+  batch: 2
+- name: lane-1-2-3.jpeg
+  batch: 2
+- name: lion-mouth-open.jpeg
+  batch: 2
+- name: looking-toward-sky.jpeg
+  batch: 2
+- name: loom.jpeg
+  batch: 2
+- name: met-stage.jpeg
+  batch: 2
+- name: metlife-bulding-siide.jpeg
+  batch: 2
+- name: new-and-old-building.jpeg
+  batch: 2
+- name: nordstoms.jpeg
+  batch: 2
+- name: ny-56th-foggy.jpeg
+  batch: 2
+- name: nyc-57th-1.jpeg
+  batch: 2
+- name: nyc-57th-3.jpeg
+  batch: 2
+- name: nyc-firdst-day.jpeg
+  batch: 2
+- name: nyc-from-brooklyn-1.jpeg
+  batch: 2
+- name: nyc-from-lex.jpeg
+  batch: 2
+- name: nyc-people-marketplace.jpeg
+  batch: 2
+- name: nyc-public-library.jpeg
+  batch: 2
+- name: nyc-skyline-from-hudson.jpeg
+  batch: 2
+- name: nyc-streeet-dark-steam-1.jpeg
+  batch: 2
+- name: nyc-streeet-dark-steam-2.jpeg
+  batch: 2
+- name: old-bearded-man-thinking.jpeg
+  batch: 2
+- name: old-building-sky.jpeg
+  batch: 2
+- name: old-church-police-car.jpeg
+  batch: 2
+- name: old-cool-building.jpeg
+  batch: 2
+- name: old-docks-1.jpeg
+  batch: 2
+- name: old-docks-tree.jpeg
+  batch: 2
+- name: old-downtown-store-front.jpeg
+  batch: 2
+- name: old-japanese-man-1.jpeg
+  batch: 2
+- name: old-japanese-man-2.jpeg
+  batch: 2
+- name: old-japanese-man-3.jpeg
+  batch: 2
+- name: old-japanese-man-eyebrows.jpeg
+  batch: 2
+- name: old-phone-on-handle.jpeg
+  batch: 2
+- name: old-small-town-buildings.jpeg
+  batch: 2
+- name: old-tall-building-fire-escape.jpeg
+  batch: 2
+- name: old-tools.jpeg
+  batch: 2
+- name: old-tower-buildings-light-nyc.jpeg
+  batch: 2
+- name: only-walk-zone.jpeg
+  batch: 2
+- name: please-do-not-feed-the-pigeons.jpeg
+  batch: 2
+- name: poppy-nyc-skyline.jpeg
+  batch: 2
+- name: poppy-trash-can.jpeg
+  batch: 2
+- name: power-station-new-building.jpeg
+  batch: 2
+- name: reparations.jpeg
+  batch: 2
+- name: rockefeller-christmas-tree.jpeg
+  batch: 2
+- name: ron-carter-bass-2.jpeg
+  batch: 2
+- name: ron-carter-bass.jpeg
+  batch: 2
+- name: rv-rest-area-bench.jpeg
+  batch: 2
+- name: sailboat-under-bay-bridge.jpeg
+  batch: 2
+- name: sailboat-under-bridge.jpeg
+  batch: 2
+- name: san-francisco-bay-bridge.jpeg
+  batch: 2
+- name: san-francisco-downtown-bay-bridge.jpeg
+  batch: 2
+- name: security-sign-surveillance.jpeg
+  batch: 2
+- name: sheep-hay.jpeg
+  batch: 2
+- name: sin-will-find-you.jpeg
+  batch: 2
+- name: skyscraper-construction-crane-2.jpeg
+  batch: 2
+- name: skyscraper-construction-crane-3.jpeg
+  batch: 2
+- name: skyscraper-construction-crane-nbc-2.jpeg
+  batch: 2
+- name: skyscraper-construction-crane-nbc.jpeg
+  batch: 2
+- name: skyscraper-construction-crane.jpeg
+  batch: 2
+- name: spacce-burger-fence.jpeg
+  batch: 2
+- name: streaming-fountain-1.jpeg
+  batch: 2
+- name: streaming-fountain-2.jpeg
+  batch: 2
+- name: streaming-fountain-3.jpeg
+  batch: 2
+- name: streaming-fountain-5.jpeg
+  batch: 2
+- name: subway-59th-stairs.jpeg
+  batch: 2
+- name: subway-crowd-average-day.jpeg
+  batch: 2
+- name: subway-floor-average-day.jpeg
+  batch: 2
+- name: subway-platform.jpeg
+  batch: 2
+- name: subway-train-110th.jpeg
+  batch: 2
+- name: subway-walk-into.jpeg
+  batch: 2
+- name: subway-wife.jpeg
+  batch: 2
+- name: tea-timer.jpeg
+  batch: 2
+- name: the-empress-front.jpeg
+  batch: 2
+- name: the-roxy.jpeg
+  batch: 2
+- name: thinking-man-5.jpeg
+  batch: 2
+- name: three-building-east-side.jpeg
+  batch: 2
+- name: three-little-buildings.jpeg
+  batch: 2
+- name: tiffany-lamp-1.jpeg
+  batch: 2
+- name: tiffany-lamp-2.jpeg
+  batch: 2
+- name: tiffany-lamp-3.jpeg
+  batch: 2
+- name: tiffany-lamp-4.jpeg
+  batch: 2
+- name: time-square-tables.jpeg
+  batch: 2
+- name: times-square-corner.jpeg
+  batch: 2
+- name: train-car-budweiser.jpeg
+  batch: 2
+- name: train-car-heinz.jpeg
+  batch: 2
+- name: train-car-pabst.jpeg
+  batch: 2
+- name: train-engine.jpeg
+  batch: 2
+- name: train-hand-car.jpeg
+  batch: 2
+- name: train-tunnel-1930.jpeg
+  batch: 2
+- name: treasure-island-bay-bridge.jpeg
+  batch: 2
+- name: tree-graffitti.jpeg
+  batch: 2
+- name: underpass-top-dark.jpeg
+  batch: 2
+- name: us-flag-tree.jpeg
+  batch: 2
+- name: uss-intrepid.jpeg
+  batch: 2
+- name: abandoned-church-far.jpg
+  batch: 1
+- name: adam-smith-edinburgh.jpg
+  batch: 1
+- name: alamada-county-building.jpeg
+  batch: 1
+- name: alan-turing-side.jpg
+  batch: 1
+- name: alpine-inn.jpg
+  batch: 1
+- name: amsterdam-water.jpg
+  batch: 1
+- name: angela-art.jpeg
+  batch: 1
+- name: apple-2-e-close.jpg
+  batch: 1
+- name: apple-2-e.jpg
+  batch: 1
+- name: apple-conference.jpg
+  batch: 1
+- name: armor-light-behind.jpg
+  batch: 1
+- name: astoria-bridge-columbia.jpg
+  batch: 1
+- name: atlantic-avenue.jpg
+  batch: 1
+- name: audrey-top-mountain.jpeg
+  batch: 1
+- name: axe-woodpile-cop.jpg
+  batch: 1
+- name: baggage-department.jpg
+  batch: 1
+- name: baptist-church.jpeg
+  batch: 1
+- name: barack-obama.jpg
+  batch: 1
+- name: barbed-wire.jpg
+  batch: 1
+- name: baseball-field.jpg
+  batch: 1
+- name: basket-containers.jpg
+  batch: 1
+- name: bay-bridge-pillar.jpg
+  batch: 1
+- name: beach-sun-bay.jpeg
+  batch: 1
+- name: beach-walking-dog.jpeg
+  batch: 1
+- name: beach-water-spain.jpg
+  batch: 1
+- name: bell-in-window.jpg
+  batch: 1
+- name: bench-forest.jpeg
+  batch: 1
+- name: berlin-wall-down.jpg
+  batch: 1
+- name: berlin-wall-face.jpg
+  batch: 1
+- name: berline-wall-old-building.jpg
+  batch: 1
+- name: big-antennae-tower.jpg
+  batch: 1
+- name: big-crow-statue.jpg
+  batch: 1
+- name: bird-catching-bug.jpg
+  batch: 1
+- name: blechlety-old-racks.jpg
+  batch: 1
+- name: bletchley-computer-racks.jpg
+  batch: 1
+- name: bletchley-computer.jpg
+  batch: 1
+- name: bletchley-racks.jpg
+  batch: 1
+- name: bletchly-bombay.jpg
+  batch: 1
+- name: boats-waterfront-bristol.jpg
+  batch: 1
+- name: border-crossing-through-fence-2.jpg
+  batch: 1
+- name: border-crossing-through-fence.jpg
+  batch: 1
+- name: border-down-the-fence-line.jpg
+  batch: 1
+- name: border-fence-down-the-line-2.jpg
+  batch: 1
+- name: border-fence-down-the-line.jpg
+  batch: 1
+- name: border-watching-cars.jpg
+  batch: 1
+- name: bridge-over-columbia.jpg
+  batch: 1
+- name: bridge-road-old.jpg
+  batch: 1
+- name: bright-light-bulb.jpg
+  batch: 1
+- name: bristol-street-up.jpg
+  batch: 1
+- name: british-black-cab-street.jpg
+  batch: 1
+- name: british-city-bend.jpg
+  batch: 1
+- name: british-guards-marching.jpg
+  batch: 1
+- name: british-sgtreet-phone-booth.jpg
+  batch: 1
+- name: building-crane-concreete.jpeg
+  batch: 1
+- name: building-hanger.jpeg
+  batch: 1
+- name: building-old-simple.jpeg
+  batch: 1
+- name: building-shadows-sun.jpg
+  batch: 1
+- name: burned-van-back.jpeg
+  batch: 1
+- name: burned-van-side.jpeg
+  batch: 1
+- name: bus-station.jpeg
+  batch: 1
+- name: butterfly-on-flower.jpg
+  batch: 1
+- name: butterfly-purple-flower.jpg
+  batch: 1
+- name: c-line-nyc.jpg
+  batch: 1
+- name: california-coastal-trail.jpeg
+  batch: 1
+- name: california-hotel.jpeg
+  batch: 1
+- name: camel-in-desert.jpg
+  batch: 1
+- name: canal-ships-bridge.jpg
+  batch: 1
+- name: cannon_36556797762_o.jpg
+  batch: 1
+- name: cannons-with-ropes.jpg
+  batch: 1
+- name: capital_36728420065_o.jpg
+  batch: 1
+- name: capital_36728421355_o.jpg
+  batch: 1
+- name: capital-blue-sky.jpg
+  batch: 1
+- name: capital-records-building.jpg
+  batch: 1
+- name: capital-white-guy.jpg
+  batch: 1
+- name: cargo-ship_36587814601_o.jpg
+  batch: 1
+- name: cargo-ship-fog.jpg
+  batch: 1
+- name: castle-cannon-tree.jpg
+  batch: 1
+- name: castle-clouds-green-lawn.jpg
+  batch: 1
+- name: castle-front-shot.jpg
+  batch: 1
+- name: castle-on-hill.jpg
+  batch: 1
+- name: castle-on-the-hill-windows.jpg
+  batch: 1
+- name: castle-window_35928999923_o.jpg
+  batch: 1
+- name: castle-wires.jpg
+  batch: 1
+- name: cat-dozer.jpeg
+  batch: 1
+- name: cemetery_35902984304_o.jpg
+  batch: 1
+- name: cemetery_36690406946_o.jpg
+  batch: 1
+- name: checkpoint-charlie-mcdonalds.jpg
+  batch: 1
+- name: checkpoint-charlie.jpg
+  batch: 1
+- name: chess-in-the-park-with-pigeons.jpg
+  batch: 1
+- name: chinese-stores.jpeg
+  batch: 1
+- name: christ-cross-chalice.jpg
+  batch: 1
+- name: christ-on-cross.jpg
+  batch: 1
+- name: church-oakland.jpg
+  batch: 1
+- name: city-building-trees-sky.jpg
+  batch: 1
+- name: city-clouds-building-crowded.jpg
+  batch: 1
+- name: city-clouds-view.jpg
+  batch: 1
+- name: city-clouds-waterfront.jpg
+  batch: 1
+- name: city-down-street.jpg
+  batch: 1
+- name: city-fog-sun.jpeg
+  batch: 1
+- name: city-skyline-bright.jpg
+  batch: 1
+- name: city-skyline-grey.jpg
+  batch: 1
+- name: city-vancouver-clouds.jpg
+  batch: 1
+- name: city-waterfront-path.jpg
+  batch: 1
+- name: cloks-many-of-them.jpg
+  batch: 1
+- name: close-to-all-remote-aircraft.jpg
+  batch: 1
+- name: cloud-red.jpg
+  batch: 1
+- name: clowns_35893926114_o.jpg
+  batch: 1
+- name: colonial-solider-pointing.jpg
+  batch: 1
+- name: commodore-vic-20.jpg
+  batch: 1
+- name: concert-hall-bright-lights.jpg
+  batch: 1
+- name: congtrols-old-ship.jpg
+  batch: 1
+- name: construction-crane-city.jpg
+  batch: 1
+- name: construction-zone-claw.jpg
+  batch: 1
+- name: container-several-colors-grey.jpg
+  batch: 1
+- name: container-ship-in-seattle.jpg
+  batch: 1
+- name: containers-stack.jpeg
+  batch: 1
+- name: containers-white.jpg
+  batch: 1
+- name: covid-tests.jpeg
+  batch: 1
+- name: craftmen-home.jpg
+  batch: 1
+- name: crank-window.jpg
+  batch: 1
+- name: creepy-doll-looking-down.jpg
+  batch: 1
+- name: cross-against-trees.jpg
+  batch: 1
+- name: cross-clouds.jpg
+  batch: 1
+- name: cross-dark-moon.jpg
+  batch: 1
+- name: cross-rock-woods.jpeg
+  batch: 1
+- name: crow-in-sand.jpg
+  batch: 1
+- name: crow-stailess-steal.jpg
+  batch: 1
+- name: crow-stkump-waterfront.jpg
+  batch: 1
+- name: cruise-ship-c-175.jpg
+  batch: 1
+- name: cruise-ship-clouds.jpg
+  batch: 1
+- name: cruise-ship-shore-log.jpg
+  batch: 1
+- name: crypto-wheels-old-compute-bletchley.jpg
+  batch: 1
+- name: d-train.jpg
+  batch: 1
+- name: dandelions-in-rocks.jpg
+  batch: 1
+- name: dark-city-buildings.jpg
+  batch: 1
+- name: dark-city-street.jpg
+  batch: 1
+- name: dark-hallway-in-hotel.jpg
+  batch: 1
+- name: dark-tower-of-london.jpg
+  batch: 1
+- name: desert-mining.jpeg
+  batch: 1
+- name: desert-road-mountains.jpg
+  batch: 1
+- name: desert-sovarampi.jpeg
+  batch: 1
+- name: desktop-laptop-chair.jpg
+  batch: 1
+- name: destruction-seattle-viaduct.jpg
+  batch: 1
+- name: dial-old-computer.jpg
+  batch: 1
+- name: dinosaur-stepping-on-lego.jpg
+  batch: 1
+- name: dinosaur-walking-desert.jpg
+  batch: 1
+- name: do-not-enter-sign.jpg
+  batch: 1
+- name: do-not-turn-trolley-car.jpg
+  batch: 1
+- name: docks-big-cosco-ship.jpg
+  batch: 1
+- name: docks-far-way.jpeg
+  batch: 1
+- name: docks-in-itealy-tower.jpg
+  batch: 1
+- name: docks-ships-cranes.jpg
+  batch: 1
+- name: docks-water-front-ships-containers.jpg
+  batch: 1
+- name: docks-water-front.jpg
+  batch: 1
+- name: docs-cranes-waterfront.jpg
+  batch: 1
+- name: down-side-street-shop-sign.jpg
+  batch: 1
+- name: down-the-line-harlem.jpg
+  batch: 1
+- name: downtow-cool-car.jpg
+  batch: 1
+- name: downtown-125thstreet.jpg
+  batch: 1
+- name: downtown-berlin-crowds.jpg
+  batch: 1
+- name: downtown-dufur.jpg
+  batch: 1
+- name: downtown-la_36349151230_o.jpg
+  batch: 1
+- name: downtown-light-posts.jpg
+  batch: 1
+- name: downtown-sidewalk-washington.jpg
+  batch: 1
+- name: downtown-street-crosswalk.jpg
+  batch: 1
+- name: dragon-desert-looking.jpg
+  batch: 1
+- name: dragon-shadow-sun-2.jpg
+  batch: 1
+- name: dragon-shadow-sun.jpg
+  batch: 1
+- name: dragon-turning-head.jpg
+  batch: 1
+- name: dried-flowers-snow-2.jpeg
+  batch: 1
+- name: dried-flowers-snow.jpeg
+  batch: 1
+- name: drone-boats.jpeg
+  batch: 1
+- name: dSC_0037.jpg
+  batch: 1
+- name: DSC_0041.jpg
+  batch: 1
+- name: eagle-soaring.jpg
+  batch: 1
+- name: eagle-spread-tree-2.jpg
+  batch: 1
+- name: eagle-spread-tree.jpg
+  batch: 1
+- name: early-computer-bletchley.jpg
+  batch: 1
+- name: edgefield-2.jpg
+  batch: 1
+- name: eeob-white-house.jpg
+  batch: 1
+- name: effiel-tower-paris.jpg
+  batch: 1
+- name: egret-water-silhouette.jpeg
+  batch: 1
+- name: eiphel-tower-paris-brown.jpg
+  batch: 1
+- name: electric-tower-sun-behind.jpg
+  batch: 1
+- name: ellis-island-flags.jpg
+  batch: 1
+- name: ellis-island-nyc.jpg
+  batch: 1
+- name: ellis-island-windows.jpg
+  batch: 1
+- name: escalator-close-in.jpg
+  batch: 1
+- name: eye-mosaic.jpg
+  batch: 1
+- name: f5-tow3ers.jpg
+  batch: 1
+- name: face-eyes-open-statue.jpg
+  batch: 1
+- name: face-eyes-shut-statue.jpg
+  batch: 1
+- name: face-mosaic.jpg
+  batch: 1
+- name: factory-road.jpg
+  batch: 1
+- name: fat-old-pigeon-on-fence.jpg
+  batch: 1
+- name: fire-hydrant-water.jpg
+  batch: 1
+- name: fire-truck-pulling-out-of-station.jpg
+  batch: 1
+- name: firetruck-bright-sun.jpg
+  batch: 1
+- name: fishing-boat-lake.jpg
+  batch: 1
+- name: fishing-docks-lake.jpg
+  batch: 1
+- name: fishing-ship-in-docks.jpg
+  batch: 1
+- name: fishing-vessel.jpg
+  batch: 1
+- name: fixing-cross.jpg
+  batch: 1
+- name: flower-blue-close.jpeg
+  batch: 1
+- name: flower-red-close.jpeg
+  batch: 1
+- name: flower-white-close.jpeg
+  batch: 1
+- name: flower-white-purple-close.jpeg
+  batch: 1
+- name: flowers-diamon-creek.jpg
+  batch: 1
+- name: for-rent-apartment.jpg
+  batch: 1
+- name: fort-ross-cannons.jpeg
+  batch: 1
+- name: fox-oakland-day.jpeg
+  batch: 1
+- name: fox-oakland-out-front.jpeg
+  batch: 1
+- name: fox-oakland-up.jpeg
+  batch: 1
+- name: freeway-carss-overpass.jpg
+  batch: 1
+- name: freeway-gree-building.jpeg
+  batch: 1
+- name: freeway-homeless.jpeg
+  batch: 1
+- name: freeway-interchange-fence.jpeg
+  batch: 1
+- name: freeway-interchange-park.jpeg
+  batch: 1
+- name: freeway-neighborhood.jpeg
+  batch: 1
+- name: freway-interchange-city.jpeg
+  batch: 1
+- name: frosty-downtown-lights.jpg
+  batch: 1
+- name: full-stack-woodpile.jpg
+  batch: 1
+- name: gargoyle-paris-2.jpg
+  batch: 1
+- name: gargoyle-paris-3.jpg
+  batch: 1
+- name: gargoyle-paris.jpg
+  batch: 1
+- name: gatew-into-field.jpg
+  batch: 1
+- name: gauge-holding.jpg
+  batch: 1
+- name: gauge-on-aircraft-carrier.jpg
+  batch: 1
+- name: gear-rocks.jpg
+  batch: 1
+- name: gear-wood.jpg
+  batch: 1
+- name: gears-pipes-plumbing.jpg
+  batch: 1
+- name: geese-on-grass.jpg
+  batch: 1
+- name: girl-reading-bench-garden.jpg
+  batch: 1
+- name: girl-reading-garden-flowers.jpg
+  batch: 1
+- name: glass-ball-downtown.jpg
+  batch: 1
+- name: going-to-dowtown-los-angeles.jpg
+  batch: 1
+- name: golden-gate-bridge-other-side.jpeg
+  batch: 1
+- name: golden-gate-night.jpeg
+  batch: 1
+- name: google-front-of-business.jpg
+  batch: 1
+- name: graffitti-red-hat-man.jpg
+  batch: 1
+- name: grafitti-crown-guy.jpg
+  batch: 1
+- name: grafitti-woman-bangs.jpg
+  batch: 1
+- name: grain-ship-docking-grass.jpg
+  batch: 1
+- name: grain-ship-docs.jpg
+  batch: 1
+- name: green-typewriter.jpg
+  batch: 1
+- name: gypsy-house-pen.jpg
+  batch: 1
+- name: gypsy-house-with-pen.jpg
+  batch: 1
+- name: hallelujah-junction.jpeg
+  batch: 1
+- name: hallway-long-hospital.jpg
+  batch: 1
+- name: hallway-mirrors-hotel.jpg
+  batch: 1
+- name: hawk-light.jpeg
+  batch: 1
+- name: heron-log.jpg
+  batch: 1
+- name: heron-logs.jpg
+  batch: 1
+- name: hiding-monster-statue.jpg
+  batch: 1
+- name: high-speed-train-station-france.jpg
+  batch: 1
+- name: high-speed-train-station.jpg
+  batch: 1
+- name: highway-granary_36331800650_o.jpg
+  batch: 1
+- name: highway-granary-truck_36557728122_o.jpg
+  batch: 1
+- name: highway-line.jpeg
+  batch: 1
+- name: hollywood-sign-hills.jpg
+  batch: 1
+- name: hollywood-sign-with-tower.jpg
+  batch: 1
+- name: homeless-tents.jpeg
+  batch: 1
+- name: horrified-statue.jpg
+  batch: 1
+- name: horse-new-orleans.jpg
+  batch: 1
+- name: hospital-old-hill-trees.jpeg
+  batch: 1
+- name: hospital-old.jpeg
+  batch: 1
+- name: hotel-down-sidewalk.jpg
+  batch: 1
+- name: house-abandoned-fence.jpeg
+  batch: 1
+- name: howling-monkey.jpg
+  batch: 1
+- name: imperial-inn.jpg
+  batch: 1
+- name: industrial-fans.jpeg
+  batch: 1
+- name: iron-horse-close.jpeg
+  batch: 1
+- name: iron-horse-side.jpeg
+  batch: 1
+- name: japanese-garden-tree.jpg
+  batch: 1
+- name: jerry-art.jpeg
+  batch: 1
+- name: jesus-in-old-rock-church.jpg
+  batch: 1
+- name: jesus-on-bench.jpg
+  batch: 1
+- name: jets-in-formation.jpg
+  batch: 1
+- name: jets-over-city.jpg
+  batch: 1
+- name: john-kehoes.jpg
+  batch: 1
+- name: kin-back-of-van.jpg
+  batch: 1
+- name: kin-chesapeake.jpg
+  batch: 1
+- name: kin-family.jpg
+  batch: 1
+- name: kin-no-pictures.jpg
+  batch: 1
+- name: kin-poppy-car.jpeg
+  batch: 1
+- name: kin-speaking-hat-mic.jpg
+  batch: 1
+- name: kin-working-1.jpeg
+  batch: 1
+- name: kin-working-2.jpeg
+  batch: 1
+- name: kin-working-3.jpeg
+  batch: 1
+- name: kin-working-4.jpeg
+  batch: 1
+- name: kin-working-5.jpeg
+  batch: 1
+- name: kin-working-6.jpeg
+  batch: 1
+- name: king-tut-museum.jpg
+  batch: 1
+- name: Kins-Album-Mom-1_0016.jpg
+  batch: 1
+- name: Kins-Album-Mom-2_0010.jpg
+  batch: 1
+- name: Kins-Album-Mom-2.jpg
+  batch: 1
+- name: knob-dial-old.jpg
+  batch: 1
+- name: lane-shif-ahead.jpg
+  batch: 1
+- name: light-rail-yellow-calif.jpg
+  batch: 1
+- name: lighthouse_36679514616_o.jpg
+  batch: 1
+- name: lincoln-memorial_36690528196_o.jpg
+  batch: 1
+- name: lincoln-sitting-front.jpg
+  batch: 1
+- name: london-underground-covent-garden.jpg
+  batch: 1
+- name: looking-down-over-city.jpg
+  batch: 1
+- name: los-angeles-downtown-from-afar.jpg
+  batch: 1
+- name: marketplace-people.jpg
+  batch: 1
+- name: markets-amsterdam.jpeg
+  batch: 1
+- name: mayan-statue-red.jpg
+  batch: 1
+- name: memorial-to-the-jews-in-berlin-2.jpg
+  batch: 1
+- name: mexico-only.jpg
+  batch: 1
+- name: miami-beach-tower-city.jpg
+  batch: 1
+- name: miami-beach-walkway.jpg
+  batch: 1
+- name: mining-mountains-2.jpeg
+  batch: 1
+- name: mining-mountains.jpeg
+  batch: 1
+- name: mo-business-center.jpeg
+  batch: 1
+- name: model-manneqin.jpg
+  batch: 1
+- name: mushroom-bark.jpeg
+  batch: 1
+- name: nationwide.jpeg
+  batch: 1
+- name: new-building-start.jpeg
+  batch: 1
+- name: new-york-city-skyline_36655833162_o.jpg
+  batch: 1
+- name: new-york-high-up.jpg
+  batch: 1
+- name: nyc-coming-in-on-train.jpg
+  batch: 1
+- name: nyc-intersection.jpg
+  batch: 1
+- name: nyc-skyline-from-ferry.jpg
+  batch: 1
+- name: nyc-skyline-rain.jpg
+  batch: 1
+- name: nyc-streets-laundromat.jpg
+  batch: 1
+- name: nyc-streets.jpg
+  batch: 1
+- name: nyc-subway-train-125th.jpg
+  batch: 1
+- name: oakland-city-hall-tree.jpeg
+  batch: 1
+- name: oakland-clock.jpeg
+  batch: 1
+- name: oakland-downtown.jpeg
+  batch: 1
+- name: oakland-lake-merritt.jpeg
+  batch: 1
+- name: oakland-oak-tree.jpeg
+  batch: 1
+- name: oakland-thin-building.jpeg
+  batch: 1
+- name: old-barn-falling-over.jpg
+  batch: 1
+- name: old-barn-in-hills.jpg
+  batch: 1
+- name: old-ben-clouds.jpg
+  batch: 1
+- name: old-black-car.jpg
+  batch: 1
+- name: old-books-rack.jpg
+  batch: 1
+- name: old-broken-piano-street.jpg
+  batch: 1
+- name: old-building-and-cars_36680898846_o.jpg
+  batch: 1
+- name: old-building-barcelona-waterfront.jpg
+  batch: 1
+- name: old-building-fence.jpg
+  batch: 1
+- name: old-building-paris.jpg
+  batch: 1
+- name: old-building-phoenix.jpg
+  batch: 1
+- name: old-building-seattle-clouds.jpg
+  batch: 1
+- name: old-car-model-t.jpg
+  batch: 1
+- name: old-chair-hopsital.jpg
+  batch: 1
+- name: old-cherry-close.jpeg
+  batch: 1
+- name: old-cherry-tree.jpeg
+  batch: 1
+- name: old-church_36588495271_o.jpg
+  batch: 1
+- name: old-church-in-field.jpg
+  batch: 1
+- name: old-church-in-sierras.jpeg
+  batch: 1
+- name: old-computer-bletchley-crypto.jpg
+  batch: 1
+- name: old-computer-box.jpg
+  batch: 1
+- name: old-comuter-wheels-crypto.jpg
+  batch: 1
+- name: old-crypto-wheels.jpg
+  batch: 1
+- name: old-dark-bridge.jpg
+  batch: 1
+- name: old-foggy-tree-rocks.jpeg
+  batch: 1
+- name: old-foggy-trees.jpeg
+  batch: 1
+- name: old-gas-station_35891228584_o.jpg
+  batch: 1
+- name: old-gas-station_36588462091_o.jpg
+  batch: 1
+- name: old-gas-station_36680991076_o.jpg
+  batch: 1
+- name: old-house_36681740046_o.jpg
+  batch: 1
+- name: old-ibm-computer.jpg
+  batch: 1
+- name: old-jeep-green.jpg
+  batch: 1
+- name: old-mail-slot.jpeg
+  batch: 1
+- name: old-man-crossing-border.jpg
+  batch: 1
+- name: old-pay-phone.jpg
+  batch: 1
+- name: old-phat-face.jpg
+  batch: 1
+- name: old-piano-paris-hospital.jpg
+  batch: 1
+- name: old-piano-playing-hospital.jpg
+  batch: 1
+- name: old-remington-typewriter.jpg
+  batch: 1
+- name: old-ship-waterfront-harbor.jpg
+  batch: 1
+- name: old-tank-british.jpg
+  batch: 1
+- name: old-time-cash-register.jpg
+  batch: 1
+- name: old-town-bristol.jpg
+  batch: 1
+- name: old-train-on-tracks.jpg
+  batch: 1
+- name: old-trolley-car-sf.jpg
+  batch: 1
+- name: orchard-almonds-2.jpeg
+  batch: 1
+- name: orchard-almonds.jpeg
+  batch: 1
+- name: over-the-town.jpg
+  batch: 1
+- name: oxford-old-building.jpg
+  batch: 1
+- name: oxoford-circus-station.jpg
+  batch: 1
+- name: p9180054.jpg
+  batch: 1
+- name: palace-water-fountain.jpg
+  batch: 1
+- name: paris-bookstand.jpg
+  batch: 1
+- name: parking-ay.jpeg
+  batch: 1
+- name: parking-meter-close.jpeg
+  batch: 1
+- name: parking-open-closed.jpeg
+  batch: 1
+- name: path-in-woods-green-lush.jpg
+  batch: 1
+- name: pelican-flying-low.jpg
+  batch: 1
+- name: people-eating-canal.jpg
+  batch: 1
+- name: people-walking-down-street.jpg
+  batch: 1
+- name: piano-in-street-good.jpg
+  batch: 1
+- name: pier-fishing-boat.jpeg
+  batch: 1
+- name: pier-long-foggy.jpeg
+  batch: 1
+- name: pier-under.jpeg
+  batch: 1
+- name: pier-waves.jpeg
+  batch: 1
+- name: pigeon_35927783393_o.jpg
+  batch: 1
+- name: pigeons-do-not-feed-them.jpg
+  batch: 1
+- name: pigeons-on-ledge.jpg
+  batch: 1
+- name: pink-elephant-car-wash.jpg
+  batch: 1
+- name: plane-wing.jpeg
+  batch: 1
+- name: playing-guitar.jpg
+  batch: 1
+- name: please-do-not-feed-the-pigeon.jpg
+  batch: 1
+- name: plumbing-water-agriculture.jpeg
+  batch: 1
+- name: pong.jpg
+  batch: 1
+- name: poppy-close-up.jpeg
+  batch: 1
+- name: poppy-flower-sidewalk.jpeg
+  batch: 1
+- name: poppy-running.jpeg
+  batch: 1
+- name: public-market-farmers-market.jpg
+  batch: 1
+- name: public-market-fish.jpg
+  batch: 1
+- name: radio-antanae.jpeg
+  batch: 1
+- name: radio-antannae-building.jpeg
+  batch: 1
+- name: rail-crossing.jpg
+  batch: 1
+- name: railroad-tracks-rocks.jpeg
+  batch: 1
+- name: raven-on-fence.jpg
+  batch: 1
+- name: razor-wire-buildings.jpg
+  batch: 1
+- name: razor-wire-weeds-2.jpg
+  batch: 1
+- name: razor-wire-weeds.jpg
+  batch: 1
+- name: red-chairs-hallway.jpg
+  batch: 1
+- name: red-roses-garden.jpg
+  batch: 1
+- name: red-typwriter.jpg
+  batch: 1
+- name: robot-sign-helper.jpg
+  batch: 1
+- name: rocking-chair-on-porch_36332220150_o.jpg
+  batch: 1
+- name: roman-marcus-looking-down.jpg
+  batch: 1
+- name: row-houses-england.jpg
+  batch: 1
+- name: sailboat-in-front-of-housing.jpg
+  batch: 1
+- name: sailboat-in-harbor.jpg
+  batch: 1
+- name: san-diego-city.jpeg
+  batch: 1
+- name: san-francisco-across-runway.jpeg
+  batch: 1
+- name: san-francisco-fence.jpeg
+  batch: 1
+- name: san-francisco-from-salesforce-west.jpg
+  batch: 1
+- name: san-francisco-lights-skyline.jpg
+  batch: 1
+- name: san-francisco-salesforce-bay-bridge.jpg
+  batch: 1
+- name: san-francisco-skyline-smoke.jpg
+  batch: 1
+- name: san-francisco-skyline.jpg
+  batch: 1
+- name: san-francisco-wharf-clock.jpg
+  batch: 1
+- name: san-pedro-light-cities.jpg
+  batch: 1
+- name: satellite-dish-pointing-upwards.jpg
+  batch: 1
+- name: satellite-dishes-pointing-up.jpg
+  batch: 1
+- name: satellite-with-sunset.jpg
+  batch: 1
+- name: screaming-face-statue.jpg
+  batch: 1
+- name: seatlle-shipping-mountain.jpg
+  batch: 1
+- name: seattle-looking-north.jpg
+  batch: 1
+- name: seattle-public-market_36725946605_o.jpg
+  batch: 1
+- name: seattle-shipping-people-walking.jpg
+  batch: 1
+- name: seattle-waterfront-ferris-wheel.jpg
+  batch: 1
+- name: senior-citizen-facility.jpeg
+  batch: 1
+- name: server-rack-1.jpg
+  batch: 1
+- name: server-rack-2.jpg
+  batch: 1
+- name: sheep-grazing-grass-green.jpg
+  batch: 1
+- name: ship-bird-foreground.jpg
+  batch: 1
+- name: ship-grain-docking.jpg
+  batch: 1
+- name: shipping-container-ship-sunny-day.jpg
+  batch: 1
+- name: shipping-container-yard-police-boat.jpg
+  batch: 1
+- name: shipping-containers-cranes.jpeg
+  batch: 1
+- name: shipping-docks_36331347010_o.jpg
+  batch: 1
+- name: shipping-docs-cranes.jpg
+  batch: 1
+- name: sierra-town-corner.jpeg
+  batch: 1
+- name: sierraville-post-office.jpeg
+  batch: 1
+- name: single-headstone.jpg
+  batch: 1
+- name: skulls-catacomb-up-close.jpg
+  batch: 1
+- name: skulls-catacombs.jpg
+  batch: 1
+- name: skyline-standing.jpg
+  batch: 1
+- name: skyline-thinking.jpg
+  batch: 1
+- name: skyscraper-dark.jpg
+  batch: 1
+- name: small-lighthouse_36556509232_o.jpg
+  batch: 1
+- name: small-town-street-2.jpg
+  batch: 1
+- name: small-town-street.jpg
+  batch: 1
+- name: smiling-face-wall.jpeg
+  batch: 1
+- name: snow-machine-1.jpeg
+  batch: 1
+- name: social-distancing-is-mandatory.jpeg
+  batch: 1
+- name: soliders-fighting-statue.jpg
+  batch: 1
+- name: stainless-tree-clouds.jpg
+  batch: 1
+- name: stainless-tree-sun-ray.jpg
+  batch: 1
+- name: stairs-down-blue-green.jpg
+  batch: 1
+- name: stairs-up-subway.jpg
+  batch: 1
+- name: statue-architecture-holding.jpg
+  batch: 1
+- name: statue-capital-cannon.jpg
+  batch: 1
+- name: statue-face-looking-up.jpg
+  batch: 1
+- name: statue-face-spikes.jpg
+  batch: 1
+- name: statue-facing-scrunched.jpg
+  batch: 1
+- name: statue-green-eyes.jpg
+  batch: 1
+- name: statue-liberty-clouds-front-far.jpg
+  batch: 1
+- name: statue-of-liberty_35910144944_o.jpg
+  batch: 1
+- name: statue-of-liberty_36744433525_o.jpg
+  batch: 1
+- name: statue-of-liberty-back.jpg
+  batch: 1
+- name: statue-of-liberty-front-bright.jpg
+  batch: 1
+- name: statue-playing-instrument.jpg
+  batch: 1
+- name: statue-preaching.jpg
+  batch: 1
+- name: statue-staring-down-to-right.jpg
+  batch: 1
+- name: statue-supreme-court.jpg
+  batch: 1
+- name: statue-thinking.jpg
+  batch: 1
+- name: statue-with-shield-dark.jpg
+  batch: 1
+- name: statue-woman.jpeg
+  batch: 1
+- name: steam-engine-iceland.jpg
+  batch: 1
+- name: stone-door.jpeg
+  batch: 1
+- name: stop-empty.jpeg
+  batch: 1
+- name: storefront-signage.jpg
+  batch: 1
+- name: stork-club.jpeg
+  batch: 1
+- name: street-car-san-francisco.jpg
+  batch: 1
+- name: sub-way-bart-going-by.jpg
+  batch: 1
+- name: subway-brooklyn-station.jpg
+  batch: 1
+- name: subway-c-line-nyc.jpg
+  batch: 1
+- name: subway-train-125th.jpg
+  batch: 1
+- name: subway-underground_35904617894_o.jpg
+  batch: 1
+- name: subway-underground_36599191851_o.jpg
+  batch: 1
+- name: sundial.jpeg
+  batch: 1
+- name: sunflower-big-green.jpg
+  batch: 1
+- name: sunset-seattle.jpg
+  batch: 1
+- name: supreme-court_36341562380_o.jpg
+  batch: 1
+- name: supreme-court-columns.jpg
+  batch: 1
+- name: surveillance-3-camers.jpg
+  batch: 1
+- name: surveillance-cameras_36343058400_o.jpg
+  batch: 1
+- name: surveillance-cameras_36569244062_o.jpg
+  batch: 1
+- name: surveillance-over-the-city.jpg
+  batch: 1
+- name: sydney-opera-house.jpg
+  batch: 1
+- name: target-new.zip
+  batch: 1
+- name: thinking-man-statue.jpg
+  batch: 1
+- name: through-berlin-wall.jpg
+  batch: 1
+- name: times-square-up-road.jpg
+  batch: 1
+- name: tower-trees-sky.jpg
+  batch: 1
+- name: trail-bridge-walking.jpg
+  batch: 1
+- name: trail-in-the-woods.jpg
+  batch: 1
+- name: train--car-orange.jpeg
+  batch: 1
+- name: train-car_35892468014_o.jpg
+  batch: 1
+- name: train-coming-up-tracks.jpg
+  batch: 1
+- name: train-france-high-speed-in-station.jpg
+  batch: 1
+- name: train-in-nyc-long.jpg
+  batch: 1
+- name: train-in-station-two-coming.jpg
+  batch: 1
+- name: train-nyc-125th.jpg
+  batch: 1
+- name: train-small-town-station.jpg
+  batch: 1
+- name: train-station-cloud.jpg
+  batch: 1
+- name: train-station-old.jpeg
+  batch: 1
+- name: train-station-statue.jpg
+  batch: 1
+- name: train-subway-125th-down-the-line.jpg
+  batch: 1
+- name: train-switch.jpg
+  batch: 1
+- name: train-tracks-bending.jpg
+  batch: 1
+- name: train-tracks-seattle-waterfront.jpg
+  batch: 1
+- name: tree-rock-view-city.jpeg
+  batch: 1
+- name: trees-killer.jpeg
+  batch: 1
+- name: tribume-downtown.jpeg
+  batch: 1
+- name: tribune-top.jpeg
+  batch: 1
+- name: tug-boat-ties.jpg
+  batch: 1
+- name: turing-front-view.jpg
+  batch: 1
+- name: two-smoke-stacks.jpg
+  batch: 1
+- name: two-statues-rock.jpg
+  batch: 1
+- name: underground-subway_35929749683_o.jpg
+  batch: 1
+- name: underground-subway_36342747010_o.jpg
+  batch: 1
+- name: us-flag-close-up.jpg
+  batch: 1
+- name: vancouver-waterfront_36556357642_o.jpg
+  batch: 1
+- name: vending-machines.jpeg
+  batch: 1
+- name: viewer-close.jpg
+  batch: 1
+- name: volkswagon-microbus-windows.jpg
+  batch: 1
+- name: waiting-for-subway.jpg
+  batch: 1
+- name: walk-through-garden-tunnel.jpg
+  batch: 1
+- name: walking-sand-dunes.jpg
+  batch: 1
+- name: walking-water-front-sun.jpg
+  batch: 1
+- name: washington-monument-afar.jpg
+  batch: 1
+- name: water-canal-annaci.jpg
+  batch: 1
+- name: water-fountain-many-shooting.jpg
+  batch: 1
+- name: water-splashing-in-rocks.jpg
+  batch: 1
+- name: water-taxi-canada.jpg
+  batch: 1
+- name: waterfall-iceland.jpg
+  batch: 1
+- name: waterfall-southern-oregon.jpg
+  batch: 1
+- name: waterfront-in-italy-mist.jpg
+  batch: 1
+- name: waterpump-old-time.jpg
+  batch: 1
+- name: watson-headstone.jpg
+  batch: 1
+- name: weeds-sidewalk.jpeg
+  batch: 1
+- name: western-union-telegraph-and-cable.jpeg
+  batch: 1
+- name: whie-house-close-up-2.jpg
+  batch: 1
+- name: white-face-freaky.jpg
+  batch: 1
+- name: white-house-close-up.jpg
+  batch: 1
+- name: white-house-kin.jpg
+  batch: 1
+- name: white-house-lawn-view.jpg
+  batch: 1
+- name: white-house-press-room-flag.jpg
+  batch: 1
+- name: white-house-west-wing-view.jpg
+  batch: 1
+- name: who-cares.jpg
+  batch: 1
+- name: wild-gease-in-the-water.jpg
+  batch: 1
+- name: window-mountain.jpg
+  batch: 1
+- name: wooden-path.jpeg
+  batch: 1
+- name: working-on-railroad-1.jpg
+  batch: 1
+- name: working-on-railroad-2.jpg
+  batch: 1
+- name: working-ship.jpg
+  batch: 1
+- name: working-waterfront-2.jpg
+  batch: 1
+- name: working-waterfront.jpg
+  batch: 1
+- name: wwdc-2011---moscone---san-francisco_5809419816_o.jpg
+  batch: 1
+- name: wysteria-walk.jpeg
+  batch: 1
+- name: yarder-back.jpeg
+  batch: 1
+- name: yarder-black.jpeg
+  batch: 1
+- name: yarder.jpeg
+  batch: 1
+- name: yello-taxi-nyc.jpg
+  batch: 1
+- name: yellow-roses-garden.jpg
+  batch: 1
+- name: yellow-tree-car.jpeg
+  batch: 1
+- name: yellow-tree-in-rocks.jpg
