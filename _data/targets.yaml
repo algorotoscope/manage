@@ -1570,4 +1570,14 @@
 - name: gear-red.jpeg
   batch: 3   
 - name: bicycle-delivery-side-of-street.jpg
+  batch: 3   
+- name: gear-blue-painted.jpg
+  batch: 3 
+- name: gear-green-painted.jpg
+  batch: 3 
+- name: gear-orange-painted.jpg
+  batch: 3 
+- name: gear-purple-painted.jpg
   batch: 3     
+- name: gear-red-painted.jpg
+  batch: 3      
