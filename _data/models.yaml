@@ -44,6 +44,12 @@
 - name: Good Year Home Merchandise
   slug: good-year-home-merchandise
   image: https://algorithmic.rotoscope.work/images/collections/good-year-home-merchandise/good-year-home-merchandise-square.jpg
+- name: Gears Color
+  slug: gears-color
+  image: https://kinlane-productions2.s3.amazonaws.com/algorotoscope-cli/filters/all-gears-color.png  
+- name: Green Circuit
+  slug: green-circuit
+  image: https://kinlane-productions2.s3.amazonaws.com/algorotoscope-cli/filters/green-circuit.jpg   
 - name: John Wayne the Searchers
   slug: john-wayne-the-searchers
   image: https://algorithmic.rotoscope.work/images/collections/john-wayne-the-searchers/john-wayne-the-searchers-square.jpg  
@@ -62,6 +68,12 @@
 - name: Persistence of Memory
   slug: dark-dali
   image: https://algorithmic.rotoscope.work/images/collections/the-persistence-of-memory/the-persistence-of-memory-feature.jpg
+- name: Purple Circuit
+  slug: purple-circuit
+  image: https://kinlane-productions2.s3.amazonaws.com/algorotoscope-cli/filters/purple-circuit.jpg
+- name: Red Circuit
+  slug: red-circuit
+  image: https://kinlane-productions2.s3.amazonaws.com/algorotoscope-cli/filters/red-circuit.jpg
 - name: Stalin
   slug: stalin-time
   image: https://algorithmic.rotoscope.work/images/collections/stalin/stalin-square.jpg
