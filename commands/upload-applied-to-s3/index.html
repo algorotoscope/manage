@@ -48,4 +48,19 @@ title: Algorotoscope - Manage
 		</ol>
 	{% endfor %}	
 
+
+	{% assign this_batch = 4 %}
+	<h3>Upload Batch {{ this_batch }} to S3</h3>
+	{% assign models = site.data.models %}
+	{% assign targets = site.data.targets %}
+	{% for model in models %}
+		<ol>
+		{% for target in targets %}
+			{% if target.batch == this_batch %}
+				<li>aws s3 cp {{ model.slug }}-{{ target.name }} s3://kinlane-productions2/algorotoscope-master/{{ model.slug }}-{{ target.name }}</li>
+			{% endif %}			
+		{% endfor %}		
+		</ol>
+	{% endfor %}		
+
 </div>
