@@ -44,9 +44,6 @@
 - name: Good Year Home Merchandise
   slug: good-year-home-merchandise
   image: https://algorithmic.rotoscope.work/images/collections/good-year-home-merchandise/good-year-home-merchandise-square.jpg
-- name: Gears Color
-  slug: gears-color
-  image: https://kinlane-productions2.s3.amazonaws.com/algorotoscope-cli/filters/all-gears-color.png  
 - name: Green Circuit
   slug: green-circuit
   image: https://kinlane-productions2.s3.amazonaws.com/algorotoscope-cli/filters/green-circuit.jpg   
