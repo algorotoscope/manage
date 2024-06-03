@@ -1,22 +1,22 @@
 ---
-- name: 1939 New York Worlds Fair
+- name: New York Worlds Fair
   slug: 1939-new-york-worlds-fair
-  image: https://kinlane-productions2.s3.amazonaws.com/algorotoscope-cli/1939-new-york-worlds-fair/1939-new-york-worlds-fair-square.jpg
-- name: American Immigration Dumping Ground
+  image: https://kinlane-productions2.s3.amazonaws.com/algorotoscope-cli/new-york-worlds-fair/1939-new-york-worlds-fair-square.jpg
+- name: Immigration
   slug: america-immigration_dumping-ground
-  image: https://algorithmic.rotoscope.work/images/collections/america-immigration-dumping-ground/america-immigration-dumping-ground.jpg
-- name: America Under Socialism
+  image: https://algorithmic.rotoscope.work/images/collections/immigration/america-immigration-dumping-ground.jpg
+- name: Socialism
   slug: america-under-socialism
-  image: https://algorithmic.rotoscope.work/images/collections/america-under-socialism/america-under-socialism-square.jpg
-- name: American Dream Fundamental
+  image: https://algorithmic.rotoscope.work/images/collections/socialism/america-under-socialism-square.jpg
+- name: American Dream
   slug: american-dream-fundamental
-  image: https://algorithmic.rotoscope.work/images/collections/american-dream-fundamental/american-dream-fundamental-square.jpg
-- name: B.F. Skinner
+  image: https://algorithmic.rotoscope.work/images/collections/american-dream/american-dream-fundamental-square.jpg
+- name: Behaviorism 
   slug: bf-skinner
-  image: https://algorithmic.rotoscope.work/images/collections/bf-skinner-behaviorism/bf-skinner-feature.jpg
+  image: https://algorithmic.rotoscope.work/images/collections/behaviorism/bf-skinner-feature.jpg
 - name: Birth of a Nation
   slug: birth-of-a-nation
-  image: https://algorithmic.rotoscope.work/images/collections/the-birth-of-a-nation/birth-of-a-nation.jpg
+  image: https://algorithmic.rotoscope.work/images/collections/birth-of-a-nation/birth-of-a-nation.jpg
 - name: Blue Circuit
   slug: blue-circuit
   image: https://algorithmic.rotoscope.work/images/collections/blue-circuit/blue-circuit-square.jpg
@@ -43,13 +43,13 @@
   image: https://algorithmic.rotoscope.work/images/collections/gone-with-the-wind/gone-with-the-wind-square.jpg
 - name: Good Year Home Merchandise
   slug: good-year-home-merchandise
-  image: https://algorithmic.rotoscope.work/images/collections/good-year-home-merchandise/good-year-home-merchandise-square.jpg
+  image: https://algorithmic.rotoscope.work/images/collections/good-year/good-year-home-merchandise-square.jpg
 - name: Green Circuit
   slug: green-circuit
   image: https://kinlane-productions2.s3.amazonaws.com/algorotoscope-cli/filters/green-circuit.jpg   
 - name: John Wayne the Searchers
   slug: john-wayne-the-searchers
-  image: https://algorithmic.rotoscope.work/images/collections/john-wayne-the-searchers/john-wayne-the-searchers-square.jpg  
+  image: https://algorithmic.rotoscope.work/images/collections/john-wayne/john-wayne-the-searchers-square.jpg  
 - name: Leaflets of the Russian Revolution
   slug: leaflets-of-the-russian-revolution
   image: https://algorithmic.rotoscope.work/images/collections/russian-propaganda/propagandaleaflets-feature.jpg
@@ -58,13 +58,13 @@
   image: https://algorithmic.rotoscope.work/images/collections/nazi-invasion/nazi-invasion-feature.jpg
 - name: Norman Rockwell Ruby Bridges
   slug: norman-rockwell-ruby-bridges
-  image: https://algorithmic.rotoscope.work/images/collections/norman-rockwell-ruby-bridges/norman-rockwell-ruby-bridges.jpg
+  image: https://algorithmic.rotoscope.work/images/collections/ruby-bridges/norman-rockwell-ruby-bridges.jpg
 - name: Oakland California
   slug: oakland-california
   image: https://algorithmic.rotoscope.work/images/collections/oakland-california/oakland-california-square.jpg
 - name: Persistence of Memory
   slug: dark-dali
-  image: https://algorithmic.rotoscope.work/images/collections/the-persistence-of-memory/the-persistence-of-memory-feature.jpg
+  image: https://algorithmic.rotoscope.work/images/collections/persistence-of-memory/the-persistence-of-memory-feature.jpg
 - name: Purple Circuit
   slug: purple-circuit
   image: https://kinlane-productions2.s3.amazonaws.com/algorotoscope-cli/filters/purple-circuit.jpg

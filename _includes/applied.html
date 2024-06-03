@@ -3,7 +3,7 @@
 {% for target in targets %}
     <div style="width: 250px;">
         <div>
-            <a href="https://kinlane-productions2.s3.amazonaws.com/algorotoscope-master/{{ slug }}-{{ target.name }}" target="_blank"><img src="https://kinlane-productions2.s3.amazonaws.com/algorotoscope-master/{{ slug }}-{{ target.name }}" width="100%"></a>
+            <a href="https://kinlane-productions2.s3.amazonaws.com/algorotoscope-master/{{ slug }}-{{ target.name }}" target="_blank"><img src="https://kinlane-productions2.s3.amazonaws.com/algorotoscope-master/{{ slug }}-{{ target.name }}" width="100%"></a><br>{{ target.name }}
         </div>
     </div>
 {% endfor %}
