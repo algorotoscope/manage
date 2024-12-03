@@ -1,10 +1,16 @@
 ---
 - name: New York Worlds Fair
   slug: 1939-new-york-worlds-fair
-  image: https://kinlane-productions2.s3.amazonaws.com/algorotoscope-cli/new-york-worlds-fair/1939-new-york-worlds-fair-square.jpg
+  image: https://kinlane-productions2.s3.us-east-1.amazonaws.com/algorotoscope-cli/filters/1939-new-york-worlds-fair.jpeg
 - name: Immigration
   slug: america-immigration_dumping-ground
   image: https://algorithmic.rotoscope.work/images/collections/immigration/america-immigration-dumping-ground.jpg
+- name: Socialism
+  slug: america-under-socialism
+  image: https://algorithmic.rotoscope.work/images/collections/socialism/america-under-socialism-square.jpg
+- name: Francis Williams
+  slug: francis-williams
+  image: https://kinlane-productions2.s3.us-east-1.amazonaws.com/algorotoscope-cli/filters/francis-williams.jpg
 - name: Socialism
   slug: america-under-socialism
   image: https://algorithmic.rotoscope.work/images/collections/socialism/america-under-socialism-square.jpg
@@ -47,7 +53,7 @@
 - name: Green Circuit
   slug: green-circuit
   image: https://kinlane-productions2.s3.amazonaws.com/algorotoscope-cli/filters/green-circuit.jpg   
-- name: John Wayne the Searchers
+- name: John Wayne
   slug: john-wayne-the-searchers
   image: https://algorithmic.rotoscope.work/images/collections/john-wayne/john-wayne-the-searchers-square.jpg  
 - name: Leaflets of the Russian Revolution
@@ -65,7 +71,7 @@
 - name: Persistence of Memory
   slug: dark-dali
   image: https://algorithmic.rotoscope.work/images/collections/persistence-of-memory/the-persistence-of-memory-feature.jpg
-- name: Purple Circuit
+- name: Purple Circuit 
   slug: purple-circuit
   image: https://kinlane-productions2.s3.amazonaws.com/algorotoscope-cli/filters/purple-circuit.jpg
 - name: Red Circuit
