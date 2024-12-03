@@ -1,8 +1,7 @@
 ---
 - name: New York Worlds Fair
   slug: 1939-new-york-worlds-fair
-  image: https://kinlane-productions2.s3.us-east-1.amazonaws.com/algorotoscope-cli/filters/1939-new-york-worlds-fair.jpeg
-- name: Immigration
+  image: https://algorithmic.rotoscope.work/images/collections/new-york-worlds-fair/1939-new-york-worlds-fair-square.jpg
   slug: america-immigration_dumping-ground
   image: https://algorithmic.rotoscope.work/images/collections/immigration/america-immigration-dumping-ground.jpg
 - name: Socialism
@@ -10,7 +9,7 @@
   image: https://algorithmic.rotoscope.work/images/collections/socialism/america-under-socialism-square.jpg
 - name: Francis Williams
   slug: francis-williams
-  image: https://kinlane-productions2.s3.us-east-1.amazonaws.com/algorotoscope-cli/filters/francis-williams.jpg
+  image: https://algorithmic.rotoscope.work/images/collections/francis-williams/francis-williams-square.jpg
 - name: Socialism
   slug: america-under-socialism
   image: https://algorithmic.rotoscope.work/images/collections/socialism/america-under-socialism-square.jpg
