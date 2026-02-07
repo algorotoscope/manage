@@ -61,6 +61,20 @@ title: Algorotoscope - Manage
 			{% endif %}
 		{% endfor %}		
 		</ol>
+	{% endfor %}
+	
+	{% assign this_batch = 5 %}
+	<h3>Apply to Batch {{ this_batch }}</h3>
+	{% assign models = site.data.models %}
+	{% assign targets = site.data.targets %}	
+	{% for model in models %}
+		<ol>
+		{% for target in targets %}
+			{% if target.batch == this_batch %}
+				<li>python evaluate.py --checkpoint models/{{ model.slug }}  --in-path targets/{{ target.name }}  --out-path images/{{ model.slug }}-{{ target.name }}</li>
+			{% endif %}
+		{% endfor %}		
+		</ol>
 	{% endfor %}	
 
 </div>

@@ -23,6 +23,15 @@
 - name: Blue Circuit
   slug: blue-circuit
   image: https://algorithmic.rotoscope.work/images/collections/blue-circuit/blue-circuit-square.jpg
+- name: Boston Massacre 1
+  slug: boston-massacre-1
+  image: https://kinlane-productions2.s3.us-east-1.amazonaws.com/algorotoscope-cli/filters/boston-massacre-1.png
+- name: Boston Massacre 2
+  slug: boston-massacre-2
+  image: https://kinlane-productions2.s3.us-east-1.amazonaws.com/algorotoscope-cli/filters/boston-massacre-2.png
+- name: Boston Massacre 3
+  slug: boston-massacre-3
+  image: https://kinlane-productions2.s3.us-east-1.amazonaws.com/algorotoscope-cli/filters/boston-massacre-3.png
 - name: Braceros Domingo Ulloa
   slug: braceros-domingo-ulloa
   image: https://kinlane-productions2.s3.amazonaws.com/algorotoscope-cli/filters/braceros-domingo-ulloa.jpg

@@ -46,4 +46,14 @@ title: Algorotoscope - Pull Targets
 		{% endif %}
 	{% endfor %}	
 
+	{% assign this_batch = 5 %}
+	<h3>Pull Batch {{ this_batch }} Targets</h3>
+	{% assign models = site.data.models %}
+	{% assign targets = site.data.targets %}
+	{% for target in targets %}
+		{% if target.batch == this_batch %}
+			aws s3 cp s3://kinlane-productions2/algorotoscope-targets/{{ target.name }} targets/{{ target.name }}<br>
+		{% endif %}
+	{% endfor %}		
+
 </div>
