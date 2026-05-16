@@ -17,14 +17,16 @@
 {% for target in targets %}
     {% assign tname = target.name | strip %}
     {% assign tbatch = target.batch | strip %}
+    {% assign imgurl = "https://kinlane-productions2.s3.amazonaws.com/algorotoscope-master/" | append: slug | append: "-" | append: tname %}
     <div class="applied-card" data-name="{{ tname | downcase }}" data-batch="{{ tbatch }}">
         <div class="uk-card uk-card-small uk-card-default uk-card-body">
-            <a href="https://kinlane-productions2.s3.amazonaws.com/algorotoscope-master/{{ slug }}-{{ tname }}" target="_blank" rel="noopener">
-                <img loading="lazy" decoding="async" src="https://kinlane-productions2.s3.amazonaws.com/algorotoscope-master/{{ slug }}-{{ tname }}" alt="{{ tname }}" style="width:100%;height:auto;background:#eee;min-height:120px;">
+            <a href="{{ imgurl }}" target="_blank" rel="noopener">
+                <img loading="lazy" decoding="async" src="{{ imgurl }}" alt="{{ tname }}" style="width:100%;height:auto;background:#eee;min-height:120px;">
             </a>
             <div class="uk-text-small uk-text-truncate uk-margin-small-top" title="{{ tname }}">{{ tname }}</div>
-            <div class="uk-text-meta">
-                <a href="/target.html?t={{ tname | url_encode }}">compare across styles</a>
+            <div class="uk-flex uk-flex-center uk-flex-wrap uk-margin-small-top" style="gap:.35rem;">
+                <a class="uk-button uk-button-default uk-button-small" href="/target.html?t={{ tname | url_encode }}">Compare</a>
+                <button class="uk-button uk-button-default uk-button-small applied-copy" type="button" data-url="{{ imgurl }}">Copy URL</button>
             </div>
         </div>
     </div>
@@ -77,5 +79,29 @@
     filter.addEventListener('input', apply);
     batch.addEventListener('change', apply);
     apply();
+
+    grid.addEventListener('click', function (e) {
+        var btn = e.target.closest('.applied-copy');
+        if (!btn) return;
+        var url = btn.dataset.url;
+        var done = function (ok) {
+            var original = btn.dataset.original || btn.textContent;
+            btn.dataset.original = original;
+            btn.textContent = ok ? 'Copied!' : 'Copy failed';
+            setTimeout(function () { btn.textContent = original; }, 1200);
+        };
+        if (navigator.clipboard && navigator.clipboard.writeText) {
+            navigator.clipboard.writeText(url).then(function () { done(true); }, function () { done(false); });
+        } else {
+            var ta = document.createElement('textarea');
+            ta.value = url;
+            ta.style.position = 'fixed';
+            ta.style.opacity = '0';
+            document.body.appendChild(ta);
+            ta.select();
+            try { done(document.execCommand('copy')); } catch (_) { done(false); }
+            document.body.removeChild(ta);
+        }
+    });
 })();
 </script>
