@@ -1,0 +1,82 @@
+---
+layout: page
+width: expand
+title: Algorotoscope - Compare a Target Across Styles
+permalink: /target.html
+---
+
+{% assign models = site.data.models | sort: 'name' %}
+
+<div class="uk-container uk-container-expand uk-margin">
+
+    <div class="uk-margin">
+        <h3 id="target-title">Pick a target image</h3>
+        <p class="uk-text-meta" id="target-meta"></p>
+    </div>
+
+    <div class="uk-margin">
+        <label class="uk-form-label" for="target-picker">Target image</label>
+        <input id="target-picker" type="search" class="uk-input" placeholder="Type a target filename (e.g. bagels-plain-boiling.jpeg)..." list="target-options" style="max-width: 480px;">
+        <datalist id="target-options">
+            {% for t in site.data.targets %}<option value="{{ t.name | strip }}">{% endfor %}
+        </datalist>
+        <button id="target-go" class="uk-button uk-button-primary uk-margin-small-left" type="button">Show</button>
+    </div>
+
+    <div id="target-grid" class="uk-child-width-1-4@m uk-grid-small uk-grid-match uk-text-center" data-uk-grid>
+        {% for m in models %}
+        <div class="target-card" data-slug="{{ m.slug | strip }}" data-name="{{ m.name | downcase }}" style="display:none;">
+            <div class="uk-card uk-card-small uk-card-default uk-card-body">
+                <a class="target-link" target="_blank" rel="noopener"><img class="target-img" loading="lazy" decoding="async" alt="{{ m.name }}" style="width:100%;height:auto;background:#eee;min-height:120px;"></a>
+                <div class="uk-margin-small-top"><a href="/applied/{{ m.slug | strip }}/"><strong>{{ m.name }}</strong></a></div>
+                <div class="uk-text-meta">{{ m.category }}</div>
+            </div>
+        </div>
+        {% endfor %}
+    </div>
+
+</div>
+
+<script>
+(function () {
+    var BASE = 'https://kinlane-productions2.s3.amazonaws.com/algorotoscope-master/';
+    var picker = document.getElementById('target-picker');
+    var go = document.getElementById('target-go');
+    var title = document.getElementById('target-title');
+    var meta = document.getElementById('target-meta');
+    var cards = Array.prototype.slice.call(document.getElementsByClassName('target-card'));
+
+    function render(name) {
+        if (!name) return;
+        title.textContent = name;
+        meta.textContent = 'Showing this target rendered through every style. Broken thumbnails mean the combination was not generated.';
+        cards.forEach(function (c) {
+            var url = BASE + c.dataset.slug + '-' + name;
+            var img = c.getElementsByClassName('target-img')[0];
+            var link = c.getElementsByClassName('target-link')[0];
+            img.src = url;
+            link.href = url;
+            c.style.display = '';
+        });
+        if (history.replaceState) {
+            history.replaceState(null, '', '?t=' + encodeURIComponent(name));
+        }
+    }
+
+    function fromQuery() {
+        var m = window.location.search.match(/[?&]t=([^&]+)/);
+        return m ? decodeURIComponent(m[1]) : '';
+    }
+
+    go.addEventListener('click', function () { render(picker.value.trim()); });
+    picker.addEventListener('keydown', function (e) {
+        if (e.key === 'Enter') { e.preventDefault(); render(picker.value.trim()); }
+    });
+
+    var initial = fromQuery();
+    if (initial) {
+        picker.value = initial;
+        render(initial);
+    }
+})();
+</script>

@@ -2,93 +2,155 @@
 - name: New York Worlds Fair
   slug: 1939-new-york-worlds-fair
   image: https://algorithmic.rotoscope.work/images/collections/new-york-worlds-fair/1939-new-york-worlds-fair-square.jpg
+  category: Historical
+  tags: [history, americana, fair, 1939]
 - name: American Immigration Dumping Ground
   slug: america-immigration_dumping-ground
   image: https://algorithmic.rotoscope.work/images/collections/immigration/america-immigration-dumping-ground.jpg
+  category: Political
+  tags: [immigration, americana, political]
 - name: Socialism
   slug: america-under-socialism
   image: https://algorithmic.rotoscope.work/images/collections/socialism/america-under-socialism-square.jpg
+  category: Political
+  tags: [socialism, propaganda, political]
 - name: Francis Williams
   slug: francis-williams
   image: https://algorithmic.rotoscope.work/images/collections/francis-williams/francis-williams-square.jpg
+  category: Portrait
+  tags: [portrait, historical-figure]
 - name: American Dream
   slug: american-dream-fundamental
   image: https://algorithmic.rotoscope.work/images/collections/american-dream/american-dream-fundamental-square.jpg
-- name: Behaviorism 
+  category: Americana
+  tags: [americana, propaganda]
+- name: Behaviorism
   slug: bf-skinner
   image: https://algorithmic.rotoscope.work/images/collections/behaviorism/bf-skinner-feature.jpg
+  category: Conceptual
+  tags: [behaviorism, science, psychology, bf-skinner]
 - name: Birth of a Nation
   slug: birth-of-a-nation
   image: https://algorithmic.rotoscope.work/images/collections/birth-of-a-nation/birth-of-a-nation.jpg
+  category: Film
+  tags: [film, racism, americana, 1915]
 - name: Blue Circuit
   slug: blue-circuit
   image: https://algorithmic.rotoscope.work/images/collections/blue-circuit/blue-circuit-square.jpg
+  category: Circuit
+  tags: [circuit, abstract, blue]
 - name: Boston Massacre 1
   slug: boston-massacre-1
   image: https://kinlane-productions2.s3.us-east-1.amazonaws.com/algorotoscope-cli/filters/boston-massacre-1.png
+  category: Historical
+  tags: [boston-massacre, colonial, americana, history]
 - name: Boston Massacre 2
   slug: boston-massacre-2
   image: https://kinlane-productions2.s3.us-east-1.amazonaws.com/algorotoscope-cli/filters/boston-massacre-2.png
+  category: Historical
+  tags: [boston-massacre, colonial, americana, history]
 - name: Boston Massacre 3
   slug: boston-massacre-3
   image: https://kinlane-productions2.s3.us-east-1.amazonaws.com/algorotoscope-cli/filters/boston-massacre-3.png
+  category: Historical
+  tags: [boston-massacre, colonial, americana, history]
 - name: Braceros Domingo Ulloa
   slug: braceros-domingo-ulloa
   image: https://kinlane-productions2.s3.amazonaws.com/algorotoscope-cli/filters/braceros-domingo-ulloa.jpg
+  category: Art
+  tags: [art, immigration, mexican-american, labor]
 - name: California Travel by Train
   slug: california-travel-by-train
   image: https://algorithmic.rotoscope.work/images/collections/california-by-train/california-travel-by-train-square.jpg
+  category: Travel
+  tags: [travel, train, california, americana]
 - name: Citizenship
   slug: citizenship
   image: https://algorithmic.rotoscope.work/images/collections/citizenship/citizenship-square.jpg
+  category: Political
+  tags: [citizenship, political, immigration]
 - name: Copper Circuit
   slug: copper-circuit
   image: https://algorithmic.rotoscope.work/images/collections/copper-circuit/copper-circuit-feature.jpg
+  category: Circuit
+  tags: [circuit, abstract, copper]
 - name: Eugenics
   slug: eugenics
-  image: https://kinlane-productions2.s3.amazonaws.com/algorotoscope-cli/eugenics/eugenics-square.jpg  
+  image: https://kinlane-productions2.s3.amazonaws.com/algorotoscope-cli/eugenics/eugenics-square.jpg
+  category: Political
+  tags: [eugenics, propaganda, political, history]
 - name: Every Sunday Morning
   slug: every-sunday-morning
   image: https://algorithmic.rotoscope.work/images/collections/every-sunday-morning/every-sunday-morning-square.jpg
+  category: Americana
+  tags: [americana, religion]
 - name: Gone With the Wind
   slug: gone-with-the-wind
   image: https://algorithmic.rotoscope.work/images/collections/gone-with-the-wind/gone-with-the-wind-square.jpg
+  category: Film
+  tags: [film, americana, 1939]
 - name: Good Year Home Merchandise
   slug: good-year-home-merchandise
   image: https://algorithmic.rotoscope.work/images/collections/good-year/good-year-home-merchandise-square.jpg
+  category: Advertising
+  tags: [advertising, americana, mid-century]
 - name: Green Circuit
   slug: green-circuit
-  image: https://kinlane-productions2.s3.amazonaws.com/algorotoscope-cli/filters/green-circuit.jpg   
+  image: https://kinlane-productions2.s3.amazonaws.com/algorotoscope-cli/filters/green-circuit.jpg
+  category: Circuit
+  tags: [circuit, abstract, green]
 - name: John Wayne
   slug: john-wayne-the-searchers
-  image: https://algorithmic.rotoscope.work/images/collections/john-wayne/john-wayne-the-searchers-square.jpg  
+  image: https://algorithmic.rotoscope.work/images/collections/john-wayne/john-wayne-the-searchers-square.jpg
+  category: Film
+  tags: [film, western, americana, john-wayne]
 - name: Leaflets of the Russian Revolution
   slug: leaflets-of-the-russian-revolution
   image: https://algorithmic.rotoscope.work/images/collections/russian-propaganda/propagandaleaflets-feature.jpg
+  category: Propaganda
+  tags: [propaganda, russian, revolution, political]
 - name: Nazi Invasion
   slug: nazi-invasion
   image: https://algorithmic.rotoscope.work/images/collections/nazi-invasion/nazi-invasion-feature.jpg
+  category: Propaganda
+  tags: [propaganda, nazi, war, political, history]
 - name: Norman Rockwell Ruby Bridges
   slug: norman-rockwell-ruby-bridges
   image: https://algorithmic.rotoscope.work/images/collections/norman-rockwell-ruby-bridges/norman-rockwell-ruby-bridges-square.jpg
+  category: Art
+  tags: [art, civil-rights, americana, norman-rockwell]
 - name: Oakland California
   slug: oakland-california
   image: https://algorithmic.rotoscope.work/images/collections/oakland-california/oakland-california-square.jpg
+  category: Place
+  tags: [place, california, oakland, urban]
 - name: Persistence of Memory
   slug: dark-dali
   image: https://algorithmic.rotoscope.work/images/collections/persistence-of-memory/the-persistence-of-memory-feature.jpg
-- name: Purple Circuit 
+  category: Art
+  tags: [art, surrealism, dali]
+- name: Purple Circuit
   slug: purple-circuit
   image: https://kinlane-productions2.s3.amazonaws.com/algorotoscope-cli/filters/purple-circuit.jpg
+  category: Circuit
+  tags: [circuit, abstract, purple]
 - name: Red Circuit
   slug: red-circuit
   image: https://kinlane-productions2.s3.amazonaws.com/algorotoscope-cli/filters/red-circuit.jpg
+  category: Circuit
+  tags: [circuit, abstract, red]
 - name: Stalin
   slug: stalin-time
   image: https://algorithmic.rotoscope.work/images/collections/stalin/stalin-square.jpg
+  category: Propaganda
+  tags: [propaganda, stalin, russian, political, history]
 - name: Uncle Sam
   slug: uncle-sam
   image: https://algorithmic.rotoscope.work/images/collections/uncle-sam/uncle-sam-square.jpeg
+  category: Propaganda
+  tags: [propaganda, americana, recruitment, uncle-sam]
 - name: Yellow Journalism
   slug: yellow-journalism
   image: https://algorithmic.rotoscope.work/images/collections/yellow-journalism/yellow-journalism-square.jpeg
+  category: Media
+  tags: [media, journalism, americana]

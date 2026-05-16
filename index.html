@@ -6,25 +6,94 @@ title: Algorotoscope - Manage
 
 <div class="uk-container{{container}}">
 
-	<h3>Applied</h3>
-	<div class="uk-child-width-1-{{ columns }}@m uk-grid-match uk-text-center uk-margin-medium-top" data-uk-grid>
-	{% assign models = site.data.models | sort: 'name' %}
-	{% for model in models %}
-		<div style="width: 300px;">
-			<div>
-				<a href="/applied/{{ model.slug }}/"><img src="{{ model.image }}" width="100%"></a>
-				<h3 class="uk-card-title uk-margin"><a href="/applied/{{ model.slug }}/">{{ model.name }}</a></h3></h3>
-			</div>
-		</div>
-	{% endfor %}
-	</div>
+    <div class="uk-grid-small uk-margin" data-uk-grid>
+        <div class="uk-width-expand">
+            <input id="home-search" type="search" class="uk-input uk-form-large" placeholder="Search styles, targets, collections...">
+        </div>
+        <div>
+            <a href="/browse/" class="uk-button uk-button-primary uk-form-large">Browse all</a>
+        </div>
+    </div>
+    <div id="home-search-results" class="uk-margin uk-text-small" style="display:none;"></div>
 
-	<h3>Commands</h3>
+    <ul class="uk-subnav uk-subnav-pill">
+        <li><a href="/browse/">Browse &amp; search</a></li>
+        <li><a href="/collections/">Source collections</a></li>
+        <li><a href="/target.html">Compare a target across styles</a></li>
+    </ul>
 
-	<ul>
-		<li><a href="commands/pull-targets/">Pull Targets</a></li>
-		<li><a href="commands/apply-to-images/">Apply to Images</a></li>
-		<li><a href="commands/upload-applied-to-s3/">Upload Applied to S3</a></li>
-	</ul>
+    <h3>Styles ({{ site.data.models | size }})</h3>
+    <div class="uk-child-width-1-{{ columns | default: 6 }}@m uk-grid-small uk-grid-match uk-text-center uk-margin-medium-top" data-uk-grid>
+    {% assign models = site.data.models | sort: 'name' %}
+    {% for model in models %}
+        <div>
+            <div class="uk-card uk-card-small uk-card-default uk-card-body">
+                <a href="/applied/{{ model.slug }}/"><img loading="lazy" decoding="async" src="{{ model.image }}" alt="{{ model.name }}" style="width:100%;height:auto;background:#eee;min-height:140px;"></a>
+                <h4 class="uk-margin-small-top"><a href="/applied/{{ model.slug }}/">{{ model.name }}</a></h4>
+                <div class="uk-text-meta">{{ model.category }}</div>
+            </div>
+        </div>
+    {% endfor %}
+    </div>
+
+    <h3>Source Collections ({{ site.data.collections | size }})</h3>
+    <div class="uk-child-width-1-{{ columns | default: 6 }}@m uk-grid-small uk-grid-match uk-text-center uk-margin-medium-top" data-uk-grid>
+    {% assign collections = site.data.collections | sort: 'name' %}
+    {% for c in collections %}
+        <div>
+            <div class="uk-card uk-card-small uk-card-default uk-card-body">
+                <a href="/collections/#{{ c.slug }}"><img loading="lazy" decoding="async" src="{{ c.cover }}" alt="{{ c.name }}" style="width:100%;height:auto;background:#eee;min-height:140px;"></a>
+                <h5 class="uk-margin-small-top"><a href="/collections/#{{ c.slug }}">{{ c.name }}</a></h5>
+                <div class="uk-text-meta">{{ c.count }} images</div>
+            </div>
+        </div>
+    {% endfor %}
+    </div>
+
+    <h3>Commands</h3>
+    <ul>
+        <li><a href="/commands/pull-targets/">Pull Targets</a></li>
+        <li><a href="/commands/apply-to-images/">Apply to Images</a></li>
+        <li><a href="/commands/upload-applied-to-s3/">Upload Applied to S3</a></li>
+    </ul>
 
 </div>
+
+<script>
+(function () {
+    var input = document.getElementById('home-search');
+    var box = document.getElementById('home-search-results');
+    var idx = null;
+
+    function load() {
+        if (idx) return Promise.resolve(idx);
+        return fetch('/search.json').then(function (r) { return r.json(); }).then(function (j) {
+            idx = [].concat(j.models || [], j.collections || [], j.targets || []);
+            return idx;
+        });
+    }
+
+    function render(matches, q) {
+        if (!q) { box.style.display = 'none'; box.innerHTML = ''; return; }
+        if (matches.length === 0) {
+            box.innerHTML = '<em class="uk-text-muted">No matches.</em>';
+        } else {
+            box.innerHTML = matches.slice(0, 20).map(function (m) {
+                return '<div><a href="' + m.url + '">' + m.name + '</a> <span class="uk-text-meta">(' + m.type + ')</span></div>';
+            }).join('') + (matches.length > 20 ? '<div><a href="/browse/?q=' + encodeURIComponent(q) + '">See all ' + matches.length + ' results &rarr;</a></div>' : '');
+        }
+        box.style.display = '';
+    }
+
+    input.addEventListener('input', function () {
+        var q = input.value.trim().toLowerCase();
+        if (!q) { render([], ''); return; }
+        load().then(function (data) {
+            var matches = data.filter(function (m) {
+                return (m.name || '').toLowerCase().indexOf(q) !== -1;
+            });
+            render(matches, q);
+        });
+    });
+})();
+</script>

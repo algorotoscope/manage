@@ -1,10 +1,81 @@
-<div class="uk-child-width-1-{{ columns }}@m uk-grid-match uk-text-center uk-margin-medium-top" data-uk-grid>
 {% assign targets = site.data.targets %}
+
+<div class="uk-margin uk-flex uk-flex-middle uk-flex-wrap" style="gap: .75rem;">
+    <input id="applied-filter" type="search" class="uk-input" placeholder="Filter {{ targets | size }} targets by name..." style="max-width: 360px;">
+    <select id="applied-batch" class="uk-select" style="max-width: 160px;">
+        <option value="">All batches</option>
+        <option value="1">Batch 1</option>
+        <option value="2">Batch 2</option>
+        <option value="3">Batch 3</option>
+        <option value="4">Batch 4</option>
+        <option value="5">Batch 5</option>
+    </select>
+    <span id="applied-count" class="uk-text-muted"></span>
+</div>
+
+<div id="applied-grid" class="uk-child-width-1-{{ columns | default: 6 }}@m uk-grid-small uk-grid-match uk-text-center" data-uk-grid>
 {% for target in targets %}
-    <div style="width: 250px;">
-        <div>
-            <a href="https://kinlane-productions2.s3.amazonaws.com/algorotoscope-master/{{ slug }}-{{ target.name }}" target="_blank"><img src="https://kinlane-productions2.s3.amazonaws.com/algorotoscope-master/{{ slug }}-{{ target.name }}" width="100%"></a><br>{{ target.name }}
+    {% assign tname = target.name | strip %}
+    {% assign tbatch = target.batch | strip %}
+    <div class="applied-card" data-name="{{ tname | downcase }}" data-batch="{{ tbatch }}">
+        <div class="uk-card uk-card-small uk-card-default uk-card-body">
+            <a href="https://kinlane-productions2.s3.amazonaws.com/algorotoscope-master/{{ slug }}-{{ tname }}" target="_blank" rel="noopener">
+                <img loading="lazy" decoding="async" src="https://kinlane-productions2.s3.amazonaws.com/algorotoscope-master/{{ slug }}-{{ tname }}" alt="{{ tname }}" style="width:100%;height:auto;background:#eee;min-height:120px;">
+            </a>
+            <div class="uk-text-small uk-text-truncate uk-margin-small-top" title="{{ tname }}">{{ tname }}</div>
+            <div class="uk-text-meta">
+                <a href="/target.html?t={{ tname | url_encode }}">compare across styles</a>
+            </div>
         </div>
     </div>
 {% endfor %}
 </div>
+
+<div class="uk-text-center uk-margin">
+    <button id="applied-more" class="uk-button uk-button-default" type="button">Load more</button>
+</div>
+
+<script>
+(function () {
+    var PAGE = 60;
+    var grid = document.getElementById('applied-grid');
+    var cards = Array.prototype.slice.call(grid.getElementsByClassName('applied-card'));
+    var filter = document.getElementById('applied-filter');
+    var batch = document.getElementById('applied-batch');
+    var more = document.getElementById('applied-more');
+    var count = document.getElementById('applied-count');
+    var visible = [];
+
+    function apply() {
+        var q = (filter.value || '').trim().toLowerCase();
+        var b = batch.value;
+        visible = cards.filter(function (c) {
+            var nameOk = !q || c.dataset.name.indexOf(q) !== -1;
+            var batchOk = !b || c.dataset.batch === b;
+            return nameOk && batchOk;
+        });
+        cards.forEach(function (c) { c.style.display = 'none'; });
+        visible.slice(0, PAGE).forEach(function (c) { c.style.display = ''; });
+        update();
+    }
+
+    function update() {
+        var shown = visible.filter(function (c) { return c.style.display !== 'none'; }).length;
+        count.textContent = shown + ' of ' + visible.length + ' shown';
+        more.style.display = shown < visible.length ? '' : 'none';
+    }
+
+    more.addEventListener('click', function () {
+        var shownIdx = 0;
+        for (var i = 0; i < visible.length; i++) {
+            if (visible[i].style.display !== 'none') shownIdx = i + 1;
+        }
+        visible.slice(shownIdx, shownIdx + PAGE).forEach(function (c) { c.style.display = ''; });
+        update();
+    });
+
+    filter.addEventListener('input', apply);
+    batch.addEventListener('change', apply);
+    apply();
+})();
+</script>

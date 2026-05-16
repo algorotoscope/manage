@@ -1,13 +1,54 @@
 ---
 layout: null
 ---
-[
-  {% for post in site.posts %}
+{
+  "models": [
+    {% assign models = site.data.models | sort: 'name' %}
+    {% for m in models %}
     {
-      "title"    : "{{ post.title | escape }}",
-      "tags"     : "{{ post.tags | join: ', ' }}",
-      "url"      : "{{ post.baseurl }}{{ post.url }}",
-      "date"     : "{{ post.date }}"
-    } {% unless forloop.last %},{% endunless %}
-  {% endfor %}
-]
+      "type": "model",
+      "name": {{ m.name | strip | jsonify }},
+      "slug": {{ m.slug | strip | jsonify }},
+      "image": {{ m.image | strip | jsonify }},
+      "category": {{ m.category | default: "" | jsonify }},
+      "tags": {{ m.tags | default: "" | jsonify }},
+      "url": "/applied/{{ m.slug | strip }}/"
+    }{% unless forloop.last %},{% endunless %}
+    {% endfor %}
+  ],
+  "targets": [
+    {% assign targets = site.data.targets | sort: 'name' %}
+    {% for t in targets %}
+    {
+      "type": "target",
+      "name": {{ t.name | strip | jsonify }},
+      "batch": {{ t.batch | jsonify }},
+      "url": "/target.html?t={{ t.name | strip | url_encode }}"
+    }{% unless forloop.last %},{% endunless %}
+    {% endfor %}
+  ],
+  "collections": [
+    {% assign collections = site.data.collections | sort: 'name' %}
+    {% for c in collections %}
+    {
+      "type": "collection",
+      "name": {{ c.name | jsonify }},
+      "slug": {{ c.slug | jsonify }},
+      "image": {{ c.cover | jsonify }},
+      "count": {{ c.count | jsonify }},
+      "url": "/collections/#{{ c.slug }}"
+    }{% unless forloop.last %},{% endunless %}
+    {% endfor %}
+  ],
+  "posts": [
+    {% for post in site.posts %}
+    {
+      "type": "post",
+      "title": "{{ post.title | escape }}",
+      "tags": "{{ post.tags | join: ', ' }}",
+      "url": "{{ post.baseurl }}{{ post.url }}",
+      "date": "{{ post.date }}"
+    }{% unless forloop.last %},{% endunless %}
+    {% endfor %}
+  ]
+}

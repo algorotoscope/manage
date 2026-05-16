@@ -3,7 +3,16 @@ left:
   - title: Home
     url: /
 
-  - title: Collections
+  - title: Browse & Search
+    url: /browse/
+
+  - title: Source Collections
+    url: /collections/
+
+  - title: Compare Target
+    url: /target.html
+
+  - title: Styles
     dropdown:
       - title: America Immigration Dumping Ground
         url: /applied/america-immigration_dumping-ground/
@@ -19,16 +28,16 @@ left:
         url: /applied/blue-circuit/
       - title: Braceros Domingo Ulloa
         url: /applied/braceros-domingo-ulloa/
-      - title: California Trvel by Train
+      - title: California Travel by Train
         url: /applied/california-travel-by-train/
       - title: Citizenship
         url: /applied/citizenship/
       - title: Copper Circuit
-        url: /applied/copper-circuit/                                               
+        url: /applied/copper-circuit/
       - title: Every Sunday Morning
         url: /applied/every-sunday-morning/
       - title: Goodyear Home Merchandise
-        url: /applied/good-year-home-merchandise/ 
+        url: /applied/good-year-home-merchandise/
       - title: Leaflets of the Russian Revolution
         url: /applied/leaflets-of-the-russian-revolution/
       - title: Nazi Invasion
@@ -41,9 +50,9 @@ left:
         url: /applied/persistence-of-memory/
       - title: Stalin
         url: /applied/stalin/
-      - title: Uncle Same
+      - title: Uncle Sam
         url: /applied/uncle-sam/
       - title: Yellow Journalism
-        url: /applied/yellow-journalism/                            
+        url: /applied/yellow-journalism/
 
 right:
