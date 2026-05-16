@@ -22,29 +22,47 @@ title: Algorotoscope - Manage
         <li><a href="/target.html">Compare a target across styles</a></li>
     </ul>
 
+    <style>
+        .home-thumb {
+            display: block;
+            width: 100%;
+            aspect-ratio: 1 / 1;
+            object-fit: cover;
+            background: #eee;
+        }
+    </style>
+
     <h3>Styles ({{ site.data.models | size }})</h3>
-    <div class="uk-child-width-1-{{ columns | default: 6 }}@m uk-grid-small uk-grid-match uk-text-center uk-margin-medium-top" data-uk-grid>
+    <div class="uk-child-width-1-2@s uk-child-width-1-3@m uk-child-width-1-4@l uk-grid-match uk-text-center uk-margin-medium-top" data-uk-grid>
     {% assign models = site.data.models | sort: 'name' %}
     {% for model in models %}
         <div>
-            <div class="uk-card uk-card-small uk-card-default uk-card-body">
-                <a href="/applied/{{ model.slug }}/"><img loading="lazy" decoding="async" src="{{ model.image }}" alt="{{ model.name }}" style="width:100%;height:auto;background:#eee;min-height:140px;"></a>
-                <h4 class="uk-margin-small-top"><a href="/applied/{{ model.slug }}/">{{ model.name }}</a></h4>
-                <div class="uk-text-meta">{{ model.category }}</div>
+            <div class="uk-card uk-card-default">
+                <div class="uk-card-media-top">
+                    <a href="/applied/{{ model.slug }}/"><img loading="lazy" decoding="async" class="home-thumb" src="{{ model.image }}" alt="{{ model.name }}"></a>
+                </div>
+                <div class="uk-card-body uk-padding-small">
+                    <h4 class="uk-margin-remove"><a href="/applied/{{ model.slug }}/">{{ model.name }}</a></h4>
+                    <div class="uk-text-meta">{{ model.category }}</div>
+                </div>
             </div>
         </div>
     {% endfor %}
     </div>
 
     <h3>Source Collections ({{ site.data.collections | size }})</h3>
-    <div class="uk-child-width-1-{{ columns | default: 6 }}@m uk-grid-small uk-grid-match uk-text-center uk-margin-medium-top" data-uk-grid>
+    <div class="uk-child-width-1-2@s uk-child-width-1-3@m uk-child-width-1-4@l uk-grid-match uk-text-center uk-margin-medium-top" data-uk-grid>
     {% assign collections = site.data.collections | sort: 'name' %}
     {% for c in collections %}
         <div>
-            <div class="uk-card uk-card-small uk-card-default uk-card-body">
-                <a href="/collections/#{{ c.slug }}"><img loading="lazy" decoding="async" src="{{ c.cover }}" alt="{{ c.name }}" style="width:100%;height:auto;background:#eee;min-height:140px;"></a>
-                <h5 class="uk-margin-small-top"><a href="/collections/#{{ c.slug }}">{{ c.name }}</a></h5>
-                <div class="uk-text-meta">{{ c.count }} images</div>
+            <div class="uk-card uk-card-default">
+                <div class="uk-card-media-top">
+                    <a href="/collections/{{ c.slug }}/"><img loading="lazy" decoding="async" class="home-thumb" src="{{ c.cover }}" alt="{{ c.name }}"></a>
+                </div>
+                <div class="uk-card-body uk-padding-small">
+                    <h5 class="uk-margin-remove"><a href="/collections/{{ c.slug }}/">{{ c.name }}</a></h5>
+                    <div class="uk-text-meta">{{ c.count }} images</div>
+                </div>
             </div>
         </div>
     {% endfor %}
