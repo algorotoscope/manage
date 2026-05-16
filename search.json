@@ -35,10 +35,26 @@ layout: null
       "name": {{ c.name | jsonify }},
       "slug": {{ c.slug | jsonify }},
       "image": {{ c.cover | jsonify }},
+      "description": {{ c.description | jsonify }},
+      "tags": {{ c.tags | jsonify }},
       "count": {{ c.count | jsonify }},
-      "url": "/collections/#{{ c.slug }}"
+      "url": "/collections/{{ c.slug }}/"
     }{% unless forloop.last %},{% endunless %}
     {% endfor %}
+  ],
+  "images": [
+    {% for c in collections %}{% for img in c.images %}
+    {
+      "type": "image",
+      "name": {{ img.title | jsonify }},
+      "file": {{ img.file | jsonify }},
+      "collection": {{ c.slug | jsonify }},
+      "collection_name": {{ c.name | jsonify }},
+      "description": {{ img.description | jsonify }},
+      "tags": {{ img.tags | jsonify }},
+      "image": "/images/collections/{{ c.slug }}/{{ img.file }}",
+      "url": "/collections/{{ c.slug }}/"
+    }{% unless forloop.last %},{% endunless %}{% endfor %}{% unless forloop.last %},{% endunless %}{% endfor %}
   ],
   "posts": [
     {% for post in site.posts %}

@@ -1,0 +1,77 @@
+{% assign slug = include.slug %}
+{% assign c = nil %}
+{% for col in site.data.collections %}{% if col.slug == slug %}{% assign c = col %}{% endif %}{% endfor %}
+
+{% if c == nil %}
+<div class="uk-alert-danger" data-uk-alert>
+    <p>Collection <code>{{ slug }}</code> not found in <code>_data/collections.yml</code>.</p>
+</div>
+{% else %}
+
+<div class="uk-container uk-container-expand uk-margin">
+
+    <p class="uk-margin-small"><a href="/collections/">&larr; all collections</a></p>
+
+    <div class="uk-grid-small" data-uk-grid>
+        <div class="uk-width-1-4@m">
+            <img loading="lazy" decoding="async" src="{{ c.cover }}" alt="{{ c.name }}" style="width:100%;height:auto;background:#eee;">
+        </div>
+        <div class="uk-width-expand@m">
+            <h1>{{ c.name }}</h1>
+            <p class="uk-text-lead">{{ c.description }}</p>
+            <p>
+                {% for t in c.tags %}<span class="uk-label uk-margin-small-right">{{ t }}</span>{% endfor %}
+            </p>
+            <p class="uk-text-meta">{{ c.count }} images</p>
+        </div>
+    </div>
+
+    <hr>
+
+    <div class="uk-margin">
+        <input id="ci-filter" type="search" class="uk-input" placeholder="Filter images by title, description, tag, or filename..." style="max-width:420px;">
+        <span id="ci-count" class="uk-text-meta uk-margin-small-left"></span>
+    </div>
+
+    <div id="ci-grid" class="uk-child-width-1-4@m uk-grid-small uk-grid-match" data-uk-grid>
+        {% for img in c.images %}
+        <div class="ci-card"
+             data-haystack="{{ img.title | downcase }} {{ img.description | downcase }} {{ img.tags | join: ' ' | downcase }} {{ img.file | downcase }}">
+            <div class="uk-card uk-card-small uk-card-default uk-card-body">
+                <a href="/images/collections/{{ c.slug }}/{{ img.file }}" target="_blank" rel="noopener">
+                    <img loading="lazy" decoding="async" src="/images/collections/{{ c.slug }}/{{ img.file }}" alt="{{ img.title }}" style="width:100%;height:auto;background:#eee;min-height:140px;">
+                </a>
+                <h5 class="uk-margin-small-top uk-margin-remove-bottom">{{ img.title }}</h5>
+                <p class="uk-text-small">{{ img.description }}</p>
+                <div>
+                    {% for t in img.tags %}<span class="uk-label uk-margin-small-right uk-margin-small-top">{{ t }}</span>{% endfor %}
+                </div>
+                <div class="uk-text-meta uk-text-truncate uk-margin-small-top" title="{{ img.file }}">{{ img.file }}</div>
+            </div>
+        </div>
+        {% endfor %}
+    </div>
+
+</div>
+
+<script>
+(function () {
+    var filter = document.getElementById('ci-filter');
+    var count = document.getElementById('ci-count');
+    var cards = Array.prototype.slice.call(document.getElementsByClassName('ci-card'));
+    function apply() {
+        var q = (filter.value || '').trim().toLowerCase();
+        var shown = 0;
+        cards.forEach(function (c) {
+            var ok = !q || c.dataset.haystack.indexOf(q) !== -1;
+            c.style.display = ok ? '' : 'none';
+            if (ok) shown++;
+        });
+        count.textContent = shown + ' of ' + cards.length + ' images';
+    }
+    filter.addEventListener('input', apply);
+    apply();
+})();
+</script>
+
+{% endif %}

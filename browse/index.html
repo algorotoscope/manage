@@ -9,15 +9,16 @@ title: Algorotoscope - Browse & Search
 <div class="uk-container uk-container-expand uk-margin">
 
     <div class="uk-margin">
-        <input id="browse-q" type="search" class="uk-input uk-form-large" placeholder="Search styles, targets, collections..." style="max-width:560px;">
+        <input id="browse-q" type="search" class="uk-input uk-form-large" placeholder="Search styles, targets, collections, images..." style="max-width:560px;">
         <span id="browse-meta" class="uk-text-meta uk-margin-small-left"></span>
     </div>
 
     <div class="uk-margin">
         <span class="uk-text-meta">Type:</span>
         <label><input class="uk-checkbox browse-type" type="checkbox" value="model" checked> Styles</label>
-        <label class="uk-margin-small-left"><input class="uk-checkbox browse-type" type="checkbox" value="target" checked> Targets</label>
+        <label class="uk-margin-small-left"><input class="uk-checkbox browse-type" type="checkbox" value="image" checked> Source images</label>
         <label class="uk-margin-small-left"><input class="uk-checkbox browse-type" type="checkbox" value="collection" checked> Collections</label>
+        <label class="uk-margin-small-left"><input class="uk-checkbox browse-type" type="checkbox" value="target"> Targets</label>
     </div>
 
     <div class="uk-margin">
@@ -31,6 +32,11 @@ title: Algorotoscope - Browse & Search
         <span class="uk-text-meta uk-margin-small-left">Tag:</span>
         <select id="browse-tag" class="uk-select" style="max-width:220px;display:inline-block;">
             <option value="">All tags</option>
+        </select>
+
+        <span class="uk-text-meta uk-margin-small-left">Collection:</span>
+        <select id="browse-collection" class="uk-select" style="max-width:240px;display:inline-block;">
+            <option value="">All collections</option>
         </select>
 
         <span class="uk-text-meta uk-margin-small-left">Target batch:</span>
@@ -59,17 +65,23 @@ title: Algorotoscope - Browse & Search
     var q = document.getElementById('browse-q');
     var cat = document.getElementById('browse-category');
     var tag = document.getElementById('browse-tag');
+    var coll = document.getElementById('browse-collection');
     var batch = document.getElementById('browse-batch');
     var meta = document.getElementById('browse-meta');
     var results = document.getElementById('browse-results');
     var more = document.getElementById('browse-more');
     var typeBoxes = document.getElementsByClassName('browse-type');
-    var data = { models: [], targets: [], collections: [] };
+    var data = { models: [], targets: [], collections: [], images: [] };
     var filtered = [];
     var shown = 0;
 
+    function escapeHTML(s) {
+        return (s || '').replace(/[&<>"']/g, function (c) {
+            return { '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c];
+        });
+    }
+
     function placeholder(label) {
-        // Inline SVG placeholder for items without a thumbnail (e.g. targets).
         var t = encodeURIComponent((label || '').slice(0, 28));
         return 'data:image/svg+xml;utf8,' +
             '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 140">' +
@@ -79,7 +91,7 @@ title: Algorotoscope - Browse & Search
     }
 
     function cardHTML(item) {
-        var img, href, badge, sub = '';
+        var img, href, badge, sub = '', desc = '';
         if (item.type === 'model') {
             img = item.image || placeholder(item.name);
             href = item.url;
@@ -89,6 +101,14 @@ title: Algorotoscope - Browse & Search
             img = item.image || placeholder(item.name);
             href = item.url;
             badge = 'Collection';
+            sub = (item.count || '') + ' images';
+            desc = item.description || '';
+        } else if (item.type === 'image') {
+            img = item.image;
+            href = item.url;
+            badge = 'Image';
+            sub = item.collection_name || '';
+            desc = item.description || '';
         } else {
             img = TARGET_BASE + 'uncle-sam-' + item.name;
             href = item.url;
@@ -98,9 +118,10 @@ title: Algorotoscope - Browse & Search
         return '' +
             '<div>' +
                 '<div class="uk-card uk-card-small uk-card-default uk-card-body uk-text-center">' +
-                    '<a href="' + href + '"><img loading="lazy" decoding="async" src="' + img + '" alt="' + (item.name || item.title || '') + '" style="width:100%;height:auto;background:#eee;min-height:120px;"></a>' +
-                    '<div class="uk-text-small uk-text-truncate uk-margin-small-top" title="' + (item.name || '') + '"><a href="' + href + '">' + (item.name || '') + '</a></div>' +
-                    '<div class="uk-text-meta">' + badge + (sub ? ' &middot; ' + sub : '') + '</div>' +
+                    '<a href="' + href + '"><img loading="lazy" decoding="async" src="' + img + '" alt="' + escapeHTML(item.name || '') + '" style="width:100%;height:auto;background:#eee;min-height:120px;"></a>' +
+                    '<div class="uk-text-small uk-text-truncate uk-margin-small-top" title="' + escapeHTML(item.name || '') + '"><a href="' + href + '">' + escapeHTML(item.name || '') + '</a></div>' +
+                    '<div class="uk-text-meta">' + badge + (sub ? ' &middot; ' + escapeHTML(sub) : '') + '</div>' +
+                    (desc ? '<p class="uk-text-small uk-text-left uk-margin-small-top">' + escapeHTML(desc.slice(0, 140)) + (desc.length > 140 ? '…' : '') + '</p>' : '') +
                 '</div>' +
             '</div>';
     }
@@ -109,10 +130,17 @@ title: Algorotoscope - Browse & Search
         return Array.prototype.filter.call(typeBoxes, function (b) { return b.checked; }).map(function (b) { return b.value; });
     }
 
+    function hayFor(item) {
+        var parts = [item.name, item.description, item.category, item.collection_name, item.file];
+        if (item.tags) {
+            parts.push(Array.isArray(item.tags) ? item.tags.join(' ') : item.tags);
+        }
+        return parts.filter(Boolean).join(' ').toLowerCase();
+    }
+
     function matchText(item, qq) {
         if (!qq) return true;
-        var haystack = (item.name || '') + ' ' + (item.category || '') + ' ' + (item.tags || '');
-        return haystack.toLowerCase().indexOf(qq) !== -1;
+        return hayFor(item).indexOf(qq) !== -1;
     }
 
     function recompute() {
@@ -121,25 +149,37 @@ title: Algorotoscope - Browse & Search
         var c = cat.value;
         var t = tag.value;
         var b = batch.value;
+        var cl = coll.value;
         var all = [];
         if (types.indexOf('model') !== -1) {
             data.models.forEach(function (m) {
                 if (c && m.category !== c) return;
                 if (t && (!m.tags || m.tags.indexOf(t) === -1)) return;
+                if (cl) return;
                 if (matchText(m, qq)) all.push(m);
+            });
+        }
+        if (types.indexOf('image') !== -1 && data.images) {
+            data.images.forEach(function (im) {
+                if (cl && im.collection !== cl) return;
+                if (t && (!im.tags || im.tags.indexOf(t) === -1)) return;
+                if (c) return;
+                if (matchText(im, qq)) all.push(im);
+            });
+        }
+        if (types.indexOf('collection') !== -1) {
+            data.collections.forEach(function (co) {
+                if (cl && co.slug !== cl) return;
+                if (t && (!co.tags || co.tags.indexOf(t) === -1)) return;
+                if (c || b) return;
+                if (matchText(co, qq)) all.push(co);
             });
         }
         if (types.indexOf('target') !== -1) {
             data.targets.forEach(function (tg) {
                 if (b && String(tg.batch).trim() !== b) return;
-                if (c || t) return; // category/tag don't apply to targets
+                if (c || t || cl) return;
                 if (matchText(tg, qq)) all.push(tg);
-            });
-        }
-        if (types.indexOf('collection') !== -1) {
-            data.collections.forEach(function (co) {
-                if (c || t || b) return;
-                if (matchText(co, qq)) all.push(co);
             });
         }
         filtered = all;
@@ -159,18 +199,40 @@ title: Algorotoscope - Browse & Search
 
     function populateTags() {
         var seen = {};
-        data.models.forEach(function (m) {
+        (data.models || []).forEach(function (m) {
             (m.tags || []).forEach(function (t) { if (t) seen[t] = true; });
         });
+        (data.collections || []).forEach(function (c) {
+            (c.tags || []).forEach(function (t) { if (t) seen[t] = true; });
+        });
+        (data.images || []).forEach(function (i) {
+            (i.tags || []).forEach(function (t) { if (t) seen[t] = true; });
+        });
         var opts = Object.keys(seen).sort().map(function (t) {
-            return '<option value="' + t + '">' + t + '</option>';
+            return '<option value="' + escapeHTML(t) + '">' + escapeHTML(t) + '</option>';
         }).join('');
         tag.insertAdjacentHTML('beforeend', opts);
+    }
+
+    function populateCollections() {
+        var opts = (data.collections || []).slice().sort(function (a, b) {
+            return (a.name || '').localeCompare(b.name || '');
+        }).map(function (c) {
+            return '<option value="' + escapeHTML(c.slug) + '">' + escapeHTML(c.name) + '</option>';
+        }).join('');
+        coll.insertAdjacentHTML('beforeend', opts);
+    }
+
+    function applyQueryString() {
+        var m = window.location.search.match(/[?&]q=([^&]+)/);
+        if (m) q.value = decodeURIComponent(m[1].replace(/\+/g, ' '));
     }
 
     fetch('/search.json').then(function (r) { return r.json(); }).then(function (j) {
         data = j;
         populateTags();
+        populateCollections();
+        applyQueryString();
         recompute();
     }).catch(function (e) {
         meta.textContent = 'Failed to load search index: ' + e;
@@ -179,6 +241,7 @@ title: Algorotoscope - Browse & Search
     q.addEventListener('input', recompute);
     cat.addEventListener('change', recompute);
     tag.addEventListener('change', recompute);
+    coll.addEventListener('change', recompute);
     batch.addEventListener('change', recompute);
     Array.prototype.forEach.call(typeBoxes, function (b) { b.addEventListener('change', recompute); });
     more.addEventListener('click', renderMore);

@@ -1,298 +1,2234 @@
 - slug: 1939-new-york-worlds-fair
   name: 1939 New York World's Fair
+  description: Imagery evoking the 1939 New York World's Fair — a snapshot of late-1930s American optimism, industrial design, and visions of the future.
+  tags:
+  - history
+  - americana
+  - worlds-fair
+  - '1939'
+  - futurism
   cover: /images/collections/1939-new-york-worlds-fair/1939-new-york-worlds-fair-square.jpg
   count: 1
   images:
-    - 1939-new-york-worlds-fair-square.jpg
+  - file: 1939-new-york-worlds-fair-square.jpg
+    title: 1939 New York World's Fair
+    description: Imagery evoking the 1939 New York World's Fair — a snapshot of late-1930s American optimism, industrial design, and visions of the future.
+    tags:
+    - '1939'
+    - americana
+    - futurism
+    - history
+    - worlds-fair
 - slug: america-immigration-dumping-ground
   name: America Immigration Dumping Ground
+  description: Reference imagery exploring the rhetoric and visual language of US immigration debates — borders, gateways, faith, and arrival.
+  tags:
+  - immigration
+  - americana
+  - political
+  - borders
   cover: /images/collections/america-immigration-dumping-ground/america-immigration-dumping-ground.jpg
   count: 20
   images:
-    - america-immigration-dumping-ground.jpg
-    - barbed.jpg
-    - border-crossing.jpg
-    - border-fence.jpg
-    - church.jpg
-    - congress.jpg
-    - corner.jpg
-    - do-not-enter.jpg
-    - downtown.jpg
-    - ellis-island.jpg
-    - faith.jpg
-    - jesus.jpg
-    - laundromat.jpg
-    - make-it-to-nyc.jpg
-    - no-usa-return.jpg
-    - politics.jpg
-    - pressure.jpg
-    - restaurant.jpg
-    - veterans.jpg
-    - white-man.jpg
+  - file: america-immigration-dumping-ground.jpg
+    title: America Immigration Dumping Ground
+    description: Reference imagery exploring the rhetoric and visual language of US immigration debates — borders, gateways, faith, and arrival.
+    tags:
+    - americana
+    - borders
+    - immigration
+    - political
+  - file: barbed.jpg
+    title: Barbed
+    description: Barbed — part of the America Immigration Dumping Ground collection. Reference imagery exploring the rhetoric and visual language of US immigration debates — borders, gateways, faith, and arrival.
+    tags:
+    - americana
+    - borders
+    - immigration
+    - political
+  - file: border-crossing.jpg
+    title: Border Crossing
+    description: Border Crossing — part of the America Immigration Dumping Ground collection. Reference imagery exploring the rhetoric and visual language of US immigration debates — borders, gateways, faith, and arrival.
+    tags:
+    - americana
+    - border
+    - borders
+    - immigration
+    - political
+  - file: border-fence.jpg
+    title: Border Fence
+    description: Border Fence — part of the America Immigration Dumping Ground collection. Reference imagery exploring the rhetoric and visual language of US immigration debates — borders, gateways, faith, and arrival.
+    tags:
+    - americana
+    - border
+    - borders
+    - fence
+    - immigration
+    - political
+  - file: church.jpg
+    title: Church
+    description: Church — part of the America Immigration Dumping Ground collection. Reference imagery exploring the rhetoric and visual language of US immigration debates — borders, gateways, faith, and arrival.
+    tags:
+    - americana
+    - borders
+    - church
+    - immigration
+    - political
+  - file: congress.jpg
+    title: Congress
+    description: Congress — part of the America Immigration Dumping Ground collection. Reference imagery exploring the rhetoric and visual language of US immigration debates — borders, gateways, faith, and arrival.
+    tags:
+    - americana
+    - borders
+    - congress
+    - immigration
+    - political
+  - file: corner.jpg
+    title: Corner
+    description: Corner — part of the America Immigration Dumping Ground collection. Reference imagery exploring the rhetoric and visual language of US immigration debates — borders, gateways, faith, and arrival.
+    tags:
+    - americana
+    - borders
+    - immigration
+    - political
+  - file: do-not-enter.jpg
+    title: Do Not Enter
+    description: Do Not Enter — part of the America Immigration Dumping Ground collection. Reference imagery exploring the rhetoric and visual language of US immigration debates — borders, gateways, faith, and arrival.
+    tags:
+    - americana
+    - borders
+    - immigration
+    - political
+  - file: downtown.jpg
+    title: Downtown
+    description: Downtown — part of the America Immigration Dumping Ground collection. Reference imagery exploring the rhetoric and visual language of US immigration debates — borders, gateways, faith, and arrival.
+    tags:
+    - americana
+    - borders
+    - downtown
+    - immigration
+    - political
+  - file: ellis-island.jpg
+    title: Ellis Island
+    description: Ellis Island — part of the America Immigration Dumping Ground collection. Reference imagery exploring the rhetoric and visual language of US immigration debates — borders, gateways, faith, and arrival.
+    tags:
+    - americana
+    - borders
+    - immigration
+    - political
+  - file: faith.jpg
+    title: Faith
+    description: Faith — part of the America Immigration Dumping Ground collection. Reference imagery exploring the rhetoric and visual language of US immigration debates — borders, gateways, faith, and arrival.
+    tags:
+    - americana
+    - borders
+    - immigration
+    - political
+  - file: jesus.jpg
+    title: Jesus
+    description: Jesus — part of the America Immigration Dumping Ground collection. Reference imagery exploring the rhetoric and visual language of US immigration debates — borders, gateways, faith, and arrival.
+    tags:
+    - americana
+    - borders
+    - immigration
+    - jesus
+    - political
+  - file: laundromat.jpg
+    title: Laundromat
+    description: Laundromat — part of the America Immigration Dumping Ground collection. Reference imagery exploring the rhetoric and visual language of US immigration debates — borders, gateways, faith, and arrival.
+    tags:
+    - americana
+    - borders
+    - immigration
+    - political
+  - file: make-it-to-nyc.jpg
+    title: Make It To NYC
+    description: Make It To NYC — part of the America Immigration Dumping Ground collection. Reference imagery exploring the rhetoric and visual language of US immigration debates — borders, gateways, faith, and arrival.
+    tags:
+    - americana
+    - borders
+    - immigration
+    - nyc
+    - political
+  - file: no-usa-return.jpg
+    title: No USA Return
+    description: No USA Return — part of the America Immigration Dumping Ground collection. Reference imagery exploring the rhetoric and visual language of US immigration debates — borders, gateways, faith, and arrival.
+    tags:
+    - americana
+    - borders
+    - immigration
+    - political
+  - file: politics.jpg
+    title: Politics
+    description: Politics — part of the America Immigration Dumping Ground collection. Reference imagery exploring the rhetoric and visual language of US immigration debates — borders, gateways, faith, and arrival.
+    tags:
+    - americana
+    - borders
+    - immigration
+    - political
+  - file: pressure.jpg
+    title: Pressure
+    description: Pressure — part of the America Immigration Dumping Ground collection. Reference imagery exploring the rhetoric and visual language of US immigration debates — borders, gateways, faith, and arrival.
+    tags:
+    - americana
+    - borders
+    - immigration
+    - political
+  - file: restaurant.jpg
+    title: Restaurant
+    description: Restaurant — part of the America Immigration Dumping Ground collection. Reference imagery exploring the rhetoric and visual language of US immigration debates — borders, gateways, faith, and arrival.
+    tags:
+    - americana
+    - borders
+    - immigration
+    - political
+  - file: veterans.jpg
+    title: Veterans
+    description: Veterans — part of the America Immigration Dumping Ground collection. Reference imagery exploring the rhetoric and visual language of US immigration debates — borders, gateways, faith, and arrival.
+    tags:
+    - americana
+    - borders
+    - immigration
+    - political
+  - file: white-man.jpg
+    title: White Man
+    description: White Man — part of the America Immigration Dumping Ground collection. Reference imagery exploring the rhetoric and visual language of US immigration debates — borders, gateways, faith, and arrival.
+    tags:
+    - americana
+    - borders
+    - immigration
+    - political
 - slug: bf-skinner-behaviorism
   name: B.F. Skinner — Behaviorism
+  description: Scenes filtered through the conceptual lens of B.F. Skinner's behaviorism — pigeons, surveillance, conditioning, and the apparatus of everyday observation.
+  tags:
+  - behaviorism
+  - psychology
+  - science
+  - bf-skinner
+  - surveillance
   cover: /images/collections/bf-skinner-behaviorism/bf-skinner-feature.jpg
   count: 26
   images:
-    - bf-skinner-alan-turing-side.jpg
-    - bf-skinner-docs-cranes-waterfront.jpg
-    - bf-skinner-factory-road.jpg
-    - bf-skinner-fat-old-pigeon-on-fence.jpeg
-    - bf-skinner-feature.jpg
-    - bf-skinner-grafitti-woman-bangs.jpeg
-    - bf-skinner-hiding-monster-statue.jpeg
-    - bf-skinner-horrified-statue.jpeg
-    - bf-skinner-old-broken-piano-street.jpg
-    - bf-skinner-old-piano-playing-hospital.jpg
-    - bf-skinner-pigeons-do-not-feed-them.jpg
-    - bf-skinner-pigeons-on-ledge.jpeg
-    - bf-skinner-razor-wire-buildings.jpg
-    - bf-skinner-sheep-grazing-grass-green.jpeg
-    - bf-skinner-shipping-docks_36331347010_o.jpg
-    - bf-skinner-statue-woman.jpeg
-    - bf-skinner-surveillance-3-camers.jpg
-    - bf-skinner-surveillance-cameras-in-corner.jpeg
-    - bf-skinner-surveillance-over-the-city.jpeg
-    - bf-skinner-train-switch.jpeg
-    - bf-skinner-two-statues-rock.jpeg
-    - bf-skinner-white-house-press-room-flag.jpeg
-    - bf-skinner.jpg
-    - leaflets-of-the-russian-revolution-eagle-spread-tree-2.jpeg
-    - leaflets-of-the-russian-revolution-edgefield-2.jpeg
-    - leaflets-of-the-russian-revolution-electric-tower-sun-behind.jpeg
+  - file: bf-skinner-alan-turing-side.jpg
+    title: Alan Turing Side
+    description: Alan Turing Side — part of the B.F. Skinner — Behaviorism collection. Scenes filtered through the conceptual lens of B.F. Skinner's behaviorism — pigeons, surveillance, conditioning, and the apparatus of everyday observation.
+    tags:
+    - behaviorism
+    - bf-skinner
+    - psychology
+    - science
+    - surveillance
+  - file: bf-skinner-docs-cranes-waterfront.jpg
+    title: Docs Cranes Waterfront
+    description: Docs Cranes Waterfront — part of the B.F. Skinner — Behaviorism collection. Scenes filtered through the conceptual lens of B.F. Skinner's behaviorism — pigeons, surveillance, conditioning, and the apparatus of everyday observation.
+    tags:
+    - behaviorism
+    - bf-skinner
+    - psychology
+    - science
+    - surveillance
+    - waterfront
+  - file: bf-skinner-factory-road.jpg
+    title: Factory Road
+    description: Factory Road — part of the B.F. Skinner — Behaviorism collection. Scenes filtered through the conceptual lens of B.F. Skinner's behaviorism — pigeons, surveillance, conditioning, and the apparatus of everyday observation.
+    tags:
+    - behaviorism
+    - bf-skinner
+    - factory
+    - psychology
+    - science
+    - surveillance
+  - file: bf-skinner-fat-old-pigeon-on-fence.jpeg
+    title: Fat Old Pigeon On Fence
+    description: Fat Old Pigeon On Fence — part of the B.F. Skinner — Behaviorism collection. Scenes filtered through the conceptual lens of B.F. Skinner's behaviorism — pigeons, surveillance, conditioning, and the apparatus of everyday observation.
+    tags:
+    - behaviorism
+    - bf-skinner
+    - fence
+    - old
+    - pigeon
+    - psychology
+    - science
+    - surveillance
+  - file: bf-skinner-feature.jpg
+    title: B.F. Skinner — Behaviorism
+    description: Scenes filtered through the conceptual lens of B.F. Skinner's behaviorism — pigeons, surveillance, conditioning, and the apparatus of everyday observation.
+    tags:
+    - behaviorism
+    - bf-skinner
+    - psychology
+    - science
+    - surveillance
+  - file: bf-skinner-grafitti-woman-bangs.jpeg
+    title: Graffiti Woman Bangs
+    description: Graffiti Woman Bangs — part of the B.F. Skinner — Behaviorism collection. Scenes filtered through the conceptual lens of B.F. Skinner's behaviorism — pigeons, surveillance, conditioning, and the apparatus of everyday observation.
+    tags:
+    - behaviorism
+    - bf-skinner
+    - psychology
+    - science
+    - surveillance
+  - file: bf-skinner-hiding-monster-statue.jpeg
+    title: Hiding Monster Statue
+    description: Hiding Monster Statue — part of the B.F. Skinner — Behaviorism collection. Scenes filtered through the conceptual lens of B.F. Skinner's behaviorism — pigeons, surveillance, conditioning, and the apparatus of everyday observation.
+    tags:
+    - behaviorism
+    - bf-skinner
+    - psychology
+    - science
+    - statue
+    - surveillance
+  - file: bf-skinner-horrified-statue.jpeg
+    title: Horrified Statue
+    description: Horrified Statue — part of the B.F. Skinner — Behaviorism collection. Scenes filtered through the conceptual lens of B.F. Skinner's behaviorism — pigeons, surveillance, conditioning, and the apparatus of everyday observation.
+    tags:
+    - behaviorism
+    - bf-skinner
+    - psychology
+    - science
+    - statue
+    - surveillance
+  - file: bf-skinner-old-broken-piano-street.jpg
+    title: Old Broken Piano Street
+    description: Old Broken Piano Street — part of the B.F. Skinner — Behaviorism collection. Scenes filtered through the conceptual lens of B.F. Skinner's behaviorism — pigeons, surveillance, conditioning, and the apparatus of everyday observation.
+    tags:
+    - behaviorism
+    - bf-skinner
+    - old
+    - piano
+    - psychology
+    - science
+    - surveillance
+  - file: bf-skinner-old-piano-playing-hospital.jpg
+    title: Old Piano Playing Hospital
+    description: Old Piano Playing Hospital — part of the B.F. Skinner — Behaviorism collection. Scenes filtered through the conceptual lens of B.F. Skinner's behaviorism — pigeons, surveillance, conditioning, and the apparatus of everyday observation.
+    tags:
+    - behaviorism
+    - bf-skinner
+    - old
+    - piano
+    - psychology
+    - science
+    - surveillance
+  - file: bf-skinner-pigeons-do-not-feed-them.jpg
+    title: Pigeons Do Not Feed Them
+    description: Pigeons Do Not Feed Them — part of the B.F. Skinner — Behaviorism collection. Scenes filtered through the conceptual lens of B.F. Skinner's behaviorism — pigeons, surveillance, conditioning, and the apparatus of everyday observation.
+    tags:
+    - behaviorism
+    - bf-skinner
+    - pigeons
+    - psychology
+    - science
+    - surveillance
+  - file: bf-skinner-pigeons-on-ledge.jpeg
+    title: Pigeons On Ledge
+    description: Pigeons On Ledge — part of the B.F. Skinner — Behaviorism collection. Scenes filtered through the conceptual lens of B.F. Skinner's behaviorism — pigeons, surveillance, conditioning, and the apparatus of everyday observation.
+    tags:
+    - behaviorism
+    - bf-skinner
+    - pigeons
+    - psychology
+    - science
+    - surveillance
+  - file: bf-skinner-razor-wire-buildings.jpg
+    title: Razor Wire Buildings
+    description: Razor Wire Buildings — part of the B.F. Skinner — Behaviorism collection. Scenes filtered through the conceptual lens of B.F. Skinner's behaviorism — pigeons, surveillance, conditioning, and the apparatus of everyday observation.
+    tags:
+    - behaviorism
+    - bf-skinner
+    - psychology
+    - razor
+    - science
+    - surveillance
+    - wire
+  - file: bf-skinner-sheep-grazing-grass-green.jpeg
+    title: Sheep Grazing Grass Green
+    description: Sheep Grazing Grass Green — part of the B.F. Skinner — Behaviorism collection. Scenes filtered through the conceptual lens of B.F. Skinner's behaviorism — pigeons, surveillance, conditioning, and the apparatus of everyday observation.
+    tags:
+    - behaviorism
+    - bf-skinner
+    - psychology
+    - science
+    - sheep
+    - surveillance
+  - file: bf-skinner-shipping-docks_36331347010_o.jpg
+    title: Shipping Docks
+    description: Shipping Docks — part of the B.F. Skinner — Behaviorism collection. Scenes filtered through the conceptual lens of B.F. Skinner's behaviorism — pigeons, surveillance, conditioning, and the apparatus of everyday observation.
+    tags:
+    - behaviorism
+    - bf-skinner
+    - docks
+    - psychology
+    - science
+    - surveillance
+  - file: bf-skinner-statue-woman.jpeg
+    title: Statue Woman
+    description: Statue Woman — part of the B.F. Skinner — Behaviorism collection. Scenes filtered through the conceptual lens of B.F. Skinner's behaviorism — pigeons, surveillance, conditioning, and the apparatus of everyday observation.
+    tags:
+    - behaviorism
+    - bf-skinner
+    - psychology
+    - science
+    - statue
+    - surveillance
+  - file: bf-skinner-surveillance-3-camers.jpg
+    title: Surveillance 3 Cameras
+    description: Surveillance 3 Cameras — part of the B.F. Skinner — Behaviorism collection. Scenes filtered through the conceptual lens of B.F. Skinner's behaviorism — pigeons, surveillance, conditioning, and the apparatus of everyday observation.
+    tags:
+    - behaviorism
+    - bf-skinner
+    - psychology
+    - science
+    - surveillance
+  - file: bf-skinner-surveillance-cameras-in-corner.jpeg
+    title: Surveillance Cameras In Corner
+    description: Surveillance Cameras In Corner — part of the B.F. Skinner — Behaviorism collection. Scenes filtered through the conceptual lens of B.F. Skinner's behaviorism — pigeons, surveillance, conditioning, and the apparatus of everyday observation.
+    tags:
+    - behaviorism
+    - bf-skinner
+    - cameras
+    - psychology
+    - science
+    - surveillance
+  - file: bf-skinner-surveillance-over-the-city.jpeg
+    title: Surveillance Over The City
+    description: Surveillance Over The City — part of the B.F. Skinner — Behaviorism collection. Scenes filtered through the conceptual lens of B.F. Skinner's behaviorism — pigeons, surveillance, conditioning, and the apparatus of everyday observation.
+    tags:
+    - behaviorism
+    - bf-skinner
+    - psychology
+    - science
+    - surveillance
+  - file: bf-skinner-train-switch.jpeg
+    title: Train Switch
+    description: Train Switch — part of the B.F. Skinner — Behaviorism collection. Scenes filtered through the conceptual lens of B.F. Skinner's behaviorism — pigeons, surveillance, conditioning, and the apparatus of everyday observation.
+    tags:
+    - behaviorism
+    - bf-skinner
+    - psychology
+    - science
+    - surveillance
+    - train
+  - file: bf-skinner-two-statues-rock.jpeg
+    title: Two Statues Rock
+    description: Two Statues Rock — part of the B.F. Skinner — Behaviorism collection. Scenes filtered through the conceptual lens of B.F. Skinner's behaviorism — pigeons, surveillance, conditioning, and the apparatus of everyday observation.
+    tags:
+    - behaviorism
+    - bf-skinner
+    - psychology
+    - science
+    - surveillance
+  - file: bf-skinner-white-house-press-room-flag.jpeg
+    title: White House Press Room Flag
+    description: White House Press Room Flag — part of the B.F. Skinner — Behaviorism collection. Scenes filtered through the conceptual lens of B.F. Skinner's behaviorism — pigeons, surveillance, conditioning, and the apparatus of everyday observation.
+    tags:
+    - behaviorism
+    - bf-skinner
+    - flag
+    - house
+    - psychology
+    - science
+    - surveillance
+  - file: bf-skinner.jpg
+    title: B.F. Skinner — Behaviorism
+    description: Scenes filtered through the conceptual lens of B.F. Skinner's behaviorism — pigeons, surveillance, conditioning, and the apparatus of everyday observation.
+    tags:
+    - behaviorism
+    - bf-skinner
+    - psychology
+    - science
+    - surveillance
+  - file: leaflets-of-the-russian-revolution-eagle-spread-tree-2.jpeg
+    title: Leaflets Of The Russian Revolution Eagle Spread Tree (alt 2)
+    description: Leaflets Of The Russian Revolution Eagle Spread Tree — part of the B.F. Skinner — Behaviorism collection. Scenes filtered through the conceptual lens of B.F. Skinner's behaviorism — pigeons, surveillance, conditioning, and the apparatus of everyday observation.
+    tags:
+    - behaviorism
+    - bf-skinner
+    - eagle
+    - psychology
+    - science
+    - surveillance
+    - tree
+  - file: leaflets-of-the-russian-revolution-edgefield-2.jpeg
+    title: Leaflets Of The Russian Revolution Edgefield (alt 2)
+    description: Leaflets Of The Russian Revolution Edgefield — part of the B.F. Skinner — Behaviorism collection. Scenes filtered through the conceptual lens of B.F. Skinner's behaviorism — pigeons, surveillance, conditioning, and the apparatus of everyday observation.
+    tags:
+    - behaviorism
+    - bf-skinner
+    - psychology
+    - science
+    - surveillance
+  - file: leaflets-of-the-russian-revolution-electric-tower-sun-behind.jpeg
+    title: Leaflets Of The Russian Revolution Electric Tower Sun Behind
+    description: Leaflets Of The Russian Revolution Electric Tower Sun Behind — part of the B.F. Skinner — Behaviorism collection. Scenes filtered through the conceptual lens of B.F. Skinner's behaviorism — pigeons, surveillance, conditioning, and the apparatus of everyday observation.
+    tags:
+    - behaviorism
+    - bf-skinner
+    - psychology
+    - science
+    - surveillance
 - slug: california-by-train
   name: California by Train
+  description: California seen from the rail corridor — freeway interchanges, industrial edges, piers, deserts, and the in-between landscapes of the state.
+  tags:
+  - travel
+  - train
+  - california
+  - americana
+  - landscape
   cover: /images/collections/california-by-train/california-travel-by-train-square.jpg
   count: 15
   images:
-    - california-travel-by-train-building-hanger.jpg
-    - california-travel-by-train-church-oakland.jpg
-    - california-travel-by-train-desert-sovarampi.jpeg
-    - california-travel-by-train-docks-far-way.jpg
-    - california-travel-by-train-freeway-green-building.jpeg
-    - california-travel-by-train-freeway-interchange-fence.jpg
-    - california-travel-by-train-freeway-interchange-park.jpg
-    - california-travel-by-train-freway-interchange-city.jpg
-    - california-travel-by-train-highway-line.jpeg
-    - california-travel-by-train-industrial-fans.jpg
-    - california-travel-by-train-jesus-on-bench.jpeg
-    - california-travel-by-train-pier-under.jpeg
-    - california-travel-by-train-pumpjack-close.jpg
-    - california-travel-by-train-square.jpg
-    - california-travel-by-train.jpeg
+  - file: california-travel-by-train-building-hanger.jpg
+    title: Building Hanger
+    description: Building Hanger — part of the California by Train collection. California seen from the rail corridor — freeway interchanges, industrial edges, piers, deserts, and the in-between landscapes of the state.
+    tags:
+    - americana
+    - building
+    - california
+    - landscape
+    - train
+    - travel
+  - file: california-travel-by-train-church-oakland.jpg
+    title: Church Oakland
+    description: Church Oakland — part of the California by Train collection. California seen from the rail corridor — freeway interchanges, industrial edges, piers, deserts, and the in-between landscapes of the state.
+    tags:
+    - americana
+    - california
+    - church
+    - landscape
+    - oakland
+    - train
+    - travel
+  - file: california-travel-by-train-desert-sovarampi.jpeg
+    title: Desert Sovarampi
+    description: Desert Sovarampi — part of the California by Train collection. California seen from the rail corridor — freeway interchanges, industrial edges, piers, deserts, and the in-between landscapes of the state.
+    tags:
+    - americana
+    - california
+    - desert
+    - landscape
+    - train
+    - travel
+  - file: california-travel-by-train-docks-far-way.jpg
+    title: Docks Far Way
+    description: Docks Far Way — part of the California by Train collection. California seen from the rail corridor — freeway interchanges, industrial edges, piers, deserts, and the in-between landscapes of the state.
+    tags:
+    - americana
+    - california
+    - docks
+    - landscape
+    - train
+    - travel
+  - file: california-travel-by-train-freeway-green-building.jpeg
+    title: Freeway Green Building
+    description: Freeway Green Building — part of the California by Train collection. California seen from the rail corridor — freeway interchanges, industrial edges, piers, deserts, and the in-between landscapes of the state.
+    tags:
+    - americana
+    - building
+    - california
+    - freeway
+    - landscape
+    - train
+    - travel
+  - file: california-travel-by-train-freeway-interchange-fence.jpg
+    title: Freeway Interchange Fence
+    description: Freeway Interchange Fence — part of the California by Train collection. California seen from the rail corridor — freeway interchanges, industrial edges, piers, deserts, and the in-between landscapes of the state.
+    tags:
+    - americana
+    - california
+    - fence
+    - freeway
+    - landscape
+    - train
+    - travel
+  - file: california-travel-by-train-freeway-interchange-park.jpg
+    title: Freeway Interchange Park
+    description: Freeway Interchange Park — part of the California by Train collection. California seen from the rail corridor — freeway interchanges, industrial edges, piers, deserts, and the in-between landscapes of the state.
+    tags:
+    - americana
+    - california
+    - freeway
+    - landscape
+    - park
+    - train
+    - travel
+  - file: california-travel-by-train-freway-interchange-city.jpg
+    title: Freeway Interchange City
+    description: Freeway Interchange City — part of the California by Train collection. California seen from the rail corridor — freeway interchanges, industrial edges, piers, deserts, and the in-between landscapes of the state.
+    tags:
+    - americana
+    - california
+    - landscape
+    - train
+    - travel
+  - file: california-travel-by-train-highway-line.jpeg
+    title: Highway Line
+    description: Highway Line — part of the California by Train collection. California seen from the rail corridor — freeway interchanges, industrial edges, piers, deserts, and the in-between landscapes of the state.
+    tags:
+    - americana
+    - california
+    - highway
+    - landscape
+    - train
+    - travel
+  - file: california-travel-by-train-industrial-fans.jpg
+    title: Industrial Fans
+    description: Industrial Fans — part of the California by Train collection. California seen from the rail corridor — freeway interchanges, industrial edges, piers, deserts, and the in-between landscapes of the state.
+    tags:
+    - americana
+    - california
+    - industrial
+    - landscape
+    - train
+    - travel
+  - file: california-travel-by-train-jesus-on-bench.jpeg
+    title: Jesus On Bench
+    description: Jesus On Bench — part of the California by Train collection. California seen from the rail corridor — freeway interchanges, industrial edges, piers, deserts, and the in-between landscapes of the state.
+    tags:
+    - americana
+    - california
+    - jesus
+    - landscape
+    - train
+    - travel
+  - file: california-travel-by-train-pier-under.jpeg
+    title: Pier Under
+    description: Pier Under — part of the California by Train collection. California seen from the rail corridor — freeway interchanges, industrial edges, piers, deserts, and the in-between landscapes of the state.
+    tags:
+    - americana
+    - california
+    - landscape
+    - pier
+    - train
+    - travel
+  - file: california-travel-by-train-pumpjack-close.jpg
+    title: Pumpjack Close
+    description: Pumpjack Close — part of the California by Train collection. California seen from the rail corridor — freeway interchanges, industrial edges, piers, deserts, and the in-between landscapes of the state.
+    tags:
+    - americana
+    - california
+    - landscape
+    - train
+    - travel
+  - file: california-travel-by-train-square.jpg
+    title: California by Train
+    description: California seen from the rail corridor — freeway interchanges, industrial edges, piers, deserts, and the in-between landscapes of the state.
+    tags:
+    - americana
+    - california
+    - landscape
+    - train
+    - travel
+  - file: california-travel-by-train.jpeg
+    title: California by Train
+    description: California seen from the rail corridor — freeway interchanges, industrial edges, piers, deserts, and the in-between landscapes of the state.
+    tags:
+    - americana
+    - california
+    - landscape
+    - train
+    - travel
 - slug: citizenship
   name: Citizenship
+  description: Symbols and sites of American citizenship — Ellis Island, borders, monuments, churches, and the everyday places that frame belonging.
+  tags:
+  - citizenship
+  - political
+  - immigration
+  - monuments
   cover: /images/collections/citizenship/citizenship-square.jpg
   count: 16
   images:
-    - citizenship-berlin-wall-face.jpg
-    - citizenship-berline-wall-old-building.jpg
-    - citizenship-border-watching-cars.jpg
-    - citizenship-capital_36728420065_o.jpg
-    - citizenship-cemetery_36690406946_o.jpg
-    - citizenship-downtown-125thstreet.jpg
-    - citizenship-ellis-island-nyc.jpg
-    - citizenship-jets-in-formation.jpg
-    - citizenship-old-building-and-cars_36680898846_o.jpg
-    - citizenship-old-church-in-field.jpg
-    - citizenship-rocking-chair-on-porch_36332220150_o.jpg
-    - citizenship-single-headstone.jpg
-    - citizenship-square.jpg
-    - citizenship-statue-of-liberty-back.jpg
-    - citizenship-statue-with-shield-dark.jpg
-    - citizenship.jpg
+  - file: citizenship-berlin-wall-face.jpg
+    title: Berlin Wall Face
+    description: Berlin Wall Face — part of the Citizenship collection. Symbols and sites of American citizenship — Ellis Island, borders, monuments, churches, and the everyday places that frame belonging.
+    tags:
+    - citizenship
+    - immigration
+    - monuments
+    - political
+    - wall
+  - file: citizenship-berline-wall-old-building.jpg
+    title: Berlin Wall Old Building
+    description: Berlin Wall Old Building — part of the Citizenship collection. Symbols and sites of American citizenship — Ellis Island, borders, monuments, churches, and the everyday places that frame belonging.
+    tags:
+    - building
+    - citizenship
+    - immigration
+    - monuments
+    - old
+    - political
+    - wall
+  - file: citizenship-border-watching-cars.jpg
+    title: Border Watching Cars
+    description: Border Watching Cars — part of the Citizenship collection. Symbols and sites of American citizenship — Ellis Island, borders, monuments, churches, and the everyday places that frame belonging.
+    tags:
+    - border
+    - citizenship
+    - immigration
+    - monuments
+    - political
+  - file: citizenship-capital_36728420065_o.jpg
+    title: Capital
+    description: Capital — part of the Citizenship collection. Symbols and sites of American citizenship — Ellis Island, borders, monuments, churches, and the everyday places that frame belonging.
+    tags:
+    - capital
+    - citizenship
+    - immigration
+    - monuments
+    - political
+  - file: citizenship-cemetery_36690406946_o.jpg
+    title: Cemetery
+    description: Cemetery — part of the Citizenship collection. Symbols and sites of American citizenship — Ellis Island, borders, monuments, churches, and the everyday places that frame belonging.
+    tags:
+    - cemetery
+    - citizenship
+    - immigration
+    - monuments
+    - political
+  - file: citizenship-downtown-125thstreet.jpg
+    title: Downtown 125thstreet
+    description: Downtown 125thstreet — part of the Citizenship collection. Symbols and sites of American citizenship — Ellis Island, borders, monuments, churches, and the everyday places that frame belonging.
+    tags:
+    - citizenship
+    - downtown
+    - immigration
+    - monuments
+    - political
+  - file: citizenship-ellis-island-nyc.jpg
+    title: Ellis Island NYC
+    description: Ellis Island NYC — part of the Citizenship collection. Symbols and sites of American citizenship — Ellis Island, borders, monuments, churches, and the everyday places that frame belonging.
+    tags:
+    - citizenship
+    - immigration
+    - monuments
+    - nyc
+    - political
+  - file: citizenship-jets-in-formation.jpg
+    title: Jets In Formation
+    description: Jets In Formation — part of the Citizenship collection. Symbols and sites of American citizenship — Ellis Island, borders, monuments, churches, and the everyday places that frame belonging.
+    tags:
+    - citizenship
+    - immigration
+    - jets
+    - monuments
+    - political
+  - file: citizenship-old-building-and-cars_36680898846_o.jpg
+    title: Old Building And Cars
+    description: Old Building And Cars — part of the Citizenship collection. Symbols and sites of American citizenship — Ellis Island, borders, monuments, churches, and the everyday places that frame belonging.
+    tags:
+    - building
+    - citizenship
+    - immigration
+    - monuments
+    - old
+    - political
+  - file: citizenship-old-church-in-field.jpg
+    title: Old Church In Field
+    description: Old Church In Field — part of the Citizenship collection. Symbols and sites of American citizenship — Ellis Island, borders, monuments, churches, and the everyday places that frame belonging.
+    tags:
+    - church
+    - citizenship
+    - immigration
+    - monuments
+    - old
+    - political
+  - file: citizenship-rocking-chair-on-porch_36332220150_o.jpg
+    title: Rocking Chair On Porch
+    description: Rocking Chair On Porch — part of the Citizenship collection. Symbols and sites of American citizenship — Ellis Island, borders, monuments, churches, and the everyday places that frame belonging.
+    tags:
+    - citizenship
+    - immigration
+    - monuments
+    - political
+  - file: citizenship-single-headstone.jpg
+    title: Single Headstone
+    description: Single Headstone — part of the Citizenship collection. Symbols and sites of American citizenship — Ellis Island, borders, monuments, churches, and the everyday places that frame belonging.
+    tags:
+    - citizenship
+    - immigration
+    - monuments
+    - political
+  - file: citizenship-square.jpg
+    title: Citizenship
+    description: Symbols and sites of American citizenship — Ellis Island, borders, monuments, churches, and the everyday places that frame belonging.
+    tags:
+    - citizenship
+    - immigration
+    - monuments
+    - political
+  - file: citizenship-statue-of-liberty-back.jpg
+    title: Statue Of Liberty Back
+    description: Statue Of Liberty Back — part of the Citizenship collection. Symbols and sites of American citizenship — Ellis Island, borders, monuments, churches, and the everyday places that frame belonging.
+    tags:
+    - citizenship
+    - immigration
+    - liberty
+    - monuments
+    - political
+    - statue
+  - file: citizenship-statue-with-shield-dark.jpg
+    title: Statue With Shield Dark
+    description: Statue With Shield Dark — part of the Citizenship collection. Symbols and sites of American citizenship — Ellis Island, borders, monuments, churches, and the everyday places that frame belonging.
+    tags:
+    - citizenship
+    - immigration
+    - monuments
+    - political
+    - statue
+  - file: citizenship.jpg
+    title: Citizenship
+    description: Symbols and sites of American citizenship — Ellis Island, borders, monuments, churches, and the everyday places that frame belonging.
+    tags:
+    - citizenship
+    - immigration
+    - monuments
+    - political
 - slug: copper-circuit
   name: Copper Circuit
+  description: Imagery rendered through the Copper Circuit style — an abstract circuit-board aesthetic in warm metallic tones.
+  tags:
+  - circuit
+  - abstract
+  - copper
   cover: /images/collections/copper-circuit/copper-circuit-feature.jpg
   count: 9
   images:
-    - angry-man.png
-    - christianity.jpg
-    - containers.jpg
-    - copper-circuit-feature.jpg
-    - copper-circuit.jpg
-    - crypto.png
-    - san-francisco.jpg
-    - spewing.jpg
-    - supply-chain.jpg
+  - file: angry-man.png
+    title: Angry Man
+    description: Angry Man — part of the Copper Circuit collection. Imagery rendered through the Copper Circuit style — an abstract circuit-board aesthetic in warm metallic tones.
+    tags:
+    - abstract
+    - circuit
+    - copper
+  - file: christianity.jpg
+    title: Christianity
+    description: Christianity — part of the Copper Circuit collection. Imagery rendered through the Copper Circuit style — an abstract circuit-board aesthetic in warm metallic tones.
+    tags:
+    - abstract
+    - christianity
+    - circuit
+    - copper
+  - file: containers.jpg
+    title: Containers
+    description: Containers — part of the Copper Circuit collection. Imagery rendered through the Copper Circuit style — an abstract circuit-board aesthetic in warm metallic tones.
+    tags:
+    - abstract
+    - circuit
+    - copper
+  - file: copper-circuit-feature.jpg
+    title: Copper Circuit
+    description: Imagery rendered through the Copper Circuit style — an abstract circuit-board aesthetic in warm metallic tones.
+    tags:
+    - abstract
+    - circuit
+    - copper
+  - file: copper-circuit.jpg
+    title: Copper Circuit
+    description: Imagery rendered through the Copper Circuit style — an abstract circuit-board aesthetic in warm metallic tones.
+    tags:
+    - abstract
+    - circuit
+    - copper
+  - file: crypto.png
+    title: Crypto
+    description: Crypto — part of the Copper Circuit collection. Imagery rendered through the Copper Circuit style — an abstract circuit-board aesthetic in warm metallic tones.
+    tags:
+    - abstract
+    - circuit
+    - copper
+    - crypto
+  - file: san-francisco.jpg
+    title: San Francisco
+    description: San Francisco — part of the Copper Circuit collection. Imagery rendered through the Copper Circuit style — an abstract circuit-board aesthetic in warm metallic tones.
+    tags:
+    - abstract
+    - circuit
+    - copper
+  - file: spewing.jpg
+    title: Spewing
+    description: Spewing — part of the Copper Circuit collection. Imagery rendered through the Copper Circuit style — an abstract circuit-board aesthetic in warm metallic tones.
+    tags:
+    - abstract
+    - circuit
+    - copper
+  - file: supply-chain.jpg
+    title: Supply Chain
+    description: Supply Chain — part of the Copper Circuit collection. Imagery rendered through the Copper Circuit style — an abstract circuit-board aesthetic in warm metallic tones.
+    tags:
+    - abstract
+    - circuit
+    - copper
 - slug: eugenics
   name: Eugenics
+  description: Reference imagery for the Eugenics style — exploring the visual rhetoric of one of the 20th century's most dangerous pseudosciences.
+  tags:
+  - eugenics
+  - propaganda
+  - political
+  - history
   cover: /images/collections/eugenics/eugenics-square.jpg
   count: 1
   images:
-    - eugenics-square.jpg
+  - file: eugenics-square.jpg
+    title: Eugenics
+    description: Reference imagery for the Eugenics style — exploring the visual rhetoric of one of the 20th century's most dangerous pseudosciences.
+    tags:
+    - eugenics
+    - history
+    - political
+    - propaganda
 - slug: gone-with-the-wind
   name: Gone With the Wind
+  description: Imagery in the cinematic aesthetic of the 1939 film Gone With the Wind.
+  tags:
+  - film
+  - americana
+  - '1939'
+  - cinema
   cover: /images/collections/gone-with-the-wind/gone-with-the-wind-square.jpg
   count: 1
   images:
-    - gone-with-the-wind-square.jpg
+  - file: gone-with-the-wind-square.jpg
+    title: Gone With the Wind
+    description: Imagery in the cinematic aesthetic of the 1939 film Gone With the Wind.
+    tags:
+    - '1939'
+    - americana
+    - cinema
+    - film
 - slug: john-wayne-the-searchers
   name: John Wayne — The Searchers
+  description: Imagery in the aesthetic of John Ford's 1956 western The Searchers, starring John Wayne.
+  tags:
+  - film
+  - western
+  - americana
+  - john-wayne
+  - cinema
   cover: /images/collections/john-wayne-the-searchers/john-wayne-the-searchers-square.jpg
   count: 1
   images:
-    - john-wayne-the-searchers-square.jpg
+  - file: john-wayne-the-searchers-square.jpg
+    title: John Wayne — The Searchers
+    description: Imagery in the aesthetic of John Ford's 1956 western The Searchers, starring John Wayne.
+    tags:
+    - americana
+    - cinema
+    - film
+    - john-wayne
+    - western
 - slug: nazi-invasion
   name: Nazi Invasion
+  description: Reference imagery for the Nazi Invasion style — fascist iconography, eagles, militarized landscapes, and the visual grammar of authoritarianism.
+  tags:
+  - propaganda
+  - nazi
+  - war
+  - political
+  - history
+  - fascism
   cover: /images/collections/nazi-invasion/nazi-invasion-feature.jpg
   count: 7
   images:
-    - jewish-memorial.jpg
-    - nazi-invasion-eagle-spread-tree-2.jpg
-    - nazi-invasion-feature.jpg
-    - nazi-invasion.jpeg
-    - statue-of-liberty-back.jpg
-    - surveillance-cameras.jpg
-    - train-station.jpg
+  - file: jewish-memorial.jpg
+    title: Jewish Memorial
+    description: Jewish Memorial — part of the Nazi Invasion collection. Reference imagery for the Nazi Invasion style — fascist iconography, eagles, militarized landscapes, and the visual grammar of authoritarianism.
+    tags:
+    - fascism
+    - history
+    - memorial
+    - nazi
+    - political
+    - propaganda
+    - war
+  - file: nazi-invasion-eagle-spread-tree-2.jpg
+    title: Eagle Spread Tree (alt 2)
+    description: Eagle Spread Tree — part of the Nazi Invasion collection. Reference imagery for the Nazi Invasion style — fascist iconography, eagles, militarized landscapes, and the visual grammar of authoritarianism.
+    tags:
+    - eagle
+    - fascism
+    - history
+    - nazi
+    - political
+    - propaganda
+    - tree
+    - war
+  - file: nazi-invasion-feature.jpg
+    title: Nazi Invasion
+    description: Reference imagery for the Nazi Invasion style — fascist iconography, eagles, militarized landscapes, and the visual grammar of authoritarianism.
+    tags:
+    - fascism
+    - history
+    - nazi
+    - political
+    - propaganda
+    - war
+  - file: nazi-invasion.jpeg
+    title: Nazi Invasion
+    description: Reference imagery for the Nazi Invasion style — fascist iconography, eagles, militarized landscapes, and the visual grammar of authoritarianism.
+    tags:
+    - fascism
+    - history
+    - nazi
+    - political
+    - propaganda
+    - war
+  - file: statue-of-liberty-back.jpg
+    title: Statue Of Liberty Back
+    description: Statue Of Liberty Back — part of the Nazi Invasion collection. Reference imagery for the Nazi Invasion style — fascist iconography, eagles, militarized landscapes, and the visual grammar of authoritarianism.
+    tags:
+    - fascism
+    - history
+    - liberty
+    - nazi
+    - political
+    - propaganda
+    - statue
+    - war
+  - file: surveillance-cameras.jpg
+    title: Surveillance Cameras
+    description: Surveillance Cameras — part of the Nazi Invasion collection. Reference imagery for the Nazi Invasion style — fascist iconography, eagles, militarized landscapes, and the visual grammar of authoritarianism.
+    tags:
+    - cameras
+    - fascism
+    - history
+    - nazi
+    - political
+    - propaganda
+    - surveillance
+    - war
+  - file: train-station.jpg
+    title: Train Station
+    description: Train Station — part of the Nazi Invasion collection. Reference imagery for the Nazi Invasion style — fascist iconography, eagles, militarized landscapes, and the visual grammar of authoritarianism.
+    tags:
+    - fascism
+    - history
+    - nazi
+    - political
+    - propaganda
+    - station
+    - train
+    - war
 - slug: nazi-poster
   name: Nazi Poster
+  description: Imagery rendered as Nazi-era propaganda posters — borders, capitals, and arrival points styled in the visual language of mid-century fascist propaganda.
+  tags:
+  - propaganda
+  - nazi
+  - political
+  - history
+  - poster
+  - fascism
   cover: /images/collections/nazi-poster/nazi-poster-feature.jpg
   count: 9
   images:
-    - border-crossing-through-fence.jpg
-    - border-crossing.jpg
-    - border-fence.jpg
-    - capital-hill-battle.jpg
-    - downtown-usa.jpg
-    - ellis-island.jpg
-    - los-angeles.jpg
-    - nazi-poster-feature.jpg
-    - nazi-poster.jpeg
+  - file: border-crossing-through-fence.jpg
+    title: Border Crossing Through Fence
+    description: Border Crossing Through Fence — part of the Nazi Poster collection. Imagery rendered as Nazi-era propaganda posters — borders, capitals, and arrival points styled in the visual language of mid-century fascist propaganda.
+    tags:
+    - border
+    - fascism
+    - fence
+    - history
+    - nazi
+    - political
+    - poster
+    - propaganda
+  - file: border-crossing.jpg
+    title: Border Crossing
+    description: Border Crossing — part of the Nazi Poster collection. Imagery rendered as Nazi-era propaganda posters — borders, capitals, and arrival points styled in the visual language of mid-century fascist propaganda.
+    tags:
+    - border
+    - fascism
+    - history
+    - nazi
+    - political
+    - poster
+    - propaganda
+  - file: border-fence.jpg
+    title: Border Fence
+    description: Border Fence — part of the Nazi Poster collection. Imagery rendered as Nazi-era propaganda posters — borders, capitals, and arrival points styled in the visual language of mid-century fascist propaganda.
+    tags:
+    - border
+    - fascism
+    - fence
+    - history
+    - nazi
+    - political
+    - poster
+    - propaganda
+  - file: capital-hill-battle.jpg
+    title: Capital Hill Battle
+    description: Capital Hill Battle — part of the Nazi Poster collection. Imagery rendered as Nazi-era propaganda posters — borders, capitals, and arrival points styled in the visual language of mid-century fascist propaganda.
+    tags:
+    - capital
+    - fascism
+    - history
+    - nazi
+    - political
+    - poster
+    - propaganda
+  - file: downtown-usa.jpg
+    title: Downtown USA
+    description: Downtown USA — part of the Nazi Poster collection. Imagery rendered as Nazi-era propaganda posters — borders, capitals, and arrival points styled in the visual language of mid-century fascist propaganda.
+    tags:
+    - downtown
+    - fascism
+    - history
+    - nazi
+    - political
+    - poster
+    - propaganda
+  - file: ellis-island.jpg
+    title: Ellis Island
+    description: Ellis Island — part of the Nazi Poster collection. Imagery rendered as Nazi-era propaganda posters — borders, capitals, and arrival points styled in the visual language of mid-century fascist propaganda.
+    tags:
+    - fascism
+    - history
+    - nazi
+    - political
+    - poster
+    - propaganda
+  - file: los-angeles.jpg
+    title: Los Angeles
+    description: Los Angeles — part of the Nazi Poster collection. Imagery rendered as Nazi-era propaganda posters — borders, capitals, and arrival points styled in the visual language of mid-century fascist propaganda.
+    tags:
+    - fascism
+    - history
+    - nazi
+    - political
+    - poster
+    - propaganda
+  - file: nazi-poster-feature.jpg
+    title: Nazi Poster
+    description: Imagery rendered as Nazi-era propaganda posters — borders, capitals, and arrival points styled in the visual language of mid-century fascist propaganda.
+    tags:
+    - fascism
+    - history
+    - nazi
+    - political
+    - poster
+    - propaganda
+  - file: nazi-poster.jpeg
+    title: Nazi Poster
+    description: Imagery rendered as Nazi-era propaganda posters — borders, capitals, and arrival points styled in the visual language of mid-century fascist propaganda.
+    tags:
+    - fascism
+    - history
+    - nazi
+    - political
+    - poster
+    - propaganda
 - slug: oakland-california
   name: Oakland, California
+  description: Photographic studies of Oakland — its waterfront, neighborhoods, freeways, lakes, oak trees, and overlooked corners.
+  tags:
+  - place
+  - california
+  - oakland
+  - urban
+  - photography
   cover: /images/collections/oakland-california/oakland-california-square.jpg
   count: 25
   images:
-    - oakland-california-burned-van-back.jpeg
-    - oakland-california-bus-station.jpg
-    - oakland-california-church-oakland.jpeg
-    - oakland-california-city-fog-sun.jpg
-    - oakland-california-drone-boats.jpg
-    - oakland-california-fort-ross-cannons.jpeg
-    - oakland-california-fox-oakland-out-front.jpeg
-    - oakland-california-fox-oakland-out-front.jpg
-    - oakland-california-freeway-camp.jpg
-    - oakland-california-freeway-interchange-fence.jpeg
-    - oakland-california-freeway-neighborhood.jpg
-    - oakland-california-hospital-old-hill-trees.jpg
-    - oakland-california-industrial-fans.jpeg
-    - oakland-california-oakland-clock.jpg
-    - oakland-california-oakland-lake-merritt.jpg
-    - oakland-california-oakland-oak-tree.jpeg
-    - oakland-california-oakland-thin-building.jpeg
-    - oakland-california-old-cherry-tree.jpeg
-    - oakland-california-old-foggy-trees.jpeg
-    - oakland-california-orchard-almonds-2.jpeg
-    - oakland-california-poppy-close-up.jpg
-    - oakland-california-square.jpg
-    - oakland-california-tents.jpg
-    - oakland-california-top-mountain.jpeg
-    - oakland-california.jpeg
+  - file: oakland-california-burned-van-back.jpeg
+    title: Burned Van Back
+    description: Burned Van Back — part of the Oakland, California collection. Photographic studies of Oakland — its waterfront, neighborhoods, freeways, lakes, oak trees, and overlooked corners.
+    tags:
+    - california
+    - oakland
+    - photography
+    - place
+    - urban
+  - file: oakland-california-bus-station.jpg
+    title: Bus Station
+    description: Bus Station — part of the Oakland, California collection. Photographic studies of Oakland — its waterfront, neighborhoods, freeways, lakes, oak trees, and overlooked corners.
+    tags:
+    - california
+    - oakland
+    - photography
+    - place
+    - station
+    - urban
+  - file: oakland-california-church-oakland.jpeg
+    title: Church Oakland
+    description: Church Oakland — part of the Oakland, California collection. Photographic studies of Oakland — its waterfront, neighborhoods, freeways, lakes, oak trees, and overlooked corners.
+    tags:
+    - california
+    - church
+    - oakland
+    - photography
+    - place
+    - urban
+  - file: oakland-california-city-fog-sun.jpg
+    title: City Fog Sun
+    description: City Fog Sun — part of the Oakland, California collection. Photographic studies of Oakland — its waterfront, neighborhoods, freeways, lakes, oak trees, and overlooked corners.
+    tags:
+    - california
+    - fog
+    - oakland
+    - photography
+    - place
+    - urban
+  - file: oakland-california-drone-boats.jpg
+    title: Drone Boats
+    description: Drone Boats — part of the Oakland, California collection. Photographic studies of Oakland — its waterfront, neighborhoods, freeways, lakes, oak trees, and overlooked corners.
+    tags:
+    - boats
+    - california
+    - drone
+    - oakland
+    - photography
+    - place
+    - urban
+  - file: oakland-california-fort-ross-cannons.jpeg
+    title: Fort Ross Cannons
+    description: Fort Ross Cannons — part of the Oakland, California collection. Photographic studies of Oakland — its waterfront, neighborhoods, freeways, lakes, oak trees, and overlooked corners.
+    tags:
+    - california
+    - oakland
+    - photography
+    - place
+    - urban
+  - file: oakland-california-fox-oakland-out-front.jpeg
+    title: Fox Oakland Out Front
+    description: Fox Oakland Out Front — part of the Oakland, California collection. Photographic studies of Oakland — its waterfront, neighborhoods, freeways, lakes, oak trees, and overlooked corners.
+    tags:
+    - california
+    - oakland
+    - photography
+    - place
+    - urban
+  - file: oakland-california-fox-oakland-out-front.jpg
+    title: Fox Oakland Out Front
+    description: Fox Oakland Out Front — part of the Oakland, California collection. Photographic studies of Oakland — its waterfront, neighborhoods, freeways, lakes, oak trees, and overlooked corners.
+    tags:
+    - california
+    - oakland
+    - photography
+    - place
+    - urban
+  - file: oakland-california-freeway-camp.jpg
+    title: Freeway Camp
+    description: Freeway Camp — part of the Oakland, California collection. Photographic studies of Oakland — its waterfront, neighborhoods, freeways, lakes, oak trees, and overlooked corners.
+    tags:
+    - california
+    - freeway
+    - oakland
+    - photography
+    - place
+    - urban
+  - file: oakland-california-freeway-interchange-fence.jpeg
+    title: Freeway Interchange Fence
+    description: Freeway Interchange Fence — part of the Oakland, California collection. Photographic studies of Oakland — its waterfront, neighborhoods, freeways, lakes, oak trees, and overlooked corners.
+    tags:
+    - california
+    - fence
+    - freeway
+    - oakland
+    - photography
+    - place
+    - urban
+  - file: oakland-california-freeway-neighborhood.jpg
+    title: Freeway Neighborhood
+    description: Freeway Neighborhood — part of the Oakland, California collection. Photographic studies of Oakland — its waterfront, neighborhoods, freeways, lakes, oak trees, and overlooked corners.
+    tags:
+    - california
+    - freeway
+    - oakland
+    - photography
+    - place
+    - urban
+  - file: oakland-california-hospital-old-hill-trees.jpg
+    title: Hospital Old Hill Trees
+    description: Hospital Old Hill Trees — part of the Oakland, California collection. Photographic studies of Oakland — its waterfront, neighborhoods, freeways, lakes, oak trees, and overlooked corners.
+    tags:
+    - california
+    - oakland
+    - old
+    - photography
+    - place
+    - urban
+  - file: oakland-california-industrial-fans.jpeg
+    title: Industrial Fans
+    description: Industrial Fans — part of the Oakland, California collection. Photographic studies of Oakland — its waterfront, neighborhoods, freeways, lakes, oak trees, and overlooked corners.
+    tags:
+    - california
+    - industrial
+    - oakland
+    - photography
+    - place
+    - urban
+  - file: oakland-california-oakland-clock.jpg
+    title: Oakland Clock
+    description: Oakland Clock — part of the Oakland, California collection. Photographic studies of Oakland — its waterfront, neighborhoods, freeways, lakes, oak trees, and overlooked corners.
+    tags:
+    - california
+    - oakland
+    - photography
+    - place
+    - urban
+  - file: oakland-california-oakland-lake-merritt.jpg
+    title: Oakland Lake Merritt
+    description: Oakland Lake Merritt — part of the Oakland, California collection. Photographic studies of Oakland — its waterfront, neighborhoods, freeways, lakes, oak trees, and overlooked corners.
+    tags:
+    - california
+    - oakland
+    - photography
+    - place
+    - urban
+  - file: oakland-california-oakland-oak-tree.jpeg
+    title: Oakland Oak Tree
+    description: Oakland Oak Tree — part of the Oakland, California collection. Photographic studies of Oakland — its waterfront, neighborhoods, freeways, lakes, oak trees, and overlooked corners.
+    tags:
+    - california
+    - oakland
+    - photography
+    - place
+    - tree
+    - urban
+  - file: oakland-california-oakland-thin-building.jpeg
+    title: Oakland Thin Building
+    description: Oakland Thin Building — part of the Oakland, California collection. Photographic studies of Oakland — its waterfront, neighborhoods, freeways, lakes, oak trees, and overlooked corners.
+    tags:
+    - building
+    - california
+    - oakland
+    - photography
+    - place
+    - urban
+  - file: oakland-california-old-cherry-tree.jpeg
+    title: Old Cherry Tree
+    description: Old Cherry Tree — part of the Oakland, California collection. Photographic studies of Oakland — its waterfront, neighborhoods, freeways, lakes, oak trees, and overlooked corners.
+    tags:
+    - california
+    - oakland
+    - old
+    - photography
+    - place
+    - tree
+    - urban
+  - file: oakland-california-old-foggy-trees.jpeg
+    title: Old Foggy Trees
+    description: Old Foggy Trees — part of the Oakland, California collection. Photographic studies of Oakland — its waterfront, neighborhoods, freeways, lakes, oak trees, and overlooked corners.
+    tags:
+    - california
+    - foggy
+    - oakland
+    - old
+    - photography
+    - place
+    - urban
+  - file: oakland-california-orchard-almonds-2.jpeg
+    title: Orchard Almonds (alt 2)
+    description: Orchard Almonds — part of the Oakland, California collection. Photographic studies of Oakland — its waterfront, neighborhoods, freeways, lakes, oak trees, and overlooked corners.
+    tags:
+    - california
+    - oakland
+    - photography
+    - place
+    - urban
+  - file: oakland-california-poppy-close-up.jpg
+    title: Poppy Close Up
+    description: Poppy Close Up — part of the Oakland, California collection. Photographic studies of Oakland — its waterfront, neighborhoods, freeways, lakes, oak trees, and overlooked corners.
+    tags:
+    - california
+    - oakland
+    - photography
+    - place
+    - urban
+  - file: oakland-california-square.jpg
+    title: Oakland, California
+    description: Photographic studies of Oakland — its waterfront, neighborhoods, freeways, lakes, oak trees, and overlooked corners.
+    tags:
+    - california
+    - oakland
+    - photography
+    - place
+    - urban
+  - file: oakland-california-tents.jpg
+    title: Tents
+    description: Tents — part of the Oakland, California collection. Photographic studies of Oakland — its waterfront, neighborhoods, freeways, lakes, oak trees, and overlooked corners.
+    tags:
+    - california
+    - oakland
+    - photography
+    - place
+    - urban
+  - file: oakland-california-top-mountain.jpeg
+    title: Top Mountain
+    description: Top Mountain — part of the Oakland, California collection. Photographic studies of Oakland — its waterfront, neighborhoods, freeways, lakes, oak trees, and overlooked corners.
+    tags:
+    - california
+    - mountain
+    - oakland
+    - photography
+    - place
+    - urban
+  - file: oakland-california.jpeg
+    title: Oakland, California
+    description: Photographic studies of Oakland — its waterfront, neighborhoods, freeways, lakes, oak trees, and overlooked corners.
+    tags:
+    - california
+    - oakland
+    - photography
+    - place
+    - urban
 - slug: russian-propaganda
   name: Leaflets of the Russian Revolution
+  description: American landmarks and skylines rendered in the visual style of revolutionary Russian propaganda leaflets.
+  tags:
+  - propaganda
+  - russian
+  - revolution
+  - political
+  - history
   cover: /images/collections/russian-propaganda/leaflets-of-the-russian-revolution-times-square-up-road.jpeg
   count: 22
   images:
-    - leaflets-of-the-russian-revolution-eagle-spread-tree-2.jpeg
-    - leaflets-of-the-russian-revolution-edgefield-2.jpeg
-    - leaflets-of-the-russian-revolution-electric-tower-sun-behind.jpeg
-    - leaflets-of-the-russian-revolution-going-to-dowtown-los-angeles.jpeg
-    - leaflets-of-the-russian-revolution-hollywood-sign-with-tower.jpeg
-    - leaflets-of-the-russian-revolution-jets-over-city.jpeg
-    - leaflets-of-the-russian-revolution-los-angeles-downtown-from-afar.jpeg
-    - leaflets-of-the-russian-revolution-nyc-skyline-from-ferry.jpeg
-    - leaflets-of-the-russian-revolution-radio-antanae.jpeg
-    - leaflets-of-the-russian-revolution-san-francisco-skyline.jpeg
-    - leaflets-of-the-russian-revolution-statue-of-liberty.jpeg
-    - leaflets-of-the-russian-revolution-supreme-court.jpeg
-    - leaflets-of-the-russian-revolution-times-square-up-road.jpeg
-    - leaflets-of-the-russian-revolution-train-nyc-125th.jpeg
-    - leaflets-of-the-russian-revolution-walk-through-garden-tunnel.jpeg
-    - leaflets-of-the-russian-revolution-washington-monument-afar.jpeg
-    - leaflets-of-the-russian-revolution-whie-house-close-up-2.jpeg
-    - leaflets-of-the-russian-revolution-whie-house-close-up-2.jpg
-    - propagandaleaflets-feature.jpg
-    - propagandaleaflets.jpg
-    - white-house-eeob.jpg
-    - white-house.jpg
+  - file: leaflets-of-the-russian-revolution-eagle-spread-tree-2.jpeg
+    title: Eagle Spread Tree (alt 2)
+    description: Eagle Spread Tree — part of the Leaflets of the Russian Revolution collection. American landmarks and skylines rendered in the visual style of revolutionary Russian propaganda leaflets.
+    tags:
+    - eagle
+    - history
+    - political
+    - propaganda
+    - revolution
+    - russian
+    - tree
+  - file: leaflets-of-the-russian-revolution-edgefield-2.jpeg
+    title: Edgefield (alt 2)
+    description: Edgefield — part of the Leaflets of the Russian Revolution collection. American landmarks and skylines rendered in the visual style of revolutionary Russian propaganda leaflets.
+    tags:
+    - history
+    - political
+    - propaganda
+    - revolution
+    - russian
+  - file: leaflets-of-the-russian-revolution-electric-tower-sun-behind.jpeg
+    title: Electric Tower Sun Behind
+    description: Electric Tower Sun Behind — part of the Leaflets of the Russian Revolution collection. American landmarks and skylines rendered in the visual style of revolutionary Russian propaganda leaflets.
+    tags:
+    - history
+    - political
+    - propaganda
+    - revolution
+    - russian
+  - file: leaflets-of-the-russian-revolution-going-to-dowtown-los-angeles.jpeg
+    title: Going To Downtown Los Angeles
+    description: Going To Downtown Los Angeles — part of the Leaflets of the Russian Revolution collection. American landmarks and skylines rendered in the visual style of revolutionary Russian propaganda leaflets.
+    tags:
+    - history
+    - political
+    - propaganda
+    - revolution
+    - russian
+  - file: leaflets-of-the-russian-revolution-hollywood-sign-with-tower.jpeg
+    title: Hollywood Sign With Tower
+    description: Hollywood Sign With Tower — part of the Leaflets of the Russian Revolution collection. American landmarks and skylines rendered in the visual style of revolutionary Russian propaganda leaflets.
+    tags:
+    - history
+    - hollywood
+    - political
+    - propaganda
+    - revolution
+    - russian
+  - file: leaflets-of-the-russian-revolution-jets-over-city.jpeg
+    title: Jets Over City
+    description: Jets Over City — part of the Leaflets of the Russian Revolution collection. American landmarks and skylines rendered in the visual style of revolutionary Russian propaganda leaflets.
+    tags:
+    - history
+    - jets
+    - political
+    - propaganda
+    - revolution
+    - russian
+  - file: leaflets-of-the-russian-revolution-los-angeles-downtown-from-afar.jpeg
+    title: Los Angeles Downtown From Afar
+    description: Los Angeles Downtown From Afar — part of the Leaflets of the Russian Revolution collection. American landmarks and skylines rendered in the visual style of revolutionary Russian propaganda leaflets.
+    tags:
+    - downtown
+    - history
+    - political
+    - propaganda
+    - revolution
+    - russian
+  - file: leaflets-of-the-russian-revolution-nyc-skyline-from-ferry.jpeg
+    title: NYC Skyline From Ferry
+    description: NYC Skyline From Ferry — part of the Leaflets of the Russian Revolution collection. American landmarks and skylines rendered in the visual style of revolutionary Russian propaganda leaflets.
+    tags:
+    - ferry
+    - history
+    - nyc
+    - political
+    - propaganda
+    - revolution
+    - russian
+    - skyline
+  - file: leaflets-of-the-russian-revolution-radio-antanae.jpeg
+    title: Radio Antenna
+    description: Radio Antenna — part of the Leaflets of the Russian Revolution collection. American landmarks and skylines rendered in the visual style of revolutionary Russian propaganda leaflets.
+    tags:
+    - history
+    - political
+    - propaganda
+    - revolution
+    - russian
+  - file: leaflets-of-the-russian-revolution-san-francisco-skyline.jpeg
+    title: San Francisco Skyline
+    description: San Francisco Skyline — part of the Leaflets of the Russian Revolution collection. American landmarks and skylines rendered in the visual style of revolutionary Russian propaganda leaflets.
+    tags:
+    - history
+    - political
+    - propaganda
+    - revolution
+    - russian
+    - skyline
+  - file: leaflets-of-the-russian-revolution-statue-of-liberty.jpeg
+    title: Statue Of Liberty
+    description: Statue Of Liberty — part of the Leaflets of the Russian Revolution collection. American landmarks and skylines rendered in the visual style of revolutionary Russian propaganda leaflets.
+    tags:
+    - history
+    - liberty
+    - political
+    - propaganda
+    - revolution
+    - russian
+    - statue
+  - file: leaflets-of-the-russian-revolution-supreme-court.jpeg
+    title: Supreme Court
+    description: Supreme Court — part of the Leaflets of the Russian Revolution collection. American landmarks and skylines rendered in the visual style of revolutionary Russian propaganda leaflets.
+    tags:
+    - court
+    - history
+    - political
+    - propaganda
+    - revolution
+    - russian
+    - supreme
+  - file: leaflets-of-the-russian-revolution-times-square-up-road.jpeg
+    title: Times Up Road
+    description: Times Up Road — part of the Leaflets of the Russian Revolution collection. American landmarks and skylines rendered in the visual style of revolutionary Russian propaganda leaflets.
+    tags:
+    - history
+    - political
+    - propaganda
+    - revolution
+    - russian
+  - file: leaflets-of-the-russian-revolution-train-nyc-125th.jpeg
+    title: Train NYC 125th Street
+    description: Train NYC 125th Street — part of the Leaflets of the Russian Revolution collection. American landmarks and skylines rendered in the visual style of revolutionary Russian propaganda leaflets.
+    tags:
+    - history
+    - nyc
+    - political
+    - propaganda
+    - revolution
+    - russian
+    - train
+  - file: leaflets-of-the-russian-revolution-walk-through-garden-tunnel.jpeg
+    title: Walk Through Garden Tunnel
+    description: Walk Through Garden Tunnel — part of the Leaflets of the Russian Revolution collection. American landmarks and skylines rendered in the visual style of revolutionary Russian propaganda leaflets.
+    tags:
+    - history
+    - political
+    - propaganda
+    - revolution
+    - russian
+  - file: leaflets-of-the-russian-revolution-washington-monument-afar.jpeg
+    title: Washington Monument Afar
+    description: Washington Monument Afar — part of the Leaflets of the Russian Revolution collection. American landmarks and skylines rendered in the visual style of revolutionary Russian propaganda leaflets.
+    tags:
+    - history
+    - monument
+    - political
+    - propaganda
+    - revolution
+    - russian
+    - washington
+  - file: leaflets-of-the-russian-revolution-whie-house-close-up-2.jpeg
+    title: White House Close Up (alt 2)
+    description: White House Close Up — part of the Leaflets of the Russian Revolution collection. American landmarks and skylines rendered in the visual style of revolutionary Russian propaganda leaflets.
+    tags:
+    - history
+    - house
+    - political
+    - propaganda
+    - revolution
+    - russian
+  - file: leaflets-of-the-russian-revolution-whie-house-close-up-2.jpg
+    title: White House Close Up (alt 2)
+    description: White House Close Up — part of the Leaflets of the Russian Revolution collection. American landmarks and skylines rendered in the visual style of revolutionary Russian propaganda leaflets.
+    tags:
+    - history
+    - house
+    - political
+    - propaganda
+    - revolution
+    - russian
+  - file: propagandaleaflets-feature.jpg
+    title: Leaflets of the Russian Revolution
+    description: American landmarks and skylines rendered in the visual style of revolutionary Russian propaganda leaflets.
+    tags:
+    - history
+    - political
+    - propaganda
+    - revolution
+    - russian
+  - file: propagandaleaflets.jpg
+    title: Leaflets of the Russian Revolution
+    description: American landmarks and skylines rendered in the visual style of revolutionary Russian propaganda leaflets.
+    tags:
+    - history
+    - political
+    - propaganda
+    - revolution
+    - russian
+  - file: white-house-eeob.jpg
+    title: White House EEOB
+    description: White House EEOB — part of the Leaflets of the Russian Revolution collection. American landmarks and skylines rendered in the visual style of revolutionary Russian propaganda leaflets.
+    tags:
+    - history
+    - house
+    - political
+    - propaganda
+    - revolution
+    - russian
+  - file: white-house.jpg
+    title: White House
+    description: White House — part of the Leaflets of the Russian Revolution collection. American landmarks and skylines rendered in the visual style of revolutionary Russian propaganda leaflets.
+    tags:
+    - history
+    - house
+    - political
+    - propaganda
+    - revolution
+    - russian
 - slug: the-birth-of-a-nation
   name: The Birth of a Nation
+  description: Imagery filtered through the aesthetic of D.W. Griffith's 1915 film — a foundational and deeply controversial work of American cinema.
+  tags:
+  - film
+  - racism
+  - americana
+  - '1915'
+  - cinema
+  - silent-film
   cover: /images/collections/the-birth-of-a-nation/125th.jpg
   count: 17
   images:
-    - 125th.jpg
-    - birth-of-a-nation.jpg
-    - building.jpg
-    - church.jpg
-    - congress.jpg
-    - eagle.jpg
-    - flag.jpg
-    - harlem.jpg
-    - hollywood.jpg
-    - liberty.jpg
-    - midwest.jpg
-    - oakland.jpg
-    - president.jpg
-    - rural.jpg
-    - suburbs.jpg
-    - supreme-court.jpg
-    - washington.jpg
+  - file: 125th.jpg
+    title: 125th Street
+    description: 125th Street — part of the The Birth of a Nation collection. Imagery filtered through the aesthetic of D.W. Griffith's 1915 film — a foundational and deeply controversial work of American cinema.
+    tags:
+    - '1915'
+    - americana
+    - cinema
+    - film
+    - racism
+    - silent-film
+  - file: birth-of-a-nation.jpg
+    title: The Birth of a Nation
+    description: Imagery filtered through the aesthetic of D.W. Griffith's 1915 film — a foundational and deeply controversial work of American cinema.
+    tags:
+    - '1915'
+    - americana
+    - cinema
+    - film
+    - racism
+    - silent-film
+  - file: building.jpg
+    title: Building
+    description: Building — part of the The Birth of a Nation collection. Imagery filtered through the aesthetic of D.W. Griffith's 1915 film — a foundational and deeply controversial work of American cinema.
+    tags:
+    - '1915'
+    - americana
+    - building
+    - cinema
+    - film
+    - racism
+    - silent-film
+  - file: church.jpg
+    title: Church
+    description: Church — part of the The Birth of a Nation collection. Imagery filtered through the aesthetic of D.W. Griffith's 1915 film — a foundational and deeply controversial work of American cinema.
+    tags:
+    - '1915'
+    - americana
+    - church
+    - cinema
+    - film
+    - racism
+    - silent-film
+  - file: congress.jpg
+    title: Congress
+    description: Congress — part of the The Birth of a Nation collection. Imagery filtered through the aesthetic of D.W. Griffith's 1915 film — a foundational and deeply controversial work of American cinema.
+    tags:
+    - '1915'
+    - americana
+    - cinema
+    - congress
+    - film
+    - racism
+    - silent-film
+  - file: eagle.jpg
+    title: Eagle
+    description: Eagle — part of the The Birth of a Nation collection. Imagery filtered through the aesthetic of D.W. Griffith's 1915 film — a foundational and deeply controversial work of American cinema.
+    tags:
+    - '1915'
+    - americana
+    - cinema
+    - eagle
+    - film
+    - racism
+    - silent-film
+  - file: flag.jpg
+    title: Flag
+    description: Flag — part of the The Birth of a Nation collection. Imagery filtered through the aesthetic of D.W. Griffith's 1915 film — a foundational and deeply controversial work of American cinema.
+    tags:
+    - '1915'
+    - americana
+    - cinema
+    - film
+    - flag
+    - racism
+    - silent-film
+  - file: harlem.jpg
+    title: Harlem
+    description: Harlem — part of the The Birth of a Nation collection. Imagery filtered through the aesthetic of D.W. Griffith's 1915 film — a foundational and deeply controversial work of American cinema.
+    tags:
+    - '1915'
+    - americana
+    - cinema
+    - film
+    - harlem
+    - racism
+    - silent-film
+  - file: hollywood.jpg
+    title: Hollywood
+    description: Hollywood — part of the The Birth of a Nation collection. Imagery filtered through the aesthetic of D.W. Griffith's 1915 film — a foundational and deeply controversial work of American cinema.
+    tags:
+    - '1915'
+    - americana
+    - cinema
+    - film
+    - hollywood
+    - racism
+    - silent-film
+  - file: liberty.jpg
+    title: Liberty
+    description: Liberty — part of the The Birth of a Nation collection. Imagery filtered through the aesthetic of D.W. Griffith's 1915 film — a foundational and deeply controversial work of American cinema.
+    tags:
+    - '1915'
+    - americana
+    - cinema
+    - film
+    - liberty
+    - racism
+    - silent-film
+  - file: midwest.jpg
+    title: Midwest
+    description: Midwest — part of the The Birth of a Nation collection. Imagery filtered through the aesthetic of D.W. Griffith's 1915 film — a foundational and deeply controversial work of American cinema.
+    tags:
+    - '1915'
+    - americana
+    - cinema
+    - film
+    - midwest
+    - racism
+    - silent-film
+  - file: oakland.jpg
+    title: Oakland
+    description: Oakland — part of the The Birth of a Nation collection. Imagery filtered through the aesthetic of D.W. Griffith's 1915 film — a foundational and deeply controversial work of American cinema.
+    tags:
+    - '1915'
+    - americana
+    - cinema
+    - film
+    - oakland
+    - racism
+    - silent-film
+  - file: president.jpg
+    title: President
+    description: President — part of the The Birth of a Nation collection. Imagery filtered through the aesthetic of D.W. Griffith's 1915 film — a foundational and deeply controversial work of American cinema.
+    tags:
+    - '1915'
+    - americana
+    - cinema
+    - film
+    - president
+    - racism
+    - silent-film
+  - file: rural.jpg
+    title: Rural
+    description: Rural — part of the The Birth of a Nation collection. Imagery filtered through the aesthetic of D.W. Griffith's 1915 film — a foundational and deeply controversial work of American cinema.
+    tags:
+    - '1915'
+    - americana
+    - cinema
+    - film
+    - racism
+    - silent-film
+  - file: suburbs.jpg
+    title: Suburbs
+    description: Suburbs — part of the The Birth of a Nation collection. Imagery filtered through the aesthetic of D.W. Griffith's 1915 film — a foundational and deeply controversial work of American cinema.
+    tags:
+    - '1915'
+    - americana
+    - cinema
+    - film
+    - racism
+    - silent-film
+  - file: supreme-court.jpg
+    title: Supreme Court
+    description: Supreme Court — part of the The Birth of a Nation collection. Imagery filtered through the aesthetic of D.W. Griffith's 1915 film — a foundational and deeply controversial work of American cinema.
+    tags:
+    - '1915'
+    - americana
+    - cinema
+    - court
+    - film
+    - racism
+    - silent-film
+    - supreme
+  - file: washington.jpg
+    title: Washington
+    description: Washington — part of the The Birth of a Nation collection. Imagery filtered through the aesthetic of D.W. Griffith's 1915 film — a foundational and deeply controversial work of American cinema.
+    tags:
+    - '1915'
+    - americana
+    - cinema
+    - film
+    - racism
+    - silent-film
+    - washington
 - slug: the-persistence-of-memory
   name: The Persistence of Memory
+  description: Landscapes rendered in the surrealist aesthetic of Salvador Dalí's 1931 painting — melting time, dreamlike voids, and uncanny stillness.
+  tags:
+  - art
+  - surrealism
+  - dali
+  - painting
   cover: /images/collections/the-persistence-of-memory/the-persistence-of-memory-feature.jpg
   count: 13
   images:
-    - border-crossing-through-fence.jpg
-    - border-crossing.jpg
-    - city-skyline.jpg
-    - highway-truck-silo.jpg
-    - nyc-flag.jpg
-    - old-barn.jpg
-    - old-church.jpg
-    - old-gas-station.jpg
-    - old-grange.jpg
-    - old-house.jpg
-    - old-junk-yard.jpg
-    - the-persistence-of-memory-feature.jpg
-    - the-persistence-of-memory.jpg
+  - file: border-crossing-through-fence.jpg
+    title: Border Crossing Through Fence
+    description: Border Crossing Through Fence — part of the The Persistence of Memory collection. Landscapes rendered in the surrealist aesthetic of Salvador Dalí's 1931 painting — melting time, dreamlike voids, and uncanny stillness.
+    tags:
+    - art
+    - border
+    - dali
+    - fence
+    - painting
+    - surrealism
+  - file: border-crossing.jpg
+    title: Border Crossing
+    description: Border Crossing — part of the The Persistence of Memory collection. Landscapes rendered in the surrealist aesthetic of Salvador Dalí's 1931 painting — melting time, dreamlike voids, and uncanny stillness.
+    tags:
+    - art
+    - border
+    - dali
+    - painting
+    - surrealism
+  - file: city-skyline.jpg
+    title: City Skyline
+    description: City Skyline — part of the The Persistence of Memory collection. Landscapes rendered in the surrealist aesthetic of Salvador Dalí's 1931 painting — melting time, dreamlike voids, and uncanny stillness.
+    tags:
+    - art
+    - dali
+    - painting
+    - skyline
+    - surrealism
+  - file: highway-truck-silo.jpg
+    title: Highway Truck Silo
+    description: Highway Truck Silo — part of the The Persistence of Memory collection. Landscapes rendered in the surrealist aesthetic of Salvador Dalí's 1931 painting — melting time, dreamlike voids, and uncanny stillness.
+    tags:
+    - art
+    - dali
+    - highway
+    - painting
+    - surrealism
+  - file: nyc-flag.jpg
+    title: NYC Flag
+    description: NYC Flag — part of the The Persistence of Memory collection. Landscapes rendered in the surrealist aesthetic of Salvador Dalí's 1931 painting — melting time, dreamlike voids, and uncanny stillness.
+    tags:
+    - art
+    - dali
+    - flag
+    - nyc
+    - painting
+    - surrealism
+  - file: old-barn.jpg
+    title: Old Barn
+    description: Old Barn — part of the The Persistence of Memory collection. Landscapes rendered in the surrealist aesthetic of Salvador Dalí's 1931 painting — melting time, dreamlike voids, and uncanny stillness.
+    tags:
+    - art
+    - barn
+    - dali
+    - old
+    - painting
+    - surrealism
+  - file: old-church.jpg
+    title: Old Church
+    description: Old Church — part of the The Persistence of Memory collection. Landscapes rendered in the surrealist aesthetic of Salvador Dalí's 1931 painting — melting time, dreamlike voids, and uncanny stillness.
+    tags:
+    - art
+    - church
+    - dali
+    - old
+    - painting
+    - surrealism
+  - file: old-gas-station.jpg
+    title: Old Gas Station
+    description: Old Gas Station — part of the The Persistence of Memory collection. Landscapes rendered in the surrealist aesthetic of Salvador Dalí's 1931 painting — melting time, dreamlike voids, and uncanny stillness.
+    tags:
+    - art
+    - dali
+    - gas
+    - old
+    - painting
+    - station
+    - surrealism
+  - file: old-grange.jpg
+    title: Old Grange
+    description: Old Grange — part of the The Persistence of Memory collection. Landscapes rendered in the surrealist aesthetic of Salvador Dalí's 1931 painting — melting time, dreamlike voids, and uncanny stillness.
+    tags:
+    - art
+    - dali
+    - old
+    - painting
+    - surrealism
+  - file: old-house.jpg
+    title: Old House
+    description: Old House — part of the The Persistence of Memory collection. Landscapes rendered in the surrealist aesthetic of Salvador Dalí's 1931 painting — melting time, dreamlike voids, and uncanny stillness.
+    tags:
+    - art
+    - dali
+    - house
+    - old
+    - painting
+    - surrealism
+  - file: old-junk-yard.jpg
+    title: Old Junk Yard
+    description: Old Junk Yard — part of the The Persistence of Memory collection. Landscapes rendered in the surrealist aesthetic of Salvador Dalí's 1931 painting — melting time, dreamlike voids, and uncanny stillness.
+    tags:
+    - art
+    - dali
+    - old
+    - painting
+    - surrealism
+  - file: the-persistence-of-memory-feature.jpg
+    title: The Persistence of Memory
+    description: Landscapes rendered in the surrealist aesthetic of Salvador Dalí's 1931 painting — melting time, dreamlike voids, and uncanny stillness.
+    tags:
+    - art
+    - dali
+    - painting
+    - surrealism
+  - file: the-persistence-of-memory.jpg
+    title: The Persistence of Memory
+    description: Landscapes rendered in the surrealist aesthetic of Salvador Dalí's 1931 painting — melting time, dreamlike voids, and uncanny stillness.
+    tags:
+    - art
+    - dali
+    - painting
+    - surrealism
 - slug: uncle-sam
   name: Uncle Sam
+  description: American landscapes and landmarks rendered in the iconography of Uncle Sam — the country looking back at itself through its own recruitment poster.
+  tags:
+  - propaganda
+  - americana
+  - recruitment
+  - uncle-sam
   cover: /images/collections/uncle-sam/uncle-sam-square.jpeg
   count: 15
   images:
-    - 1-american-dream-fundamental.jpeg
-    - iso.jpg
-    - uncle-sam-border-fence-down-the-line.jpeg
-    - uncle-sam-construction-site.jpeg
-    - uncle-sam-downtown-dufur.jpeg
-    - uncle-sam-frosty-downtown-lights.jpeg
-    - uncle-sam-gatew-into-field.jpeg
-    - uncle-sam-old-church-in-sierras.jpeg
-    - uncle-sam-old-gas-station.jpeg
-    - uncle-sam-seattle-public-market.jpeg
-    - uncle-sam-square.jpeg
-    - uncle-sam-statue-of-liberty-front-bright.jpeg
-    - uncle-sam-statue-supreme-court.jpeg
-    - uncle-sam-yellow-tree-in-rocks.jpeg
-    - uncle-sam.jpg
+  - file: 1-american-dream-fundamental.jpeg
+    title: 1 American Dream Fundamental
+    description: 1 American Dream Fundamental — part of the Uncle Sam collection. American landscapes and landmarks rendered in the iconography of Uncle Sam — the country looking back at itself through its own recruitment poster.
+    tags:
+    - americana
+    - propaganda
+    - recruitment
+    - uncle-sam
+  - file: iso.jpg
+    title: ISO
+    description: ISO — part of the Uncle Sam collection. American landscapes and landmarks rendered in the iconography of Uncle Sam — the country looking back at itself through its own recruitment poster.
+    tags:
+    - americana
+    - propaganda
+    - recruitment
+    - uncle-sam
+  - file: uncle-sam-border-fence-down-the-line.jpeg
+    title: Border Fence Down The Line
+    description: Border Fence Down The Line — part of the Uncle Sam collection. American landscapes and landmarks rendered in the iconography of Uncle Sam — the country looking back at itself through its own recruitment poster.
+    tags:
+    - americana
+    - border
+    - fence
+    - propaganda
+    - recruitment
+    - uncle-sam
+  - file: uncle-sam-construction-site.jpeg
+    title: Construction Site
+    description: Construction Site — part of the Uncle Sam collection. American landscapes and landmarks rendered in the iconography of Uncle Sam — the country looking back at itself through its own recruitment poster.
+    tags:
+    - americana
+    - propaganda
+    - recruitment
+    - uncle-sam
+  - file: uncle-sam-downtown-dufur.jpeg
+    title: Downtown Dufur
+    description: Downtown Dufur — part of the Uncle Sam collection. American landscapes and landmarks rendered in the iconography of Uncle Sam — the country looking back at itself through its own recruitment poster.
+    tags:
+    - americana
+    - downtown
+    - propaganda
+    - recruitment
+    - uncle-sam
+  - file: uncle-sam-frosty-downtown-lights.jpeg
+    title: Frosty Downtown Lights
+    description: Frosty Downtown Lights — part of the Uncle Sam collection. American landscapes and landmarks rendered in the iconography of Uncle Sam — the country looking back at itself through its own recruitment poster.
+    tags:
+    - americana
+    - downtown
+    - propaganda
+    - recruitment
+    - uncle-sam
+  - file: uncle-sam-gatew-into-field.jpeg
+    title: Gateway Into Field
+    description: Gateway Into Field — part of the Uncle Sam collection. American landscapes and landmarks rendered in the iconography of Uncle Sam — the country looking back at itself through its own recruitment poster.
+    tags:
+    - americana
+    - propaganda
+    - recruitment
+    - uncle-sam
+  - file: uncle-sam-old-church-in-sierras.jpeg
+    title: Old Church In Sierras
+    description: Old Church In Sierras — part of the Uncle Sam collection. American landscapes and landmarks rendered in the iconography of Uncle Sam — the country looking back at itself through its own recruitment poster.
+    tags:
+    - americana
+    - church
+    - old
+    - propaganda
+    - recruitment
+    - sierras
+    - uncle-sam
+  - file: uncle-sam-old-gas-station.jpeg
+    title: Old Gas Station
+    description: Old Gas Station — part of the Uncle Sam collection. American landscapes and landmarks rendered in the iconography of Uncle Sam — the country looking back at itself through its own recruitment poster.
+    tags:
+    - americana
+    - gas
+    - old
+    - propaganda
+    - recruitment
+    - station
+    - uncle-sam
+  - file: uncle-sam-seattle-public-market.jpeg
+    title: Seattle Public Market
+    description: Seattle Public Market — part of the Uncle Sam collection. American landscapes and landmarks rendered in the iconography of Uncle Sam — the country looking back at itself through its own recruitment poster.
+    tags:
+    - americana
+    - propaganda
+    - recruitment
+    - uncle-sam
+  - file: uncle-sam-square.jpeg
+    title: Uncle Sam
+    description: American landscapes and landmarks rendered in the iconography of Uncle Sam — the country looking back at itself through its own recruitment poster.
+    tags:
+    - americana
+    - propaganda
+    - recruitment
+    - uncle-sam
+  - file: uncle-sam-statue-of-liberty-front-bright.jpeg
+    title: Statue Of Liberty Front Bright
+    description: Statue Of Liberty Front Bright — part of the Uncle Sam collection. American landscapes and landmarks rendered in the iconography of Uncle Sam — the country looking back at itself through its own recruitment poster.
+    tags:
+    - americana
+    - liberty
+    - propaganda
+    - recruitment
+    - statue
+    - uncle-sam
+  - file: uncle-sam-statue-supreme-court.jpeg
+    title: Statue Supreme Court
+    description: Statue Supreme Court — part of the Uncle Sam collection. American landscapes and landmarks rendered in the iconography of Uncle Sam — the country looking back at itself through its own recruitment poster.
+    tags:
+    - americana
+    - court
+    - propaganda
+    - recruitment
+    - statue
+    - supreme
+    - uncle-sam
+  - file: uncle-sam-yellow-tree-in-rocks.jpeg
+    title: Yellow Tree In Rocks
+    description: Yellow Tree In Rocks — part of the Uncle Sam collection. American landscapes and landmarks rendered in the iconography of Uncle Sam — the country looking back at itself through its own recruitment poster.
+    tags:
+    - americana
+    - propaganda
+    - recruitment
+    - tree
+    - uncle-sam
+  - file: uncle-sam.jpg
+    title: Uncle Sam
+    description: American landscapes and landmarks rendered in the iconography of Uncle Sam — the country looking back at itself through its own recruitment poster.
+    tags:
+    - americana
+    - propaganda
+    - recruitment
+    - uncle-sam
 - slug: yellow-journalism
   name: Yellow Journalism
+  description: Imagery rendered in the sensational aesthetic of yellow-journalism-era newspaper illustration — capitols, crows, dragons, and headline-grabbing tableaux.
+  tags:
+  - media
+  - journalism
+  - americana
+  - sensationalism
   cover: /images/collections/yellow-journalism/yellow-journalism-square.jpeg
   count: 15
   images:
-    - california-travel-by-train-desert-sovarampi.jpeg
-    - yellow-journalism-capital.jpeg
-    - yellow-journalism-covid-tests.jpeg
-    - yellow-journalism-crow-stainless-steel.jpeg
-    - yellow-journalism-crow-stump-waterfront.jpeg
-    - yellow-journalism-dinosaur-walking-desert.jpeg
-    - yellow-journalism-dragon-shadow-sun-2.jpeg
-    - yellow-journalism-egret-water-silhouette.jpeg
-    - yellow-journalism-flower-red-close.jpeg
-    - yellow-journalism-flower-white-purple-close.jpeg
-    - yellow-journalism-nyc-coming-in-on-train.jpeg
-    - yellow-journalism-over-the-town.jpeg
-    - yellow-journalism-pier-long-foggy.jpeg
-    - yellow-journalism-square.jpeg
-    - yellow-journalism.jpeg
+  - file: california-travel-by-train-desert-sovarampi.jpeg
+    title: California Travel By Train Desert Sovarampi
+    description: California Travel By Train Desert Sovarampi — part of the Yellow Journalism collection. Imagery rendered in the sensational aesthetic of yellow-journalism-era newspaper illustration — capitols, crows, dragons, and headline-grabbing tableaux.
+    tags:
+    - americana
+    - desert
+    - journalism
+    - media
+    - sensationalism
+    - train
+  - file: yellow-journalism-capital.jpeg
+    title: Capital
+    description: Capital — part of the Yellow Journalism collection. Imagery rendered in the sensational aesthetic of yellow-journalism-era newspaper illustration — capitols, crows, dragons, and headline-grabbing tableaux.
+    tags:
+    - americana
+    - capital
+    - journalism
+    - media
+    - sensationalism
+  - file: yellow-journalism-covid-tests.jpeg
+    title: Covid Tests
+    description: Covid Tests — part of the Yellow Journalism collection. Imagery rendered in the sensational aesthetic of yellow-journalism-era newspaper illustration — capitols, crows, dragons, and headline-grabbing tableaux.
+    tags:
+    - americana
+    - journalism
+    - media
+    - sensationalism
+  - file: yellow-journalism-crow-stainless-steel.jpeg
+    title: Crow Stainless Steel
+    description: Crow Stainless Steel — part of the Yellow Journalism collection. Imagery rendered in the sensational aesthetic of yellow-journalism-era newspaper illustration — capitols, crows, dragons, and headline-grabbing tableaux.
+    tags:
+    - americana
+    - crow
+    - journalism
+    - media
+    - sensationalism
+  - file: yellow-journalism-crow-stump-waterfront.jpeg
+    title: Crow Stump Waterfront
+    description: Crow Stump Waterfront — part of the Yellow Journalism collection. Imagery rendered in the sensational aesthetic of yellow-journalism-era newspaper illustration — capitols, crows, dragons, and headline-grabbing tableaux.
+    tags:
+    - americana
+    - crow
+    - journalism
+    - media
+    - sensationalism
+    - waterfront
+  - file: yellow-journalism-dinosaur-walking-desert.jpeg
+    title: Dinosaur Walking Desert
+    description: Dinosaur Walking Desert — part of the Yellow Journalism collection. Imagery rendered in the sensational aesthetic of yellow-journalism-era newspaper illustration — capitols, crows, dragons, and headline-grabbing tableaux.
+    tags:
+    - americana
+    - desert
+    - dinosaur
+    - journalism
+    - media
+    - sensationalism
+  - file: yellow-journalism-dragon-shadow-sun-2.jpeg
+    title: Dragon Shadow Sun (alt 2)
+    description: Dragon Shadow Sun — part of the Yellow Journalism collection. Imagery rendered in the sensational aesthetic of yellow-journalism-era newspaper illustration — capitols, crows, dragons, and headline-grabbing tableaux.
+    tags:
+    - americana
+    - dragon
+    - journalism
+    - media
+    - sensationalism
+  - file: yellow-journalism-egret-water-silhouette.jpeg
+    title: Egret Water Silhouette
+    description: Egret Water Silhouette — part of the Yellow Journalism collection. Imagery rendered in the sensational aesthetic of yellow-journalism-era newspaper illustration — capitols, crows, dragons, and headline-grabbing tableaux.
+    tags:
+    - americana
+    - egret
+    - journalism
+    - media
+    - sensationalism
+  - file: yellow-journalism-flower-red-close.jpeg
+    title: Flower Red Close
+    description: Flower Red Close — part of the Yellow Journalism collection. Imagery rendered in the sensational aesthetic of yellow-journalism-era newspaper illustration — capitols, crows, dragons, and headline-grabbing tableaux.
+    tags:
+    - americana
+    - flower
+    - journalism
+    - media
+    - sensationalism
+  - file: yellow-journalism-flower-white-purple-close.jpeg
+    title: Flower White Purple Close
+    description: Flower White Purple Close — part of the Yellow Journalism collection. Imagery rendered in the sensational aesthetic of yellow-journalism-era newspaper illustration — capitols, crows, dragons, and headline-grabbing tableaux.
+    tags:
+    - americana
+    - flower
+    - journalism
+    - media
+    - sensationalism
+  - file: yellow-journalism-nyc-coming-in-on-train.jpeg
+    title: NYC Coming In On Train
+    description: NYC Coming In On Train — part of the Yellow Journalism collection. Imagery rendered in the sensational aesthetic of yellow-journalism-era newspaper illustration — capitols, crows, dragons, and headline-grabbing tableaux.
+    tags:
+    - americana
+    - journalism
+    - media
+    - nyc
+    - sensationalism
+    - train
+  - file: yellow-journalism-over-the-town.jpeg
+    title: Over The Town
+    description: Over The Town — part of the Yellow Journalism collection. Imagery rendered in the sensational aesthetic of yellow-journalism-era newspaper illustration — capitols, crows, dragons, and headline-grabbing tableaux.
+    tags:
+    - americana
+    - journalism
+    - media
+    - sensationalism
+  - file: yellow-journalism-pier-long-foggy.jpeg
+    title: Pier Long Foggy
+    description: Pier Long Foggy — part of the Yellow Journalism collection. Imagery rendered in the sensational aesthetic of yellow-journalism-era newspaper illustration — capitols, crows, dragons, and headline-grabbing tableaux.
+    tags:
+    - americana
+    - foggy
+    - journalism
+    - media
+    - pier
+    - sensationalism
+  - file: yellow-journalism-square.jpeg
+    title: Yellow Journalism
+    description: Imagery rendered in the sensational aesthetic of yellow-journalism-era newspaper illustration — capitols, crows, dragons, and headline-grabbing tableaux.
+    tags:
+    - americana
+    - journalism
+    - media
+    - sensationalism
+  - file: yellow-journalism.jpeg
+    title: Yellow Journalism
+    description: Imagery rendered in the sensational aesthetic of yellow-journalism-era newspaper illustration — capitols, crows, dragons, and headline-grabbing tableaux.
+    tags:
+    - americana
+    - journalism
+    - media
+    - sensationalism
