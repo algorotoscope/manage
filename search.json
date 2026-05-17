@@ -21,8 +21,11 @@ layout: null
     {% for t in targets %}
     {
       "type": "target",
-      "name": {{ t.name | strip | jsonify }},
+      "name": {{ t.title | default: t.name | strip | jsonify }},
+      "file": {{ t.name | strip | jsonify }},
       "batch": {{ t.batch | jsonify }},
+      "description": {{ t.description | default: "" | jsonify }},
+      "tags": {{ t.tags | default: "" | jsonify }},
       "url": "/target.html?t={{ t.name | strip | url_encode }}"
     }{% unless forloop.last %},{% endunless %}
     {% endfor %}

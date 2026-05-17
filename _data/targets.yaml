@@ -1,2164 +1,6050 @@
----
 - name: an-me-store-front.jpeg
   batch: 2
+  title: An Me Store Front
+  description: An Me Store Front — source image from the algorotoscope target set.
+  tags:
+  - store
 - name: angry-king-crown.jpeg
   batch: 2
+  title: Angry King Crown
+  description: Angry King Crown — source image from the algorotoscope target set.
+  tags:
+  - angry
+  - crown
+  - king
 - name: angry-man-head.jpeg
   batch: 2
+  title: Angry Man Head
+  description: Angry Man Head — source image from the algorotoscope target set.
+  tags:
+  - angry
 - name: arrow-in-ground.jpeg
   batch: 2
+  title: Arrow In Ground
+  description: Arrow In Ground — source image from the algorotoscope target set.
+  tags: []
 - name: audrey-nyc-skyline.jpeg
   batch: 2
+  title: Audrey NYC Skyline
+  description: Audrey NYC Skyline — source image from the algorotoscope target set.
+  tags:
+  - nyc
+  - skyline
 - name: autom-leaves-street.jpeg
   batch: 2
+  title: Autumn Leaves Street
+  description: Autumn Leaves Street — source image from the algorotoscope target set.
+  tags:
+  - leaves
+  - street
 - name: bagel-poppy-plain-boil.jpeg
   batch: 2
+  title: Bagel Poppy Plain Boil
+  description: Bagel Poppy Plain Boil — source image from the algorotoscope target set.
+  tags:
+  - bagel
 - name: bagels-plain-boiling.jpeg
   batch: 2
+  title: Bagels Plain Boiling
+  description: Bagels Plain Boiling — source image from the algorotoscope target set.
+  tags:
+  - bagels
 - name: banana-subway-stairs.jpeg
   batch: 2
+  title: Banana Subway Stairs
+  description: Banana Subway Stairs — source image from the algorotoscope target set.
+  tags:
+  - banana
+  - subway
 - name: bay-bridge-second-half.jpeg
   batch: 2
+  title: Bay Bridge Second Half
+  description: Bay Bridge Second Half — source image from the algorotoscope target set.
+  tags:
+  - bridge
 - name: big-seven.jpeg
   batch: 2
+  title: Big Seven
+  description: Big Seven — source image from the algorotoscope target set.
+  tags: []
 - name: big-zero.jpeg
   batch: 2
+  title: Big Zero
+  description: Big Zero — source image from the algorotoscope target set.
+  tags: []
 - name: bike-path-all-the-way.jpeg
   batch: 2
+  title: Bike Path All The Way
+  description: Bike Path All The Way — source image from the algorotoscope target set.
+  tags:
+  - bike
+  - path
 - name: blue-hhill-fair.jpeg
   batch: 2
+  title: Blue Hill Fair
+  description: Blue Hill Fair — source image from the algorotoscope target set.
+  tags: []
 - name: boat-coming-through-bridge-1.jpeg
   batch: 2
+  title: Boat Coming Through Bridge (alt 1)
+  description: Boat Coming Through Bridge (alt 1) — source image from the algorotoscope target set.
+  tags:
+  - boat
+  - bridge
 - name: boat-coming-through-bridge-2.jpeg
   batch: 2
+  title: Boat Coming Through Bridge (alt 2)
+  description: Boat Coming Through Bridge (alt 2) — source image from the algorotoscope target set.
+  tags:
+  - boat
+  - bridge
 - name: brooklyn-bridge-traffic.jpeg
   batch: 2
+  title: Brooklyn Bridge Traffic
+  description: Brooklyn Bridge Traffic — source image from the algorotoscope target set.
+  tags:
+  - bridge
 - name: building-art-construction.jpeg
   batch: 2
+  title: Building Art Construction
+  description: Building Art Construction — source image from the algorotoscope target set.
+  tags:
+  - building
 - name: building-wet-day.jpeg
   batch: 2
+  title: Building Wet Day
+  description: Building Wet Day — source image from the algorotoscope target set.
+  tags:
+  - building
 - name: cactus-nyc-skyline.jpeg
   batch: 2
+  title: Cactus NYC Skyline
+  description: Cactus NYC Skyline — source image from the algorotoscope target set.
+  tags:
+  - nyc
+  - skyline
 - name: cell-tower-close-2.jpeg
   batch: 2
+  title: Cell Tower Close (alt 2)
+  description: Cell Tower Close (alt 2) — source image from the algorotoscope target set.
+  tags: []
 - name: cell-tower-close.jpeg
   batch: 2
+  title: Cell Tower Close
+  description: Cell Tower Close — source image from the algorotoscope target set.
+  tags: []
 - name: cell-tower-overload-up-close.jpeg
   batch: 2
+  title: Cell Tower Overload Up Close
+  description: Cell Tower Overload Up Close — source image from the algorotoscope target set.
+  tags: []
 - name: cell-tower-overloaded.jpeg
   batch: 2
+  title: Cell Tower Overloaded
+  description: Cell Tower Overloaded — source image from the algorotoscope target set.
+  tags: []
 - name: cell-tower-satellite-dishes.jpeg
   batch: 2
+  title: Cell Tower Satellite Dishes
+  description: Cell Tower Satellite Dishes — source image from the algorotoscope target set.
+  tags: []
 - name: central-park-bridge-light.jpeg
   batch: 2
+  title: Central Park Bridge Light
+  description: Central Park Bridge Light — source image from the algorotoscope target set.
+  tags:
+  - bridge
+  - park
 - name: central-park-bridge-morning.jpeg
   batch: 2
+  title: Central Park Bridge Morning
+  description: Central Park Bridge Morning — source image from the algorotoscope target set.
+  tags:
+  - bridge
+  - park
 - name: central-park-leaves-2.jpeg
   batch: 2
+  title: Central Park Leaves (alt 2)
+  description: Central Park Leaves (alt 2) — source image from the algorotoscope target set.
+  tags:
+  - leaves
+  - park
 - name: central-park-leaves.jpeg
   batch: 2
+  title: Central Park Leaves
+  description: Central Park Leaves — source image from the algorotoscope target set.
+  tags:
+  - leaves
+  - park
 - name: central-park-water.jpeg
   batch: 2
+  title: Central Park Water
+  description: Central Park Water — source image from the algorotoscope target set.
+  tags:
+  - park
 - name: central-park-winter-walkway.jpeg
   batch: 2
+  title: Central Park Winter Walkway
+  description: Central Park Winter Walkway — source image from the algorotoscope target set.
+  tags:
+  - park
 - name: classroom-computers.jpeg
   batch: 2
+  title: Classroom Computers
+  description: Classroom Computers — source image from the algorotoscope target set.
+  tags: []
 - name: clock-fancy.jpeg
   batch: 2
+  title: Clock Fancy
+  description: Clock Fancy — source image from the algorotoscope target set.
+  tags: []
 - name: computer-setup-1.jpeg
   batch: 2
+  title: Computer Setup (alt 1)
+  description: Computer Setup (alt 1) — source image from the algorotoscope target set.
+  tags: []
 - name: computer-setup-2.jpeg
   batch: 2
+  title: Computer Setup (alt 2)
+  description: Computer Setup (alt 2) — source image from the algorotoscope target set.
+  tags: []
 - name: confused-man-head.jpeg
   batch: 2
+  title: Confused Man Head
+  description: Confused Man Head — source image from the algorotoscope target set.
+  tags: []
 - name: corner-restaurant.jpeg
   batch: 2
+  title: Corner Restaurant
+  description: Corner Restaurant — source image from the algorotoscope target set.
+  tags:
+  - restaurant
 - name: corner-shirt-waist-factory.jpeg
   batch: 2
+  title: Corner Shirt Waist Factory
+  description: Corner Shirt Waist Factory — source image from the algorotoscope target set.
+  tags:
+  - factory
 - name: cotton-candy.jpeg
   batch: 2
+  title: Cotton Candy
+  description: Cotton Candy — source image from the algorotoscope target set.
+  tags: []
 - name: crane-sunrise-buildings.jpeg
   batch: 2
+  title: Crane Sunrise Buildings
+  description: Crane Sunrise Buildings — source image from the algorotoscope target set.
+  tags: []
 - name: demon-art.jpeg
   batch: 2
+  title: Demon Art
+  description: Demon Art — source image from the algorotoscope target set.
+  tags: []
 - name: demon-face.jpeg
   batch: 2
+  title: Demon Face
+  description: Demon Face — source image from the algorotoscope target set.
+  tags: []
 - name: docks-oakland-1.jpeg
   batch: 2
+  title: Docks Oakland (alt 1)
+  description: Docks Oakland (alt 1) — source image from the algorotoscope target set.
+  tags:
+  - docks
+  - oakland
 - name: docks-oakland-2.jpeg
   batch: 2
+  title: Docks Oakland (alt 2)
+  description: Docks Oakland (alt 2) — source image from the algorotoscope target set.
+  tags:
+  - docks
+  - oakland
 - name: docks-oakland-3.jpeg
   batch: 2
+  title: Docks Oakland (alt 3)
+  description: Docks Oakland (alt 3) — source image from the algorotoscope target set.
+  tags:
+  - docks
+  - oakland
 - name: docks-oakland-4.jpeg
   batch: 2
+  title: Docks Oakland (alt 4)
+  description: Docks Oakland (alt 4) — source image from the algorotoscope target set.
+  tags:
+  - docks
+  - oakland
 - name: docks-oakland-5.jpeg
   batch: 2
+  title: Docks Oakland (alt 5)
+  description: Docks Oakland (alt 5) — source image from the algorotoscope target set.
+  tags:
+  - docks
+  - oakland
 - name: docks-oakland-6.jpeg
   batch: 2
+  title: Docks Oakland (alt 6)
+  description: Docks Oakland (alt 6) — source image from the algorotoscope target set.
+  tags:
+  - docks
+  - oakland
 - name: downtown-city-lights.jpeg
   batch: 2
+  title: Downtown City Lights
+  description: Downtown City Lights — source image from the algorotoscope target set.
+  tags:
+  - downtown
 - name: dual-security-cameras.jpeg
   batch: 2
+  title: Dual Security Cameras
+  description: Dual Security Cameras — source image from the algorotoscope target set.
+  tags:
+  - cameras
 - name: emergency-third-rail-power-trip.jpeg
   batch: 2
+  title: Emergency Third Rail Power Trip
+  description: Emergency Third Rail Power Trip — source image from the algorotoscope target set.
+  tags: []
 - name: energy-tower-1.jpeg
   batch: 2
+  title: Energy Tower (alt 1)
+  description: Energy Tower (alt 1) — source image from the algorotoscope target set.
+  tags: []
 - name: energy-tower-2.jpeg
   batch: 2
+  title: Energy Tower (alt 2)
+  description: Energy Tower (alt 2) — source image from the algorotoscope target set.
+  tags: []
 - name: fancy-man-1.jpeg
   batch: 2
+  title: Fancy Man (alt 1)
+  description: Fancy Man (alt 1) — source image from the algorotoscope target set.
+  tags: []
 - name: feminist-pioneers.jpeg
   batch: 2
+  title: Feminist Pioneers
+  description: Feminist Pioneers — source image from the algorotoscope target set.
+  tags: []
 - name: ferris-wheel-fair.jpeg
   batch: 2
+  title: Ferris Wheel Fair
+  description: Ferris Wheel Fair — source image from the algorotoscope target set.
+  tags: []
 - name: fixing-satellite-1.jpeg
   batch: 2
+  title: Fixing Satellite (alt 1)
+  description: Fixing Satellite (alt 1) — source image from the algorotoscope target set.
+  tags: []
 - name: fixing-satellite-2.jpeg
   batch: 2
+  title: Fixing Satellite (alt 2)
+  description: Fixing Satellite (alt 2) — source image from the algorotoscope target set.
+  tags: []
 - name: flag-police-car.jpeg
   batch: 2
+  title: Flag Police Car
+  description: Flag Police Car — source image from the algorotoscope target set.
+  tags:
+  - car
+  - flag
 - name: funnel-cake.jpeg
   batch: 2
+  title: Funnel Cake
+  description: Funnel Cake — source image from the algorotoscope target set.
+  tags: []
 - name: glass-buildings-walk-way.jpeg
   batch: 2
+  title: Glass Buildings Walk Way
+  description: Glass Buildings Walk Way — source image from the algorotoscope target set.
+  tags: []
 - name: god-dancing-statue.jpeg
   batch: 2
+  title: God Dancing Statue
+  description: God Dancing Statue — source image from the algorotoscope target set.
+  tags:
+  - statue
 - name: god-sitting-hand-on-kneww.jpeg
   batch: 2
+  title: God Sitting Hand On Kneww
+  description: God Sitting Hand On Kneww — source image from the algorotoscope target set.
+  tags: []
 - name: god-sitting-hand-out.jpeg
   batch: 2
+  title: God Sitting Hand Out
+  description: God Sitting Hand Out — source image from the algorotoscope target set.
+  tags: []
 - name: god-talking-statue.jpeg
   batch: 2
+  title: God Talking Statue
+  description: God Talking Statue — source image from the algorotoscope target set.
+  tags:
+  - statue
 - name: guggenheim-outside.jpeg
   batch: 2
+  title: Guggenheim Outside
+  description: Guggenheim Outside — source image from the algorotoscope target set.
+  tags: []
 - name: house-freeway-behind.jpeg
   batch: 2
+  title: House Freeway Behind
+  description: House Freeway Behind — source image from the algorotoscope target set.
+  tags:
+  - freeway
+  - house
 - name: hub.jpeg
   batch: 2
+  title: Hub
+  description: Hub — source image from the algorotoscope target set.
+  tags: []
 - name: ice-skating.jpeg
   batch: 2
+  title: Ice Skating
+  description: Ice Skating — source image from the algorotoscope target set.
+  tags: []
 - name: japanese-carrying-over-bridge.jpeg
   batch: 2
+  title: Japanese Carrying Over Bridge
+  description: Japanese Carrying Over Bridge — source image from the algorotoscope target set.
+  tags:
+  - bridge
 - name: japanese-cherry-tree.jpeg
   batch: 2
+  title: Japanese Cherry Tree
+  description: Japanese Cherry Tree — source image from the algorotoscope target set.
+  tags:
+  - tree
 - name: japanese-little-boats.jpeg
   batch: 2
+  title: Japanese Little Boats
+  description: Japanese Little Boats — source image from the algorotoscope target set.
+  tags:
+  - boats
 - name: japanese-man-sitting.jpeg
   batch: 2
+  title: Japanese Man Sitting
+  description: Japanese Man Sitting — source image from the algorotoscope target set.
+  tags: []
 - name: japanese-mountains.jpeg
   batch: 2
+  title: Japanese Mountains
+  description: Japanese Mountains — source image from the algorotoscope target set.
+  tags: []
 - name: jarritos.jpeg
   batch: 2
+  title: Jarritos
+  description: Jarritos — source image from the algorotoscope target set.
+  tags: []
 - name: justic-for-alan-blueford.jpeg
   batch: 2
+  title: Justic For Alan Blueford
+  description: Justic For Alan Blueford — source image from the algorotoscope target set.
+  tags: []
 - name: kin-boulder-last-before.jpeg
   batch: 2
+  title: Kin Boulder Last Before
+  description: Kin Boulder Last Before — source image from the algorotoscope target set.
+  tags: []
 - name: kin-flag.jpeg
   batch: 2
+  title: Kin Flag
+  description: Kin Flag — source image from the algorotoscope target set.
+  tags:
+  - flag
 - name: kin-kaia-tea.jpeg
   batch: 2
+  title: Kin Kaia Tea
+  description: Kin Kaia Tea — source image from the algorotoscope target set.
+  tags: []
 - name: kin-pet-area.jpeg
   batch: 2
+  title: Kin Pet Area
+  description: Kin Pet Area — source image from the algorotoscope target set.
+  tags: []
 - name: kin-poppy-bench.jpeg
   batch: 2
+  title: Kin Poppy Bench
+  description: Kin Poppy Bench — source image from the algorotoscope target set.
+  tags: []
 - name: koa-journey.jpeg
   batch: 2
+  title: Koa Journey
+  description: Koa Journey — source image from the algorotoscope target set.
+  tags: []
 - name: lane-1-2-3.jpeg
   batch: 2
+  title: Lane 1 2 (alt 3)
+  description: Lane 1 2 (alt 3) — source image from the algorotoscope target set.
+  tags: []
 - name: lion-mouth-open.jpeg
   batch: 2
+  title: Lion Mouth Open
+  description: Lion Mouth Open — source image from the algorotoscope target set.
+  tags: []
 - name: looking-toward-sky.jpeg
   batch: 2
+  title: Looking Toward Sky
+  description: Looking Toward Sky — source image from the algorotoscope target set.
+  tags: []
 - name: loom.jpeg
   batch: 2
+  title: Loom
+  description: Loom — source image from the algorotoscope target set.
+  tags: []
 - name: met-stage.jpeg
   batch: 2
+  title: Met Stage
+  description: Met Stage — source image from the algorotoscope target set.
+  tags: []
 - name: metlife-bulding-siide.jpeg
   batch: 2
+  title: Metlife Bulding Siide
+  description: Metlife Bulding Siide — source image from the algorotoscope target set.
+  tags: []
 - name: new-and-old-building.jpeg
   batch: 2
+  title: New And Old Building
+  description: New And Old Building — source image from the algorotoscope target set.
+  tags:
+  - building
+  - old
 - name: nordstoms.jpeg
   batch: 2
+  title: Nordstoms
+  description: Nordstoms — source image from the algorotoscope target set.
+  tags: []
 - name: ny-56th-foggy.jpeg
   batch: 2
+  title: Ny 56th Foggy
+  description: Ny 56th Foggy — source image from the algorotoscope target set.
+  tags:
+  - foggy
 - name: nyc-57th-1.jpeg
   batch: 2
+  title: NYC 57th (alt 1)
+  description: NYC 57th (alt 1) — source image from the algorotoscope target set.
+  tags:
+  - nyc
 - name: nyc-57th-3.jpeg
   batch: 2
+  title: NYC 57th (alt 3)
+  description: NYC 57th (alt 3) — source image from the algorotoscope target set.
+  tags:
+  - nyc
 - name: nyc-firdst-day.jpeg
   batch: 2
+  title: NYC Firdst Day
+  description: NYC Firdst Day — source image from the algorotoscope target set.
+  tags:
+  - nyc
 - name: nyc-from-brooklyn-1.jpeg
   batch: 2
+  title: NYC From Brooklyn (alt 1)
+  description: NYC From Brooklyn (alt 1) — source image from the algorotoscope target set.
+  tags:
+  - nyc
 - name: nyc-from-lex.jpeg
   batch: 2
+  title: NYC From Lex
+  description: NYC From Lex — source image from the algorotoscope target set.
+  tags:
+  - nyc
 - name: nyc-people-marketplace.jpeg
   batch: 2
+  title: NYC People Marketplace
+  description: NYC People Marketplace — source image from the algorotoscope target set.
+  tags:
+  - nyc
 - name: nyc-public-library.jpeg
   batch: 2
+  title: NYC Public Library
+  description: NYC Public Library — source image from the algorotoscope target set.
+  tags:
+  - nyc
 - name: nyc-skyline-from-hudson.jpeg
   batch: 2
+  title: NYC Skyline From Hudson
+  description: NYC Skyline From Hudson — source image from the algorotoscope target set.
+  tags:
+  - nyc
+  - skyline
 - name: nyc-streeet-dark-steam-1.jpeg
   batch: 2
+  title: NYC Streeet Dark Steam (alt 1)
+  description: NYC Streeet Dark Steam (alt 1) — source image from the algorotoscope target set.
+  tags:
+  - nyc
 - name: nyc-streeet-dark-steam-2.jpeg
   batch: 2
+  title: NYC Streeet Dark Steam (alt 2)
+  description: NYC Streeet Dark Steam (alt 2) — source image from the algorotoscope target set.
+  tags:
+  - nyc
 - name: old-bearded-man-thinking.jpeg
   batch: 2
+  title: Old Bearded Man Thinking
+  description: Old Bearded Man Thinking — source image from the algorotoscope target set.
+  tags:
+  - old
 - name: old-building-sky.jpeg
   batch: 2
+  title: Old Building Sky
+  description: Old Building Sky — source image from the algorotoscope target set.
+  tags:
+  - building
+  - old
 - name: old-church-police-car.jpeg
   batch: 2
+  title: Old Church Police Car
+  description: Old Church Police Car — source image from the algorotoscope target set.
+  tags:
+  - car
+  - church
+  - old
 - name: old-cool-building.jpeg
   batch: 2
+  title: Old Cool Building
+  description: Old Cool Building — source image from the algorotoscope target set.
+  tags:
+  - building
+  - old
 - name: old-docks-1.jpeg
   batch: 2
+  title: Old Docks (alt 1)
+  description: Old Docks (alt 1) — source image from the algorotoscope target set.
+  tags:
+  - docks
+  - old
 - name: old-docks-tree.jpeg
   batch: 2
+  title: Old Docks Tree
+  description: Old Docks Tree — source image from the algorotoscope target set.
+  tags:
+  - docks
+  - old
+  - tree
 - name: old-downtown-store-front.jpeg
   batch: 2
+  title: Old Downtown Store Front
+  description: Old Downtown Store Front — source image from the algorotoscope target set.
+  tags:
+  - downtown
+  - old
+  - store
 - name: old-japanese-man-1.jpeg
   batch: 2
+  title: Old Japanese Man (alt 1)
+  description: Old Japanese Man (alt 1) — source image from the algorotoscope target set.
+  tags:
+  - old
 - name: old-japanese-man-2.jpeg
   batch: 2
+  title: Old Japanese Man (alt 2)
+  description: Old Japanese Man (alt 2) — source image from the algorotoscope target set.
+  tags:
+  - old
 - name: old-japanese-man-3.jpeg
   batch: 2
+  title: Old Japanese Man (alt 3)
+  description: Old Japanese Man (alt 3) — source image from the algorotoscope target set.
+  tags:
+  - old
 - name: old-japanese-man-eyebrows.jpeg
   batch: 2
+  title: Old Japanese Man Eyebrows
+  description: Old Japanese Man Eyebrows — source image from the algorotoscope target set.
+  tags:
+  - old
 - name: old-phone-on-handle.jpeg
   batch: 2
+  title: Old Phone On Handle
+  description: Old Phone On Handle — source image from the algorotoscope target set.
+  tags:
+  - old
 - name: old-small-town-buildings.jpeg
   batch: 2
+  title: Old Small Town Buildings
+  description: Old Small Town Buildings — source image from the algorotoscope target set.
+  tags:
+  - old
 - name: old-tall-building-fire-escape.jpeg
   batch: 2
+  title: Old Tall Building Fire Escape
+  description: Old Tall Building Fire Escape — source image from the algorotoscope target set.
+  tags:
+  - building
+  - old
 - name: old-tools.jpeg
   batch: 2
+  title: Old Tools
+  description: Old Tools — source image from the algorotoscope target set.
+  tags:
+  - old
 - name: old-tower-buildings-light-nyc.jpeg
   batch: 2
+  title: Old Tower Buildings Light NYC
+  description: Old Tower Buildings Light NYC — source image from the algorotoscope target set.
+  tags:
+  - nyc
+  - old
 - name: only-walk-zone.jpeg
   batch: 2
+  title: Only Walk Zone
+  description: Only Walk Zone — source image from the algorotoscope target set.
+  tags: []
 - name: please-do-not-feed-the-pigeons.jpeg
   batch: 2
+  title: Please Do Not Feed The Pigeons
+  description: Please Do Not Feed The Pigeons — source image from the algorotoscope target set.
+  tags:
+  - pigeons
 - name: poppy-nyc-skyline.jpeg
   batch: 2
+  title: Poppy NYC Skyline
+  description: Poppy NYC Skyline — source image from the algorotoscope target set.
+  tags:
+  - nyc
+  - skyline
 - name: poppy-trash-can.jpeg
   batch: 2
+  title: Poppy Trash Can
+  description: Poppy Trash Can — source image from the algorotoscope target set.
+  tags: []
 - name: power-station-new-building.jpeg
   batch: 2
+  title: Power Station New Building
+  description: Power Station New Building — source image from the algorotoscope target set.
+  tags:
+  - building
+  - station
 - name: reparations.jpeg
   batch: 2
+  title: Reparations
+  description: Reparations — source image from the algorotoscope target set.
+  tags: []
 - name: rockefeller-christmas-tree.jpeg
   batch: 2
+  title: Rockefeller Christmas Tree
+  description: Rockefeller Christmas Tree — source image from the algorotoscope target set.
+  tags:
+  - tree
 - name: ron-carter-bass-2.jpeg
   batch: 2
+  title: Ron Carter Bass (alt 2)
+  description: Ron Carter Bass (alt 2) — source image from the algorotoscope target set.
+  tags: []
 - name: ron-carter-bass.jpeg
   batch: 2
+  title: Ron Carter Bass
+  description: Ron Carter Bass — source image from the algorotoscope target set.
+  tags: []
 - name: rv-rest-area-bench.jpeg
   batch: 2
+  title: Rv Rest Area Bench
+  description: Rv Rest Area Bench — source image from the algorotoscope target set.
+  tags: []
 - name: sailboat-under-bay-bridge.jpeg
   batch: 2
+  title: Sailboat Under Bay Bridge
+  description: Sailboat Under Bay Bridge — source image from the algorotoscope target set.
+  tags:
+  - bridge
 - name: sailboat-under-bridge.jpeg
   batch: 2
+  title: Sailboat Under Bridge
+  description: Sailboat Under Bridge — source image from the algorotoscope target set.
+  tags:
+  - bridge
 - name: san-francisco-bay-bridge.jpeg
   batch: 2
+  title: San Francisco Bay Bridge
+  description: San Francisco Bay Bridge — source image from the algorotoscope target set.
+  tags:
+  - bridge
 - name: san-francisco-downtown-bay-bridge.jpeg
   batch: 2
+  title: San Francisco Downtown Bay Bridge
+  description: San Francisco Downtown Bay Bridge — source image from the algorotoscope target set.
+  tags:
+  - bridge
+  - downtown
 - name: security-sign-surveillance.jpeg
   batch: 2
+  title: Security Sign Surveillance
+  description: Security Sign Surveillance — source image from the algorotoscope target set.
+  tags:
+  - surveillance
 - name: sheep-hay.jpeg
   batch: 2
+  title: Sheep Hay
+  description: Sheep Hay — source image from the algorotoscope target set.
+  tags:
+  - sheep
 - name: sin-will-find-you.jpeg
   batch: 2
+  title: Sin Will Find You
+  description: Sin Will Find You — source image from the algorotoscope target set.
+  tags: []
 - name: skyscraper-construction-crane-2.jpeg
   batch: 2
+  title: Skyscraper Construction Crane (alt 2)
+  description: Skyscraper Construction Crane (alt 2) — source image from the algorotoscope target set.
+  tags: []
 - name: skyscraper-construction-crane-3.jpeg
   batch: 2
+  title: Skyscraper Construction Crane (alt 3)
+  description: Skyscraper Construction Crane (alt 3) — source image from the algorotoscope target set.
+  tags: []
 - name: skyscraper-construction-crane-nbc-2.jpeg
   batch: 2
+  title: Skyscraper Construction Crane Nbc (alt 2)
+  description: Skyscraper Construction Crane Nbc (alt 2) — source image from the algorotoscope target set.
+  tags: []
 - name: skyscraper-construction-crane-nbc.jpeg
   batch: 2
+  title: Skyscraper Construction Crane Nbc
+  description: Skyscraper Construction Crane Nbc — source image from the algorotoscope target set.
+  tags: []
 - name: skyscraper-construction-crane.jpeg
   batch: 2
+  title: Skyscraper Construction Crane
+  description: Skyscraper Construction Crane — source image from the algorotoscope target set.
+  tags: []
 - name: spacce-burger-fence.jpeg
   batch: 2
+  title: Spacce Burger Fence
+  description: Spacce Burger Fence — source image from the algorotoscope target set.
+  tags:
+  - fence
 - name: streaming-fountain-1.jpeg
   batch: 2
+  title: Streaming Fountain (alt 1)
+  description: Streaming Fountain (alt 1) — source image from the algorotoscope target set.
+  tags: []
 - name: streaming-fountain-2.jpeg
   batch: 2
+  title: Streaming Fountain (alt 2)
+  description: Streaming Fountain (alt 2) — source image from the algorotoscope target set.
+  tags: []
 - name: streaming-fountain-3.jpeg
   batch: 2
+  title: Streaming Fountain (alt 3)
+  description: Streaming Fountain (alt 3) — source image from the algorotoscope target set.
+  tags: []
 - name: streaming-fountain-5.jpeg
   batch: 2
+  title: Streaming Fountain (alt 5)
+  description: Streaming Fountain (alt 5) — source image from the algorotoscope target set.
+  tags: []
 - name: subway-59th-stairs.jpeg
   batch: 2
+  title: Subway 59th Stairs
+  description: Subway 59th Stairs — source image from the algorotoscope target set.
+  tags:
+  - subway
 - name: subway-crowd-average-day.jpeg
   batch: 2
+  title: Subway Crowd Average Day
+  description: Subway Crowd Average Day — source image from the algorotoscope target set.
+  tags:
+  - subway
 - name: subway-floor-average-day.jpeg
   batch: 2
+  title: Subway Floor Average Day
+  description: Subway Floor Average Day — source image from the algorotoscope target set.
+  tags:
+  - subway
 - name: subway-platform.jpeg
   batch: 2
+  title: Subway Platform
+  description: Subway Platform — source image from the algorotoscope target set.
+  tags:
+  - subway
 - name: subway-train-110th.jpeg
   batch: 2
+  title: Subway Train 110th
+  description: Subway Train 110th — source image from the algorotoscope target set.
+  tags:
+  - subway
+  - train
 - name: subway-walk-into.jpeg
   batch: 2
+  title: Subway Walk Into
+  description: Subway Walk Into — source image from the algorotoscope target set.
+  tags:
+  - subway
 - name: subway-wife.jpeg
   batch: 2
+  title: Subway Wife
+  description: Subway Wife — source image from the algorotoscope target set.
+  tags:
+  - subway
 - name: tea-timer.jpeg
   batch: 2
+  title: Tea Timer
+  description: Tea Timer — source image from the algorotoscope target set.
+  tags: []
 - name: the-empress-front.jpeg
   batch: 2
+  title: The Empress Front
+  description: The Empress Front — source image from the algorotoscope target set.
+  tags: []
 - name: the-roxy.jpeg
   batch: 2
+  title: The Roxy
+  description: The Roxy — source image from the algorotoscope target set.
+  tags: []
 - name: thinking-man-5.jpeg
   batch: 2
+  title: Thinking Man (alt 5)
+  description: Thinking Man (alt 5) — source image from the algorotoscope target set.
+  tags: []
 - name: three-building-east-side.jpeg
   batch: 2
+  title: Three Building East Side
+  description: Three Building East Side — source image from the algorotoscope target set.
+  tags:
+  - building
 - name: three-little-buildings.jpeg
   batch: 2
+  title: Three Little Buildings
+  description: Three Little Buildings — source image from the algorotoscope target set.
+  tags: []
 - name: tiffany-lamp-1.jpeg
   batch: 2
+  title: Tiffany Lamp (alt 1)
+  description: Tiffany Lamp (alt 1) — source image from the algorotoscope target set.
+  tags: []
 - name: tiffany-lamp-2.jpeg
   batch: 2
+  title: Tiffany Lamp (alt 2)
+  description: Tiffany Lamp (alt 2) — source image from the algorotoscope target set.
+  tags: []
 - name: tiffany-lamp-3.jpeg
   batch: 2
+  title: Tiffany Lamp (alt 3)
+  description: Tiffany Lamp (alt 3) — source image from the algorotoscope target set.
+  tags: []
 - name: tiffany-lamp-4.jpeg
   batch: 2
+  title: Tiffany Lamp (alt 4)
+  description: Tiffany Lamp (alt 4) — source image from the algorotoscope target set.
+  tags: []
 - name: time-square-tables.jpeg
   batch: 2
+  title: Time Square Tables
+  description: Time Square Tables — source image from the algorotoscope target set.
+  tags: []
 - name: times-square-corner.jpeg
   batch: 2
+  title: Times Square Corner
+  description: Times Square Corner — source image from the algorotoscope target set.
+  tags: []
 - name: train-car-budweiser.jpeg
   batch: 2
+  title: Train Car Budweiser
+  description: Train Car Budweiser — source image from the algorotoscope target set.
+  tags:
+  - car
+  - train
 - name: train-car-heinz.jpeg
   batch: 2
+  title: Train Car Heinz
+  description: Train Car Heinz — source image from the algorotoscope target set.
+  tags:
+  - car
+  - train
 - name: train-car-pabst.jpeg
   batch: 2
+  title: Train Car Pabst
+  description: Train Car Pabst — source image from the algorotoscope target set.
+  tags:
+  - car
+  - train
 - name: train-engine.jpeg
   batch: 2
+  title: Train Engine
+  description: Train Engine — source image from the algorotoscope target set.
+  tags:
+  - train
 - name: train-hand-car.jpeg
   batch: 2
+  title: Train Hand Car
+  description: Train Hand Car — source image from the algorotoscope target set.
+  tags:
+  - car
+  - train
 - name: train-tunnel-1930.jpeg
   batch: 2
+  title: Train Tunnel 1930
+  description: Train Tunnel 1930 — source image from the algorotoscope target set.
+  tags:
+  - train
+  - tunnel
 - name: treasure-island-bay-bridge.jpeg
   batch: 2
+  title: Treasure Island Bay Bridge
+  description: Treasure Island Bay Bridge — source image from the algorotoscope target set.
+  tags:
+  - bridge
 - name: tree-graffitti.jpeg
   batch: 2
+  title: Tree Graffitti
+  description: Tree Graffitti — source image from the algorotoscope target set.
+  tags:
+  - tree
 - name: underpass-top-dark.jpeg
   batch: 2
+  title: Underpass Top Dark
+  description: Underpass Top Dark — source image from the algorotoscope target set.
+  tags: []
 - name: us-flag-tree.jpeg
   batch: 2
+  title: US Flag Tree
+  description: US Flag Tree — source image from the algorotoscope target set.
+  tags:
+  - flag
+  - tree
 - name: uss-intrepid.jpeg
   batch: 2
+  title: Uss Intrepid
+  description: Uss Intrepid — source image from the algorotoscope target set.
+  tags: []
 - name: abandoned-church-far.jpg
   batch: 1
+  title: Abandoned Church Far
+  description: Abandoned Church Far — source image from the algorotoscope target set.
+  tags:
+  - church
 - name: adam-smith-edinburgh.jpg
   batch: 1
+  title: Adam Smith Edinburgh
+  description: Adam Smith Edinburgh — source image from the algorotoscope target set.
+  tags: []
 - name: alamada-county-building.jpeg
   batch: 1
+  title: Alamada County Building
+  description: Alamada County Building — source image from the algorotoscope target set.
+  tags:
+  - building
 - name: alan-turing-side.jpg
   batch: 1
+  title: Alan Turing Side
+  description: Alan Turing Side — source image from the algorotoscope target set.
+  tags: []
 - name: alpine-inn.jpg
   batch: 1
+  title: Alpine Inn
+  description: Alpine Inn — source image from the algorotoscope target set.
+  tags: []
 - name: amsterdam-water.jpg
   batch: 1
+  title: Amsterdam Water
+  description: Amsterdam Water — source image from the algorotoscope target set.
+  tags: []
 - name: angela-art.jpeg
   batch: 1
+  title: Angela Art
+  description: Angela Art — source image from the algorotoscope target set.
+  tags: []
 - name: apple-2-e-close.jpg
   batch: 1
+  title: Apple 2 E Close
+  description: Apple 2 E Close — source image from the algorotoscope target set.
+  tags: []
 - name: apple-2-e.jpg
   batch: 1
+  title: Apple 2 E
+  description: Apple 2 E — source image from the algorotoscope target set.
+  tags: []
 - name: apple-conference.jpg
   batch: 1
+  title: Apple Conference
+  description: Apple Conference — source image from the algorotoscope target set.
+  tags: []
 - name: armor-light-behind.jpg
   batch: 1
+  title: Armor Light Behind
+  description: Armor Light Behind — source image from the algorotoscope target set.
+  tags: []
 - name: astoria-bridge-columbia.jpg
   batch: 1
+  title: Astoria Bridge Columbia
+  description: Astoria Bridge Columbia — source image from the algorotoscope target set.
+  tags:
+  - bridge
 - name: atlantic-avenue.jpg
   batch: 1
+  title: Atlantic Avenue
+  description: Atlantic Avenue — source image from the algorotoscope target set.
+  tags: []
 - name: audrey-top-mountain.jpeg
   batch: 1
+  title: Audrey Top Mountain
+  description: Audrey Top Mountain — source image from the algorotoscope target set.
+  tags:
+  - mountain
 - name: axe-woodpile-cop.jpg
   batch: 1
+  title: Axe Woodpile Cop
+  description: Axe Woodpile Cop — source image from the algorotoscope target set.
+  tags: []
 - name: baggage-department.jpg
   batch: 1
+  title: Baggage Department
+  description: Baggage Department — source image from the algorotoscope target set.
+  tags: []
 - name: baptist-church.jpeg
   batch: 1
+  title: Baptist Church
+  description: Baptist Church — source image from the algorotoscope target set.
+  tags:
+  - church
 - name: barack-obama.jpg
   batch: 1
+  title: Barack Obama
+  description: Barack Obama — source image from the algorotoscope target set.
+  tags: []
 - name: barbed-wire.jpg
   batch: 1
+  title: Barbed Wire
+  description: Barbed Wire — source image from the algorotoscope target set.
+  tags:
+  - barbed
+  - wire
 - name: baseball-field.jpg
   batch: 1
+  title: Baseball Field
+  description: Baseball Field — source image from the algorotoscope target set.
+  tags: []
 - name: basket-containers.jpg
   batch: 1
+  title: Basket Containers
+  description: Basket Containers — source image from the algorotoscope target set.
+  tags: []
 - name: bay-bridge-pillar.jpg
   batch: 1
+  title: Bay Bridge Pillar
+  description: Bay Bridge Pillar — source image from the algorotoscope target set.
+  tags:
+  - bridge
 - name: beach-sun-bay.jpeg
   batch: 1
+  title: Beach Sun Bay
+  description: Beach Sun Bay — source image from the algorotoscope target set.
+  tags:
+  - beach
+  - sun
 - name: beach-walking-dog.jpeg
   batch: 1
+  title: Beach Walking Dog
+  description: Beach Walking Dog — source image from the algorotoscope target set.
+  tags:
+  - beach
 - name: beach-water-spain.jpg
   batch: 1
+  title: Beach Water Spain
+  description: Beach Water Spain — source image from the algorotoscope target set.
+  tags:
+  - beach
 - name: bell-in-window.jpg
   batch: 1
+  title: Bell In Window
+  description: Bell In Window — source image from the algorotoscope target set.
+  tags: []
 - name: bench-forest.jpeg
   batch: 1
+  title: Bench Forest
+  description: Bench Forest — source image from the algorotoscope target set.
+  tags: []
 - name: berlin-wall-down.jpg
   batch: 1
+  title: Berlin Wall Down
+  description: Berlin Wall Down — source image from the algorotoscope target set.
+  tags:
+  - wall
 - name: berlin-wall-face.jpg
   batch: 1
+  title: Berlin Wall Face
+  description: Berlin Wall Face — source image from the algorotoscope target set.
+  tags:
+  - wall
 - name: berline-wall-old-building.jpg
   batch: 1
+  title: Berlin Wall Old Building
+  description: Berlin Wall Old Building — source image from the algorotoscope target set.
+  tags:
+  - building
+  - old
+  - wall
 - name: big-antennae-tower.jpg
   batch: 1
+  title: Big Antennae Tower
+  description: Big Antennae Tower — source image from the algorotoscope target set.
+  tags: []
 - name: big-crow-statue.jpg
   batch: 1
+  title: Big Crow Statue
+  description: Big Crow Statue — source image from the algorotoscope target set.
+  tags:
+  - crow
+  - statue
 - name: bird-catching-bug.jpg
   batch: 1
+  title: Bird Catching Bug
+  description: Bird Catching Bug — source image from the algorotoscope target set.
+  tags: []
 - name: blechlety-old-racks.jpg
   batch: 1
+  title: Blechlety Old Racks
+  description: Blechlety Old Racks — source image from the algorotoscope target set.
+  tags:
+  - old
 - name: bletchley-computer-racks.jpg
   batch: 1
+  title: Bletchley Computer Racks
+  description: Bletchley Computer Racks — source image from the algorotoscope target set.
+  tags: []
 - name: bletchley-computer.jpg
   batch: 1
+  title: Bletchley Computer
+  description: Bletchley Computer — source image from the algorotoscope target set.
+  tags: []
 - name: bletchley-racks.jpg
   batch: 1
+  title: Bletchley Racks
+  description: Bletchley Racks — source image from the algorotoscope target set.
+  tags: []
 - name: bletchly-bombay.jpg
   batch: 1
+  title: Bletchly Bombay
+  description: Bletchly Bombay — source image from the algorotoscope target set.
+  tags: []
 - name: boats-waterfront-bristol.jpg
   batch: 1
+  title: Boats Waterfront Bristol
+  description: Boats Waterfront Bristol — source image from the algorotoscope target set.
+  tags:
+  - boats
+  - waterfront
 - name: border-crossing-through-fence-2.jpg
   batch: 1
+  title: Border Crossing Through Fence (alt 2)
+  description: Border Crossing Through Fence (alt 2) — source image from the algorotoscope target set.
+  tags:
+  - border
+  - fence
 - name: border-crossing-through-fence.jpg
   batch: 1
+  title: Border Crossing Through Fence
+  description: Border Crossing Through Fence — source image from the algorotoscope target set.
+  tags:
+  - border
+  - fence
 - name: border-down-the-fence-line.jpg
   batch: 1
+  title: Border Down The Fence Line
+  description: Border Down The Fence Line — source image from the algorotoscope target set.
+  tags:
+  - border
+  - fence
 - name: border-fence-down-the-line-2.jpg
   batch: 1
+  title: Border Fence Down The Line (alt 2)
+  description: Border Fence Down The Line (alt 2) — source image from the algorotoscope target set.
+  tags:
+  - border
+  - fence
 - name: border-fence-down-the-line.jpg
   batch: 1
+  title: Border Fence Down The Line
+  description: Border Fence Down The Line — source image from the algorotoscope target set.
+  tags:
+  - border
+  - fence
 - name: border-watching-cars.jpg
   batch: 1
+  title: Border Watching Cars
+  description: Border Watching Cars — source image from the algorotoscope target set.
+  tags:
+  - border
+  - cars
 - name: bridge-over-columbia.jpg
   batch: 1
+  title: Bridge Over Columbia
+  description: Bridge Over Columbia — source image from the algorotoscope target set.
+  tags:
+  - bridge
 - name: bridge-road-old.jpg
   batch: 1
+  title: Bridge Road Old
+  description: Bridge Road Old — source image from the algorotoscope target set.
+  tags:
+  - bridge
+  - old
+  - road
 - name: bright-light-bulb.jpg
   batch: 1
+  title: Bright Light Bulb
+  description: Bright Light Bulb — source image from the algorotoscope target set.
+  tags: []
 - name: bristol-street-up.jpg
   batch: 1
+  title: Bristol Street Up
+  description: Bristol Street Up — source image from the algorotoscope target set.
+  tags:
+  - street
 - name: british-black-cab-street.jpg
   batch: 1
+  title: British Black Cab Street
+  description: British Black Cab Street — source image from the algorotoscope target set.
+  tags:
+  - street
 - name: british-city-bend.jpg
   batch: 1
+  title: British City Bend
+  description: British City Bend — source image from the algorotoscope target set.
+  tags: []
 - name: british-guards-marching.jpg
   batch: 1
+  title: British Guards Marching
+  description: British Guards Marching — source image from the algorotoscope target set.
+  tags: []
 - name: british-sgtreet-phone-booth.jpg
   batch: 1
+  title: British Sgtreet Phone Booth
+  description: British Sgtreet Phone Booth — source image from the algorotoscope target set.
+  tags: []
 - name: building-crane-concreete.jpeg
   batch: 1
+  title: Building Crane Concreete
+  description: Building Crane Concreete — source image from the algorotoscope target set.
+  tags:
+  - building
 - name: building-hanger.jpeg
   batch: 1
+  title: Building Hanger
+  description: Building Hanger — source image from the algorotoscope target set.
+  tags:
+  - building
 - name: building-old-simple.jpeg
   batch: 1
+  title: Building Old Simple
+  description: Building Old Simple — source image from the algorotoscope target set.
+  tags:
+  - building
+  - old
 - name: building-shadows-sun.jpg
   batch: 1
+  title: Building Shadows Sun
+  description: Building Shadows Sun — source image from the algorotoscope target set.
+  tags:
+  - building
+  - sun
 - name: burned-van-back.jpeg
   batch: 1
+  title: Burned Van Back
+  description: Burned Van Back — source image from the algorotoscope target set.
+  tags: []
 - name: burned-van-side.jpeg
   batch: 1
+  title: Burned Van Side
+  description: Burned Van Side — source image from the algorotoscope target set.
+  tags: []
 - name: bus-station.jpeg
   batch: 1
+  title: Bus Station
+  description: Bus Station — source image from the algorotoscope target set.
+  tags:
+  - bus
+  - station
 - name: butterfly-on-flower.jpg
   batch: 1
+  title: Butterfly On Flower
+  description: Butterfly On Flower — source image from the algorotoscope target set.
+  tags:
+  - flower
 - name: butterfly-purple-flower.jpg
   batch: 1
+  title: Butterfly Purple Flower
+  description: Butterfly Purple Flower — source image from the algorotoscope target set.
+  tags:
+  - flower
 - name: c-line-nyc.jpg
   batch: 1
+  title: C Line NYC
+  description: C Line NYC — source image from the algorotoscope target set.
+  tags:
+  - nyc
 - name: california-coastal-trail.jpeg
   batch: 1
+  title: California Coastal Trail
+  description: California Coastal Trail — source image from the algorotoscope target set.
+  tags: []
 - name: california-hotel.jpeg
   batch: 1
+  title: California Hotel
+  description: California Hotel — source image from the algorotoscope target set.
+  tags: []
 - name: camel-in-desert.jpg
   batch: 1
+  title: Camel In Desert
+  description: Camel In Desert — source image from the algorotoscope target set.
+  tags:
+  - desert
 - name: canal-ships-bridge.jpg
   batch: 1
+  title: Canal Ships Bridge
+  description: Canal Ships Bridge — source image from the algorotoscope target set.
+  tags:
+  - bridge
 - name: cannon_36556797762_o.jpg
   batch: 1
+  title: Cannon O
+  description: Cannon O — source image from the algorotoscope target set.
+  tags: []
 - name: cannons-with-ropes.jpg
   batch: 1
+  title: Cannons With Ropes
+  description: Cannons With Ropes — source image from the algorotoscope target set.
+  tags: []
 - name: capital_36728420065_o.jpg
   batch: 1
+  title: Capital O
+  description: Capital O — source image from the algorotoscope target set.
+  tags:
+  - capital
 - name: capital_36728421355_o.jpg
   batch: 1
+  title: Capital O
+  description: Capital O — source image from the algorotoscope target set.
+  tags:
+  - capital
 - name: capital-blue-sky.jpg
   batch: 1
+  title: Capital Blue Sky
+  description: Capital Blue Sky — source image from the algorotoscope target set.
+  tags:
+  - capital
 - name: capital-records-building.jpg
   batch: 1
+  title: Capital Records Building
+  description: Capital Records Building — source image from the algorotoscope target set.
+  tags:
+  - building
+  - capital
 - name: capital-white-guy.jpg
   batch: 1
+  title: Capital White Guy
+  description: Capital White Guy — source image from the algorotoscope target set.
+  tags:
+  - capital
 - name: cargo-ship_36587814601_o.jpg
   batch: 1
+  title: Cargo Ship O
+  description: Cargo Ship O — source image from the algorotoscope target set.
+  tags: []
 - name: cargo-ship-fog.jpg
   batch: 1
+  title: Cargo Ship Fog
+  description: Cargo Ship Fog — source image from the algorotoscope target set.
+  tags:
+  - fog
 - name: castle-cannon-tree.jpg
   batch: 1
+  title: Castle Cannon Tree
+  description: Castle Cannon Tree — source image from the algorotoscope target set.
+  tags:
+  - tree
 - name: castle-clouds-green-lawn.jpg
   batch: 1
+  title: Castle Clouds Green Lawn
+  description: Castle Clouds Green Lawn — source image from the algorotoscope target set.
+  tags: []
 - name: castle-front-shot.jpg
   batch: 1
+  title: Castle Front Shot
+  description: Castle Front Shot — source image from the algorotoscope target set.
+  tags: []
 - name: castle-on-hill.jpg
   batch: 1
+  title: Castle On Hill
+  description: Castle On Hill — source image from the algorotoscope target set.
+  tags:
+  - hill
 - name: castle-on-the-hill-windows.jpg
   batch: 1
+  title: Castle On The Hill Windows
+  description: Castle On The Hill Windows — source image from the algorotoscope target set.
+  tags:
+  - hill
 - name: castle-window_35928999923_o.jpg
   batch: 1
+  title: Castle Window O
+  description: Castle Window O — source image from the algorotoscope target set.
+  tags: []
 - name: castle-wires.jpg
   batch: 1
+  title: Castle Wires
+  description: Castle Wires — source image from the algorotoscope target set.
+  tags: []
 - name: cat-dozer.jpeg
   batch: 1
+  title: Cat Dozer
+  description: Cat Dozer — source image from the algorotoscope target set.
+  tags: []
 - name: cemetery_35902984304_o.jpg
   batch: 1
+  title: Cemetery O
+  description: Cemetery O — source image from the algorotoscope target set.
+  tags:
+  - cemetery
 - name: cemetery_36690406946_o.jpg
   batch: 1
+  title: Cemetery O
+  description: Cemetery O — source image from the algorotoscope target set.
+  tags:
+  - cemetery
 - name: checkpoint-charlie-mcdonalds.jpg
   batch: 1
+  title: Checkpoint Charlie Mcdonalds
+  description: Checkpoint Charlie Mcdonalds — source image from the algorotoscope target set.
+  tags: []
 - name: checkpoint-charlie.jpg
   batch: 1
+  title: Checkpoint Charlie
+  description: Checkpoint Charlie — source image from the algorotoscope target set.
+  tags: []
 - name: chess-in-the-park-with-pigeons.jpg
   batch: 1
+  title: Chess In The Park With Pigeons
+  description: Chess In The Park With Pigeons — source image from the algorotoscope target set.
+  tags:
+  - park
+  - pigeons
 - name: chinese-stores.jpeg
   batch: 1
+  title: Chinese Stores
+  description: Chinese Stores — source image from the algorotoscope target set.
+  tags: []
 - name: christ-cross-chalice.jpg
   batch: 1
+  title: Christ Cross Chalice
+  description: Christ Cross Chalice — source image from the algorotoscope target set.
+  tags: []
 - name: christ-on-cross.jpg
   batch: 1
+  title: Christ On Cross
+  description: Christ On Cross — source image from the algorotoscope target set.
+  tags: []
 - name: church-oakland.jpg
   batch: 1
+  title: Church Oakland
+  description: Church Oakland — source image from the algorotoscope target set.
+  tags:
+  - church
+  - oakland
 - name: city-building-trees-sky.jpg
   batch: 1
+  title: City Building Trees Sky
+  description: City Building Trees Sky — source image from the algorotoscope target set.
+  tags:
+  - building
+  - trees
 - name: city-clouds-building-crowded.jpg
   batch: 1
+  title: City Clouds Building Crowded
+  description: City Clouds Building Crowded — source image from the algorotoscope target set.
+  tags:
+  - building
 - name: city-clouds-view.jpg
   batch: 1
+  title: City Clouds View
+  description: City Clouds View — source image from the algorotoscope target set.
+  tags: []
 - name: city-clouds-waterfront.jpg
   batch: 1
+  title: City Clouds Waterfront
+  description: City Clouds Waterfront — source image from the algorotoscope target set.
+  tags:
+  - waterfront
 - name: city-down-street.jpg
   batch: 1
+  title: City Down Street
+  description: City Down Street — source image from the algorotoscope target set.
+  tags:
+  - street
 - name: city-fog-sun.jpeg
   batch: 1
+  title: City Fog Sun
+  description: City Fog Sun — source image from the algorotoscope target set.
+  tags:
+  - fog
+  - sun
 - name: city-skyline-bright.jpg
   batch: 1
+  title: City Skyline Bright
+  description: City Skyline Bright — source image from the algorotoscope target set.
+  tags:
+  - skyline
 - name: city-skyline-grey.jpg
   batch: 1
+  title: City Skyline Grey
+  description: City Skyline Grey — source image from the algorotoscope target set.
+  tags:
+  - skyline
 - name: city-vancouver-clouds.jpg
   batch: 1
+  title: City Vancouver Clouds
+  description: City Vancouver Clouds — source image from the algorotoscope target set.
+  tags: []
 - name: city-waterfront-path.jpg
   batch: 1
+  title: City Waterfront Path
+  description: City Waterfront Path — source image from the algorotoscope target set.
+  tags:
+  - path
+  - waterfront
 - name: cloks-many-of-them.jpg
   batch: 1
+  title: Cloks Many Of Them
+  description: Cloks Many Of Them — source image from the algorotoscope target set.
+  tags: []
 - name: close-to-all-remote-aircraft.jpg
   batch: 1
+  title: Close To All Remote Aircraft
+  description: Close To All Remote Aircraft — source image from the algorotoscope target set.
+  tags: []
 - name: cloud-red.jpg
   batch: 1
+  title: Cloud Red
+  description: Cloud Red — source image from the algorotoscope target set.
+  tags: []
 - name: clowns_35893926114_o.jpg
   batch: 1
+  title: Clowns O
+  description: Clowns O — source image from the algorotoscope target set.
+  tags: []
 - name: colonial-solider-pointing.jpg
   batch: 1
+  title: Colonial Solider Pointing
+  description: Colonial Solider Pointing — source image from the algorotoscope target set.
+  tags: []
 - name: commodore-vic-20.jpg
   batch: 1
+  title: Commodore Vic (alt 20)
+  description: Commodore Vic (alt 20) — source image from the algorotoscope target set.
+  tags: []
 - name: concert-hall-bright-lights.jpg
   batch: 1
+  title: Concert Hall Bright Lights
+  description: Concert Hall Bright Lights — source image from the algorotoscope target set.
+  tags: []
 - name: congtrols-old-ship.jpg
   batch: 1
+  title: Congtrols Old Ship
+  description: Congtrols Old Ship — source image from the algorotoscope target set.
+  tags:
+  - old
 - name: construction-crane-city.jpg
   batch: 1
+  title: Construction Crane City
+  description: Construction Crane City — source image from the algorotoscope target set.
+  tags: []
 - name: construction-zone-claw.jpg
   batch: 1
+  title: Construction Zone Claw
+  description: Construction Zone Claw — source image from the algorotoscope target set.
+  tags: []
 - name: container-several-colors-grey.jpg
   batch: 1
+  title: Container Several Colors Grey
+  description: Container Several Colors Grey — source image from the algorotoscope target set.
+  tags: []
 - name: container-ship-in-seattle.jpg
   batch: 1
+  title: Container Ship In Seattle
+  description: Container Ship In Seattle — source image from the algorotoscope target set.
+  tags: []
 - name: containers-stack.jpeg
   batch: 1
+  title: Containers Stack
+  description: Containers Stack — source image from the algorotoscope target set.
+  tags: []
 - name: containers-white.jpg
   batch: 1
+  title: Containers White
+  description: Containers White — source image from the algorotoscope target set.
+  tags: []
 - name: covid-tests.jpeg
   batch: 1
+  title: Covid Tests
+  description: Covid Tests — source image from the algorotoscope target set.
+  tags: []
 - name: craftmen-home.jpg
   batch: 1
+  title: Craftmen Home
+  description: Craftmen Home — source image from the algorotoscope target set.
+  tags: []
 - name: crank-window.jpg
   batch: 1
+  title: Crank Window
+  description: Crank Window — source image from the algorotoscope target set.
+  tags: []
 - name: creepy-doll-looking-down.jpg
   batch: 1
+  title: Creepy Doll Looking Down
+  description: Creepy Doll Looking Down — source image from the algorotoscope target set.
+  tags: []
 - name: cross-against-trees.jpg
   batch: 1
+  title: Cross Against Trees
+  description: Cross Against Trees — source image from the algorotoscope target set.
+  tags:
+  - trees
 - name: cross-clouds.jpg
   batch: 1
+  title: Cross Clouds
+  description: Cross Clouds — source image from the algorotoscope target set.
+  tags: []
 - name: cross-dark-moon.jpg
   batch: 1
+  title: Cross Dark Moon
+  description: Cross Dark Moon — source image from the algorotoscope target set.
+  tags: []
 - name: cross-rock-woods.jpeg
   batch: 1
+  title: Cross Rock Woods
+  description: Cross Rock Woods — source image from the algorotoscope target set.
+  tags: []
 - name: crow-in-sand.jpg
   batch: 1
+  title: Crow In Sand
+  description: Crow In Sand — source image from the algorotoscope target set.
+  tags:
+  - crow
 - name: crow-stailess-steal.jpg
   batch: 1
+  title: Crow Stailess Steal
+  description: Crow Stailess Steal — source image from the algorotoscope target set.
+  tags:
+  - crow
 - name: crow-stkump-waterfront.jpg
   batch: 1
+  title: Crow Stkump Waterfront
+  description: Crow Stkump Waterfront — source image from the algorotoscope target set.
+  tags:
+  - crow
+  - waterfront
 - name: cruise-ship-c-175.jpg
   batch: 1
+  title: Cruise Ship C 175
+  description: Cruise Ship C 175 — source image from the algorotoscope target set.
+  tags: []
 - name: cruise-ship-clouds.jpg
   batch: 1
+  title: Cruise Ship Clouds
+  description: Cruise Ship Clouds — source image from the algorotoscope target set.
+  tags: []
 - name: cruise-ship-shore-log.jpg
   batch: 1
+  title: Cruise Ship Shore Log
+  description: Cruise Ship Shore Log — source image from the algorotoscope target set.
+  tags: []
 - name: crypto-wheels-old-compute-bletchley.jpg
   batch: 1
+  title: Crypto Wheels Old Compute Bletchley
+  description: Crypto Wheels Old Compute Bletchley — source image from the algorotoscope target set.
+  tags:
+  - old
 - name: d-train.jpg
   batch: 1
+  title: D Train
+  description: D Train — source image from the algorotoscope target set.
+  tags:
+  - train
 - name: dandelions-in-rocks.jpg
   batch: 1
+  title: Dandelions In Rocks
+  description: Dandelions In Rocks — source image from the algorotoscope target set.
+  tags: []
 - name: dark-city-buildings.jpg
   batch: 1
+  title: Dark City Buildings
+  description: Dark City Buildings — source image from the algorotoscope target set.
+  tags: []
 - name: dark-city-street.jpg
   batch: 1
+  title: Dark City Street
+  description: Dark City Street — source image from the algorotoscope target set.
+  tags:
+  - street
 - name: dark-hallway-in-hotel.jpg
   batch: 1
+  title: Dark Hallway In Hotel
+  description: Dark Hallway In Hotel — source image from the algorotoscope target set.
+  tags: []
 - name: dark-tower-of-london.jpg
   batch: 1
+  title: Dark Tower Of London
+  description: Dark Tower Of London — source image from the algorotoscope target set.
+  tags: []
 - name: desert-mining.jpeg
   batch: 1
+  title: Desert Mining
+  description: Desert Mining — source image from the algorotoscope target set.
+  tags:
+  - desert
 - name: desert-road-mountains.jpg
   batch: 1
+  title: Desert Road Mountains
+  description: Desert Road Mountains — source image from the algorotoscope target set.
+  tags:
+  - desert
+  - road
 - name: desert-sovarampi.jpeg
   batch: 1
+  title: Desert Sovarampi
+  description: Desert Sovarampi — source image from the algorotoscope target set.
+  tags:
+  - desert
 - name: desktop-laptop-chair.jpg
   batch: 1
+  title: Desktop Laptop Chair
+  description: Desktop Laptop Chair — source image from the algorotoscope target set.
+  tags: []
 - name: destruction-seattle-viaduct.jpg
   batch: 1
+  title: Destruction Seattle Viaduct
+  description: Destruction Seattle Viaduct — source image from the algorotoscope target set.
+  tags: []
 - name: dial-old-computer.jpg
   batch: 1
+  title: Dial Old Computer
+  description: Dial Old Computer — source image from the algorotoscope target set.
+  tags:
+  - old
 - name: dinosaur-stepping-on-lego.jpg
   batch: 1
+  title: Dinosaur Stepping On Lego
+  description: Dinosaur Stepping On Lego — source image from the algorotoscope target set.
+  tags:
+  - dinosaur
 - name: dinosaur-walking-desert.jpg
   batch: 1
+  title: Dinosaur Walking Desert
+  description: Dinosaur Walking Desert — source image from the algorotoscope target set.
+  tags:
+  - desert
+  - dinosaur
 - name: do-not-enter-sign.jpg
   batch: 1
+  title: Do Not Enter Sign
+  description: Do Not Enter Sign — source image from the algorotoscope target set.
+  tags: []
 - name: do-not-turn-trolley-car.jpg
   batch: 1
+  title: Do Not Turn Trolley Car
+  description: Do Not Turn Trolley Car — source image from the algorotoscope target set.
+  tags:
+  - car
 - name: docks-big-cosco-ship.jpg
   batch: 1
+  title: Docks Big Cosco Ship
+  description: Docks Big Cosco Ship — source image from the algorotoscope target set.
+  tags:
+  - docks
 - name: docks-far-way.jpeg
   batch: 1
+  title: Docks Far Way
+  description: Docks Far Way — source image from the algorotoscope target set.
+  tags:
+  - docks
 - name: docks-in-itealy-tower.jpg
   batch: 1
+  title: Docks In Itealy Tower
+  description: Docks In Itealy Tower — source image from the algorotoscope target set.
+  tags:
+  - docks
 - name: docks-ships-cranes.jpg
   batch: 1
+  title: Docks Ships Cranes
+  description: Docks Ships Cranes — source image from the algorotoscope target set.
+  tags:
+  - docks
 - name: docks-water-front-ships-containers.jpg
   batch: 1
+  title: Docks Water Front Ships Containers
+  description: Docks Water Front Ships Containers — source image from the algorotoscope target set.
+  tags:
+  - docks
 - name: docks-water-front.jpg
   batch: 1
+  title: Docks Water Front
+  description: Docks Water Front — source image from the algorotoscope target set.
+  tags:
+  - docks
 - name: docs-cranes-waterfront.jpg
   batch: 1
+  title: Docs Cranes Waterfront
+  description: Docs Cranes Waterfront — source image from the algorotoscope target set.
+  tags:
+  - waterfront
 - name: down-side-street-shop-sign.jpg
   batch: 1
+  title: Down Side Street Shop Sign
+  description: Down Side Street Shop Sign — source image from the algorotoscope target set.
+  tags:
+  - street
 - name: down-the-line-harlem.jpg
   batch: 1
+  title: Down The Line Harlem
+  description: Down The Line Harlem — source image from the algorotoscope target set.
+  tags:
+  - harlem
 - name: downtow-cool-car.jpg
   batch: 1
+  title: Downtow Cool Car
+  description: Downtow Cool Car — source image from the algorotoscope target set.
+  tags:
+  - car
 - name: downtown-125thstreet.jpg
   batch: 1
+  title: Downtown 125thstreet
+  description: Downtown 125thstreet — source image from the algorotoscope target set.
+  tags:
+  - downtown
 - name: downtown-berlin-crowds.jpg
   batch: 1
+  title: Downtown Berlin Crowds
+  description: Downtown Berlin Crowds — source image from the algorotoscope target set.
+  tags:
+  - downtown
 - name: downtown-dufur.jpg
   batch: 1
+  title: Downtown Dufur
+  description: Downtown Dufur — source image from the algorotoscope target set.
+  tags:
+  - downtown
 - name: downtown-la_36349151230_o.jpg
   batch: 1
+  title: Downtown LA O
+  description: Downtown LA O — source image from the algorotoscope target set.
+  tags:
+  - downtown
+  - la
 - name: downtown-light-posts.jpg
   batch: 1
+  title: Downtown Light Posts
+  description: Downtown Light Posts — source image from the algorotoscope target set.
+  tags:
+  - downtown
 - name: downtown-sidewalk-washington.jpg
   batch: 1
+  title: Downtown Sidewalk Washington
+  description: Downtown Sidewalk Washington — source image from the algorotoscope target set.
+  tags:
+  - downtown
+  - sidewalk
+  - washington
 - name: downtown-street-crosswalk.jpg
   batch: 1
+  title: Downtown Street Crosswalk
+  description: Downtown Street Crosswalk — source image from the algorotoscope target set.
+  tags:
+  - downtown
+  - street
 - name: dragon-desert-looking.jpg
   batch: 1
+  title: Dragon Desert Looking
+  description: Dragon Desert Looking — source image from the algorotoscope target set.
+  tags:
+  - desert
+  - dragon
 - name: dragon-shadow-sun-2.jpg
   batch: 1
+  title: Dragon Shadow Sun (alt 2)
+  description: Dragon Shadow Sun (alt 2) — source image from the algorotoscope target set.
+  tags:
+  - dragon
+  - sun
 - name: dragon-shadow-sun.jpg
   batch: 1
+  title: Dragon Shadow Sun
+  description: Dragon Shadow Sun — source image from the algorotoscope target set.
+  tags:
+  - dragon
+  - sun
 - name: dragon-turning-head.jpg
   batch: 1
+  title: Dragon Turning Head
+  description: Dragon Turning Head — source image from the algorotoscope target set.
+  tags:
+  - dragon
 - name: dried-flowers-snow-2.jpeg
   batch: 1
+  title: Dried Flowers Snow (alt 2)
+  description: Dried Flowers Snow (alt 2) — source image from the algorotoscope target set.
+  tags:
+  - snow
 - name: dried-flowers-snow.jpeg
   batch: 1
+  title: Dried Flowers Snow
+  description: Dried Flowers Snow — source image from the algorotoscope target set.
+  tags:
+  - snow
 - name: drone-boats.jpeg
   batch: 1
+  title: Drone Boats
+  description: Drone Boats — source image from the algorotoscope target set.
+  tags:
+  - boats
+  - drone
 - name: dSC_0037.jpg
   batch: 1
+  title: Dsc 0037
+  description: Dsc 0037 — source image from the algorotoscope target set.
+  tags: []
 - name: DSC_0041.jpg
   batch: 1
+  title: Dsc 0041
+  description: Dsc 0041 — source image from the algorotoscope target set.
+  tags: []
 - name: eagle-soaring.jpg
   batch: 1
+  title: Eagle Soaring
+  description: Eagle Soaring — source image from the algorotoscope target set.
+  tags: []
 - name: eagle-spread-tree-2.jpg
   batch: 1
+  title: Eagle Spread Tree (alt 2)
+  description: Eagle Spread Tree (alt 2) — source image from the algorotoscope target set.
+  tags:
+  - tree
 - name: eagle-spread-tree.jpg
   batch: 1
+  title: Eagle Spread Tree
+  description: Eagle Spread Tree — source image from the algorotoscope target set.
+  tags:
+  - tree
 - name: early-computer-bletchley.jpg
   batch: 1
+  title: Early Computer Bletchley
+  description: Early Computer Bletchley — source image from the algorotoscope target set.
+  tags: []
 - name: edgefield-2.jpg
   batch: 1
+  title: Edgefield (alt 2)
+  description: Edgefield (alt 2) — source image from the algorotoscope target set.
+  tags: []
 - name: eeob-white-house.jpg
   batch: 1
+  title: Eeob White House
+  description: Eeob White House — source image from the algorotoscope target set.
+  tags:
+  - house
 - name: effiel-tower-paris.jpg
   batch: 1
+  title: Effiel Tower Paris
+  description: Effiel Tower Paris — source image from the algorotoscope target set.
+  tags: []
 - name: egret-water-silhouette.jpeg
   batch: 1
+  title: Egret Water Silhouette
+  description: Egret Water Silhouette — source image from the algorotoscope target set.
+  tags:
+  - egret
 - name: eiphel-tower-paris-brown.jpg
   batch: 1
+  title: Eiphel Tower Paris Brown
+  description: Eiphel Tower Paris Brown — source image from the algorotoscope target set.
+  tags: []
 - name: electric-tower-sun-behind.jpg
   batch: 1
+  title: Electric Tower Sun Behind
+  description: Electric Tower Sun Behind — source image from the algorotoscope target set.
+  tags:
+  - sun
 - name: ellis-island-flags.jpg
   batch: 1
+  title: Ellis Island Flags
+  description: Ellis Island Flags — source image from the algorotoscope target set.
+  tags: []
 - name: ellis-island-nyc.jpg
   batch: 1
+  title: Ellis Island NYC
+  description: Ellis Island NYC — source image from the algorotoscope target set.
+  tags:
+  - nyc
 - name: ellis-island-windows.jpg
   batch: 1
+  title: Ellis Island Windows
+  description: Ellis Island Windows — source image from the algorotoscope target set.
+  tags: []
 - name: escalator-close-in.jpg
   batch: 1
+  title: Escalator Close In
+  description: Escalator Close In — source image from the algorotoscope target set.
+  tags: []
 - name: eye-mosaic.jpg
   batch: 1
+  title: Eye Mosaic
+  description: Eye Mosaic — source image from the algorotoscope target set.
+  tags: []
 - name: f5-tow3ers.jpg
   batch: 1
+  title: F5 Tow3ers
+  description: F5 Tow3ers — source image from the algorotoscope target set.
+  tags: []
 - name: face-eyes-open-statue.jpg
   batch: 1
+  title: Face Eyes Open Statue
+  description: Face Eyes Open Statue — source image from the algorotoscope target set.
+  tags:
+  - statue
 - name: face-eyes-shut-statue.jpg
   batch: 1
+  title: Face Eyes Shut Statue
+  description: Face Eyes Shut Statue — source image from the algorotoscope target set.
+  tags:
+  - statue
 - name: face-mosaic.jpg
   batch: 1
+  title: Face Mosaic
+  description: Face Mosaic — source image from the algorotoscope target set.
+  tags: []
 - name: factory-road.jpg
   batch: 1
+  title: Factory Road
+  description: Factory Road — source image from the algorotoscope target set.
+  tags:
+  - factory
+  - road
 - name: fat-old-pigeon-on-fence.jpg
   batch: 1
+  title: Fat Old Pigeon On Fence
+  description: Fat Old Pigeon On Fence — source image from the algorotoscope target set.
+  tags:
+  - fence
+  - old
+  - pigeon
 - name: fire-hydrant-water.jpg
   batch: 1
+  title: Fire Hydrant Water
+  description: Fire Hydrant Water — source image from the algorotoscope target set.
+  tags: []
 - name: fire-truck-pulling-out-of-station.jpg
   batch: 1
+  title: Fire Truck Pulling Out Of Station
+  description: Fire Truck Pulling Out Of Station — source image from the algorotoscope target set.
+  tags:
+  - station
+  - truck
 - name: firetruck-bright-sun.jpg
   batch: 1
+  title: Firetruck Bright Sun
+  description: Firetruck Bright Sun — source image from the algorotoscope target set.
+  tags:
+  - sun
 - name: fishing-boat-lake.jpg
   batch: 1
+  title: Fishing Boat Lake
+  description: Fishing Boat Lake — source image from the algorotoscope target set.
+  tags:
+  - boat
+  - lake
 - name: fishing-docks-lake.jpg
   batch: 1
+  title: Fishing Docks Lake
+  description: Fishing Docks Lake — source image from the algorotoscope target set.
+  tags:
+  - docks
+  - lake
 - name: fishing-ship-in-docks.jpg
   batch: 1
+  title: Fishing Ship In Docks
+  description: Fishing Ship In Docks — source image from the algorotoscope target set.
+  tags:
+  - docks
 - name: fishing-vessel.jpg
   batch: 1
+  title: Fishing Vessel
+  description: Fishing Vessel — source image from the algorotoscope target set.
+  tags: []
 - name: fixing-cross.jpg
   batch: 1
+  title: Fixing Cross
+  description: Fixing Cross — source image from the algorotoscope target set.
+  tags: []
 - name: flower-blue-close.jpeg
   batch: 1
+  title: Flower Blue Close
+  description: Flower Blue Close — source image from the algorotoscope target set.
+  tags:
+  - flower
 - name: flower-red-close.jpeg
   batch: 1
+  title: Flower Red Close
+  description: Flower Red Close — source image from the algorotoscope target set.
+  tags:
+  - flower
 - name: flower-white-close.jpeg
   batch: 1
+  title: Flower White Close
+  description: Flower White Close — source image from the algorotoscope target set.
+  tags:
+  - flower
 - name: flower-white-purple-close.jpeg
   batch: 1
+  title: Flower White Purple Close
+  description: Flower White Purple Close — source image from the algorotoscope target set.
+  tags:
+  - flower
 - name: flowers-diamon-creek.jpg
   batch: 1
+  title: Flowers Diamon Creek
+  description: Flowers Diamon Creek — source image from the algorotoscope target set.
+  tags: []
 - name: for-rent-apartment.jpg
   batch: 1
+  title: For Rent Apartment
+  description: For Rent Apartment — source image from the algorotoscope target set.
+  tags: []
 - name: fort-ross-cannons.jpeg
   batch: 1
+  title: Fort Ross Cannons
+  description: Fort Ross Cannons — source image from the algorotoscope target set.
+  tags: []
 - name: fox-oakland-day.jpeg
   batch: 1
+  title: Fox Oakland Day
+  description: Fox Oakland Day — source image from the algorotoscope target set.
+  tags:
+  - oakland
 - name: fox-oakland-out-front.jpeg
   batch: 1
+  title: Fox Oakland Out Front
+  description: Fox Oakland Out Front — source image from the algorotoscope target set.
+  tags:
+  - oakland
 - name: fox-oakland-up.jpeg
   batch: 1
+  title: Fox Oakland Up
+  description: Fox Oakland Up — source image from the algorotoscope target set.
+  tags:
+  - oakland
 - name: freeway-carss-overpass.jpg
   batch: 1
+  title: Freeway Carss Overpass
+  description: Freeway Carss Overpass — source image from the algorotoscope target set.
+  tags:
+  - freeway
 - name: freeway-gree-building.jpeg
   batch: 1
+  title: Freeway Gree Building
+  description: Freeway Gree Building — source image from the algorotoscope target set.
+  tags:
+  - building
+  - freeway
 - name: freeway-homeless.jpeg
   batch: 1
+  title: Freeway Homeless
+  description: Freeway Homeless — source image from the algorotoscope target set.
+  tags:
+  - freeway
 - name: freeway-interchange-fence.jpeg
   batch: 1
+  title: Freeway Interchange Fence
+  description: Freeway Interchange Fence — source image from the algorotoscope target set.
+  tags:
+  - fence
+  - freeway
 - name: freeway-interchange-park.jpeg
   batch: 1
+  title: Freeway Interchange Park
+  description: Freeway Interchange Park — source image from the algorotoscope target set.
+  tags:
+  - freeway
+  - park
 - name: freeway-neighborhood.jpeg
   batch: 1
+  title: Freeway Neighborhood
+  description: Freeway Neighborhood — source image from the algorotoscope target set.
+  tags:
+  - freeway
 - name: freway-interchange-city.jpeg
   batch: 1
+  title: Freeway Interchange City
+  description: Freeway Interchange City — source image from the algorotoscope target set.
+  tags: []
 - name: frosty-downtown-lights.jpg
   batch: 1
+  title: Frosty Downtown Lights
+  description: Frosty Downtown Lights — source image from the algorotoscope target set.
+  tags:
+  - downtown
 - name: full-stack-woodpile.jpg
   batch: 1
+  title: Full Stack Woodpile
+  description: Full Stack Woodpile — source image from the algorotoscope target set.
+  tags: []
 - name: gargoyle-paris-2.jpg
   batch: 1
+  title: Gargoyle Paris (alt 2)
+  description: Gargoyle Paris (alt 2) — source image from the algorotoscope target set.
+  tags: []
 - name: gargoyle-paris-3.jpg
   batch: 1
+  title: Gargoyle Paris (alt 3)
+  description: Gargoyle Paris (alt 3) — source image from the algorotoscope target set.
+  tags: []
 - name: gargoyle-paris.jpg
   batch: 1
+  title: Gargoyle Paris
+  description: Gargoyle Paris — source image from the algorotoscope target set.
+  tags: []
 - name: gatew-into-field.jpg
   batch: 1
+  title: Gateway Into Field
+  description: Gateway Into Field — source image from the algorotoscope target set.
+  tags: []
 - name: gauge-holding.jpg
   batch: 1
+  title: Gauge Holding
+  description: Gauge Holding — source image from the algorotoscope target set.
+  tags: []
 - name: gauge-on-aircraft-carrier.jpg
   batch: 1
+  title: Gauge On Aircraft Carrier
+  description: Gauge On Aircraft Carrier — source image from the algorotoscope target set.
+  tags: []
 - name: gear-rocks.jpg
   batch: 1
+  title: Gear Rocks
+  description: Gear Rocks — source image from the algorotoscope target set.
+  tags: []
 - name: gear-wood.jpg
   batch: 1
+  title: Gear Wood
+  description: Gear Wood — source image from the algorotoscope target set.
+  tags: []
 - name: gears-pipes-plumbing.jpg
   batch: 1
+  title: Gears Pipes Plumbing
+  description: Gears Pipes Plumbing — source image from the algorotoscope target set.
+  tags: []
 - name: geese-on-grass.jpg
   batch: 1
+  title: Geese On Grass
+  description: Geese On Grass — source image from the algorotoscope target set.
+  tags: []
 - name: girl-reading-bench-garden.jpg
   batch: 1
+  title: Girl Reading Bench Garden
+  description: Girl Reading Bench Garden — source image from the algorotoscope target set.
+  tags:
+  - garden
 - name: girl-reading-garden-flowers.jpg
   batch: 1
+  title: Girl Reading Garden Flowers
+  description: Girl Reading Garden Flowers — source image from the algorotoscope target set.
+  tags:
+  - garden
 - name: glass-ball-downtown.jpg
   batch: 1
+  title: Glass Ball Downtown
+  description: Glass Ball Downtown — source image from the algorotoscope target set.
+  tags:
+  - downtown
 - name: going-to-dowtown-los-angeles.jpg
   batch: 1
+  title: Going To Downtown Los Angeles
+  description: Going To Downtown Los Angeles — source image from the algorotoscope target set.
+  tags: []
 - name: golden-gate-bridge-other-side.jpeg
   batch: 1
+  title: Golden Gate Bridge Other Side
+  description: Golden Gate Bridge Other Side — source image from the algorotoscope target set.
+  tags:
+  - bridge
+  - gate
 - name: golden-gate-night.jpeg
   batch: 1
+  title: Golden Gate Night
+  description: Golden Gate Night — source image from the algorotoscope target set.
+  tags:
+  - gate
+  - night
 - name: google-front-of-business.jpg
   batch: 1
+  title: Google Front Of Business
+  description: Google Front Of Business — source image from the algorotoscope target set.
+  tags: []
 - name: graffitti-red-hat-man.jpg
   batch: 1
+  title: Graffitti Red Hat Man
+  description: Graffitti Red Hat Man — source image from the algorotoscope target set.
+  tags: []
 - name: grafitti-crown-guy.jpg
   batch: 1
+  title: Graffiti Crown Guy
+  description: Graffiti Crown Guy — source image from the algorotoscope target set.
+  tags:
+  - crown
 - name: grafitti-woman-bangs.jpg
   batch: 1
+  title: Graffiti Woman Bangs
+  description: Graffiti Woman Bangs — source image from the algorotoscope target set.
+  tags: []
 - name: grain-ship-docking-grass.jpg
   batch: 1
+  title: Grain Ship Docking Grass
+  description: Grain Ship Docking Grass — source image from the algorotoscope target set.
+  tags: []
 - name: grain-ship-docs.jpg
   batch: 1
+  title: Grain Ship Docs
+  description: Grain Ship Docs — source image from the algorotoscope target set.
+  tags: []
 - name: green-typewriter.jpg
   batch: 1
+  title: Green Typewriter
+  description: Green Typewriter — source image from the algorotoscope target set.
+  tags: []
 - name: gypsy-house-pen.jpg
   batch: 1
+  title: Gypsy House Pen
+  description: Gypsy House Pen — source image from the algorotoscope target set.
+  tags:
+  - house
 - name: gypsy-house-with-pen.jpg
   batch: 1
+  title: Gypsy House With Pen
+  description: Gypsy House With Pen — source image from the algorotoscope target set.
+  tags:
+  - house
 - name: hallelujah-junction.jpeg
   batch: 1
+  title: Hallelujah Junction
+  description: Hallelujah Junction — source image from the algorotoscope target set.
+  tags: []
 - name: hallway-long-hospital.jpg
   batch: 1
+  title: Hallway Long Hospital
+  description: Hallway Long Hospital — source image from the algorotoscope target set.
+  tags: []
 - name: hallway-mirrors-hotel.jpg
   batch: 1
+  title: Hallway Mirrors Hotel
+  description: Hallway Mirrors Hotel — source image from the algorotoscope target set.
+  tags: []
 - name: hawk-light.jpeg
   batch: 1
+  title: Hawk Light
+  description: Hawk Light — source image from the algorotoscope target set.
+  tags: []
 - name: heron-log.jpg
   batch: 1
+  title: Heron Log
+  description: Heron Log — source image from the algorotoscope target set.
+  tags: []
 - name: heron-logs.jpg
   batch: 1
+  title: Heron Logs
+  description: Heron Logs — source image from the algorotoscope target set.
+  tags: []
 - name: hiding-monster-statue.jpg
   batch: 1
+  title: Hiding Monster Statue
+  description: Hiding Monster Statue — source image from the algorotoscope target set.
+  tags:
+  - statue
 - name: high-speed-train-station-france.jpg
   batch: 1
+  title: High Speed Train Station France
+  description: High Speed Train Station France — source image from the algorotoscope target set.
+  tags:
+  - station
+  - train
 - name: high-speed-train-station.jpg
   batch: 1
+  title: High Speed Train Station
+  description: High Speed Train Station — source image from the algorotoscope target set.
+  tags:
+  - station
+  - train
 - name: highway-granary_36331800650_o.jpg
   batch: 1
+  title: Highway Granary O
+  description: Highway Granary O — source image from the algorotoscope target set.
+  tags:
+  - highway
 - name: highway-granary-truck_36557728122_o.jpg
   batch: 1
+  title: Highway Granary Truck O
+  description: Highway Granary Truck O — source image from the algorotoscope target set.
+  tags:
+  - highway
+  - truck
 - name: highway-line.jpeg
   batch: 1
+  title: Highway Line
+  description: Highway Line — source image from the algorotoscope target set.
+  tags:
+  - highway
 - name: hollywood-sign-hills.jpg
   batch: 1
+  title: Hollywood Sign Hills
+  description: Hollywood Sign Hills — source image from the algorotoscope target set.
+  tags:
+  - hollywood
 - name: hollywood-sign-with-tower.jpg
   batch: 1
+  title: Hollywood Sign With Tower
+  description: Hollywood Sign With Tower — source image from the algorotoscope target set.
+  tags:
+  - hollywood
 - name: homeless-tents.jpeg
   batch: 1
+  title: Homeless Tents
+  description: Homeless Tents — source image from the algorotoscope target set.
+  tags: []
 - name: horrified-statue.jpg
   batch: 1
+  title: Horrified Statue
+  description: Horrified Statue — source image from the algorotoscope target set.
+  tags:
+  - statue
 - name: horse-new-orleans.jpg
   batch: 1
+  title: Horse New Orleans
+  description: Horse New Orleans — source image from the algorotoscope target set.
+  tags:
+  - horse
 - name: hospital-old-hill-trees.jpeg
   batch: 1
+  title: Hospital Old Hill Trees
+  description: Hospital Old Hill Trees — source image from the algorotoscope target set.
+  tags:
+  - hill
+  - old
+  - trees
 - name: hospital-old.jpeg
   batch: 1
+  title: Hospital Old
+  description: Hospital Old — source image from the algorotoscope target set.
+  tags:
+  - old
 - name: hotel-down-sidewalk.jpg
   batch: 1
+  title: Hotel Down Sidewalk
+  description: Hotel Down Sidewalk — source image from the algorotoscope target set.
+  tags:
+  - sidewalk
 - name: house-abandoned-fence.jpeg
   batch: 1
+  title: House Abandoned Fence
+  description: House Abandoned Fence — source image from the algorotoscope target set.
+  tags:
+  - fence
+  - house
 - name: howling-monkey.jpg
   batch: 1
+  title: Howling Monkey
+  description: Howling Monkey — source image from the algorotoscope target set.
+  tags: []
 - name: imperial-inn.jpg
   batch: 1
+  title: Imperial Inn
+  description: Imperial Inn — source image from the algorotoscope target set.
+  tags: []
 - name: industrial-fans.jpeg
   batch: 1
+  title: Industrial Fans
+  description: Industrial Fans — source image from the algorotoscope target set.
+  tags:
+  - industrial
 - name: iron-horse-close.jpeg
   batch: 1
+  title: Iron Horse Close
+  description: Iron Horse Close — source image from the algorotoscope target set.
+  tags:
+  - horse
 - name: iron-horse-side.jpeg
   batch: 1
+  title: Iron Horse Side
+  description: Iron Horse Side — source image from the algorotoscope target set.
+  tags:
+  - horse
 - name: japanese-garden-tree.jpg
   batch: 1
+  title: Japanese Garden Tree
+  description: Japanese Garden Tree — source image from the algorotoscope target set.
+  tags:
+  - garden
+  - tree
 - name: jerry-art.jpeg
   batch: 1
+  title: Jerry Art
+  description: Jerry Art — source image from the algorotoscope target set.
+  tags: []
 - name: jesus-in-old-rock-church.jpg
   batch: 1
+  title: Jesus In Old Rock Church
+  description: Jesus In Old Rock Church — source image from the algorotoscope target set.
+  tags:
+  - church
+  - old
 - name: jesus-on-bench.jpg
   batch: 1
+  title: Jesus On Bench
+  description: Jesus On Bench — source image from the algorotoscope target set.
+  tags: []
 - name: jets-in-formation.jpg
   batch: 1
+  title: Jets In Formation
+  description: Jets In Formation — source image from the algorotoscope target set.
+  tags:
+  - jets
 - name: jets-over-city.jpg
   batch: 1
+  title: Jets Over City
+  description: Jets Over City — source image from the algorotoscope target set.
+  tags:
+  - jets
 - name: john-kehoes.jpg
   batch: 1
+  title: John Kehoes
+  description: John Kehoes — source image from the algorotoscope target set.
+  tags: []
 - name: kin-back-of-van.jpg
   batch: 1
+  title: Kin Back Of Van
+  description: Kin Back Of Van — source image from the algorotoscope target set.
+  tags: []
 - name: kin-chesapeake.jpg
   batch: 1
+  title: Kin Chesapeake
+  description: Kin Chesapeake — source image from the algorotoscope target set.
+  tags: []
 - name: kin-family.jpg
   batch: 1
+  title: Kin Family
+  description: Kin Family — source image from the algorotoscope target set.
+  tags: []
 - name: kin-no-pictures.jpg
   batch: 1
+  title: Kin No Pictures
+  description: Kin No Pictures — source image from the algorotoscope target set.
+  tags: []
 - name: kin-poppy-car.jpeg
   batch: 1
+  title: Kin Poppy Car
+  description: Kin Poppy Car — source image from the algorotoscope target set.
+  tags:
+  - car
 - name: kin-speaking-hat-mic.jpg
   batch: 1
+  title: Kin Speaking Hat Mic
+  description: Kin Speaking Hat Mic — source image from the algorotoscope target set.
+  tags: []
 - name: kin-working-1.jpeg
   batch: 1
+  title: Kin Working (alt 1)
+  description: Kin Working (alt 1) — source image from the algorotoscope target set.
+  tags: []
 - name: kin-working-2.jpeg
   batch: 1
+  title: Kin Working (alt 2)
+  description: Kin Working (alt 2) — source image from the algorotoscope target set.
+  tags: []
 - name: kin-working-3.jpeg
   batch: 1
+  title: Kin Working (alt 3)
+  description: Kin Working (alt 3) — source image from the algorotoscope target set.
+  tags: []
 - name: kin-working-4.jpeg
   batch: 1
+  title: Kin Working (alt 4)
+  description: Kin Working (alt 4) — source image from the algorotoscope target set.
+  tags: []
 - name: kin-working-5.jpeg
   batch: 1
+  title: Kin Working (alt 5)
+  description: Kin Working (alt 5) — source image from the algorotoscope target set.
+  tags: []
 - name: kin-working-6.jpeg
   batch: 1
+  title: Kin Working (alt 6)
+  description: Kin Working (alt 6) — source image from the algorotoscope target set.
+  tags: []
 - name: king-tut-museum.jpg
   batch: 1
+  title: King Tut Museum
+  description: King Tut Museum — source image from the algorotoscope target set.
+  tags:
+  - king
 - name: Kins-Album-Mom-1_0016.jpg
   batch: 1
+  title: Kins Album Mom 1 0016
+  description: Kins Album Mom 1 0016 — source image from the algorotoscope target set.
+  tags: []
 - name: Kins-Album-Mom-2_0010.jpg
   batch: 1
+  title: Kins Album Mom 2 0010
+  description: Kins Album Mom 2 0010 — source image from the algorotoscope target set.
+  tags: []
 - name: Kins-Album-Mom-2.jpg
   batch: 1
+  title: Kins Album Mom (alt 2)
+  description: Kins Album Mom (alt 2) — source image from the algorotoscope target set.
+  tags: []
 - name: knob-dial-old.jpg
   batch: 1
+  title: Knob Dial Old
+  description: Knob Dial Old — source image from the algorotoscope target set.
+  tags:
+  - old
 - name: lane-shif-ahead.jpg
   batch: 1
+  title: Lane Shif Ahead
+  description: Lane Shif Ahead — source image from the algorotoscope target set.
+  tags: []
 - name: light-rail-yellow-calif.jpg
   batch: 1
+  title: Light Rail Yellow Calif
+  description: Light Rail Yellow Calif — source image from the algorotoscope target set.
+  tags: []
 - name: lighthouse_36679514616_o.jpg
   batch: 1
+  title: Lighthouse O
+  description: Lighthouse O — source image from the algorotoscope target set.
+  tags: []
 - name: lincoln-memorial_36690528196_o.jpg
   batch: 1
+  title: Lincoln Memorial O
+  description: Lincoln Memorial O — source image from the algorotoscope target set.
+  tags:
+  - memorial
 - name: lincoln-sitting-front.jpg
   batch: 1
+  title: Lincoln Sitting Front
+  description: Lincoln Sitting Front — source image from the algorotoscope target set.
+  tags: []
 - name: london-underground-covent-garden.jpg
   batch: 1
+  title: London Underground Covent Garden
+  description: London Underground Covent Garden — source image from the algorotoscope target set.
+  tags:
+  - garden
 - name: looking-down-over-city.jpg
   batch: 1
+  title: Looking Down Over City
+  description: Looking Down Over City — source image from the algorotoscope target set.
+  tags: []
 - name: los-angeles-downtown-from-afar.jpg
   batch: 1
+  title: Los Angeles Downtown From Afar
+  description: Los Angeles Downtown From Afar — source image from the algorotoscope target set.
+  tags:
+  - downtown
 - name: marketplace-people.jpg
   batch: 1
+  title: Marketplace People
+  description: Marketplace People — source image from the algorotoscope target set.
+  tags: []
 - name: markets-amsterdam.jpeg
   batch: 1
+  title: Markets Amsterdam
+  description: Markets Amsterdam — source image from the algorotoscope target set.
+  tags: []
 - name: mayan-statue-red.jpg
   batch: 1
+  title: Mayan Statue Red
+  description: Mayan Statue Red — source image from the algorotoscope target set.
+  tags:
+  - statue
 - name: memorial-to-the-jews-in-berlin-2.jpg
   batch: 1
+  title: Memorial To The Jews In Berlin (alt 2)
+  description: Memorial To The Jews In Berlin (alt 2) — source image from the algorotoscope target set.
+  tags:
+  - memorial
 - name: mexico-only.jpg
   batch: 1
+  title: Mexico Only
+  description: Mexico Only — source image from the algorotoscope target set.
+  tags: []
 - name: miami-beach-tower-city.jpg
   batch: 1
+  title: Miami Beach Tower City
+  description: Miami Beach Tower City — source image from the algorotoscope target set.
+  tags:
+  - beach
 - name: miami-beach-walkway.jpg
   batch: 1
+  title: Miami Beach Walkway
+  description: Miami Beach Walkway — source image from the algorotoscope target set.
+  tags:
+  - beach
 - name: mining-mountains-2.jpeg
   batch: 1
+  title: Mining Mountains (alt 2)
+  description: Mining Mountains (alt 2) — source image from the algorotoscope target set.
+  tags: []
 - name: mining-mountains.jpeg
   batch: 1
+  title: Mining Mountains
+  description: Mining Mountains — source image from the algorotoscope target set.
+  tags: []
 - name: mo-business-center.jpeg
   batch: 1
+  title: Mo Business Center
+  description: Mo Business Center — source image from the algorotoscope target set.
+  tags: []
 - name: model-manneqin.jpg
   batch: 1
+  title: Model Manneqin
+  description: Model Manneqin — source image from the algorotoscope target set.
+  tags: []
 - name: mushroom-bark.jpeg
   batch: 1
+  title: Mushroom Bark
+  description: Mushroom Bark — source image from the algorotoscope target set.
+  tags: []
 - name: nationwide.jpeg
   batch: 1
+  title: Nationwide
+  description: Nationwide — source image from the algorotoscope target set.
+  tags: []
 - name: new-building-start.jpeg
   batch: 1
+  title: New Building Start
+  description: New Building Start — source image from the algorotoscope target set.
+  tags:
+  - building
 - name: new-york-city-skyline_36655833162_o.jpg
   batch: 1
+  title: New York City Skyline O
+  description: New York City Skyline O — source image from the algorotoscope target set.
+  tags:
+  - skyline
 - name: new-york-high-up.jpg
   batch: 1
+  title: New York High Up
+  description: New York High Up — source image from the algorotoscope target set.
+  tags: []
 - name: nyc-coming-in-on-train.jpg
   batch: 1
+  title: NYC Coming In On Train
+  description: NYC Coming In On Train — source image from the algorotoscope target set.
+  tags:
+  - nyc
+  - train
 - name: nyc-intersection.jpg
   batch: 1
+  title: NYC Intersection
+  description: NYC Intersection — source image from the algorotoscope target set.
+  tags:
+  - nyc
 - name: nyc-skyline-from-ferry.jpg
   batch: 1
+  title: NYC Skyline From Ferry
+  description: NYC Skyline From Ferry — source image from the algorotoscope target set.
+  tags:
+  - ferry
+  - nyc
+  - skyline
 - name: nyc-skyline-rain.jpg
   batch: 1
+  title: NYC Skyline Rain
+  description: NYC Skyline Rain — source image from the algorotoscope target set.
+  tags:
+  - nyc
+  - rain
+  - skyline
 - name: nyc-streets-laundromat.jpg
   batch: 1
+  title: NYC Streets Laundromat
+  description: NYC Streets Laundromat — source image from the algorotoscope target set.
+  tags:
+  - nyc
 - name: nyc-streets.jpg
   batch: 1
+  title: NYC Streets
+  description: NYC Streets — source image from the algorotoscope target set.
+  tags:
+  - nyc
 - name: nyc-subway-train-125th.jpg
   batch: 1
+  title: NYC Subway Train 125th Street
+  description: NYC Subway Train 125th Street — source image from the algorotoscope target set.
+  tags:
+  - nyc
+  - subway
+  - train
 - name: oakland-city-hall-tree.jpeg
   batch: 1
+  title: Oakland City Hall Tree
+  description: Oakland City Hall Tree — source image from the algorotoscope target set.
+  tags:
+  - oakland
+  - tree
 - name: oakland-clock.jpeg
   batch: 1
+  title: Oakland Clock
+  description: Oakland Clock — source image from the algorotoscope target set.
+  tags:
+  - oakland
 - name: oakland-downtown.jpeg
   batch: 1
+  title: Oakland Downtown
+  description: Oakland Downtown — source image from the algorotoscope target set.
+  tags:
+  - downtown
+  - oakland
 - name: oakland-lake-merritt.jpeg
   batch: 1
+  title: Oakland Lake Merritt
+  description: Oakland Lake Merritt — source image from the algorotoscope target set.
+  tags:
+  - lake
+  - oakland
 - name: oakland-oak-tree.jpeg
   batch: 1
+  title: Oakland Oak Tree
+  description: Oakland Oak Tree — source image from the algorotoscope target set.
+  tags:
+  - oakland
+  - tree
 - name: oakland-thin-building.jpeg
   batch: 1
+  title: Oakland Thin Building
+  description: Oakland Thin Building — source image from the algorotoscope target set.
+  tags:
+  - building
+  - oakland
 - name: old-barn-falling-over.jpg
   batch: 1
+  title: Old Barn Falling Over
+  description: Old Barn Falling Over — source image from the algorotoscope target set.
+  tags:
+  - old
 - name: old-barn-in-hills.jpg
   batch: 1
+  title: Old Barn In Hills
+  description: Old Barn In Hills — source image from the algorotoscope target set.
+  tags:
+  - old
 - name: old-ben-clouds.jpg
   batch: 1
+  title: Old Ben Clouds
+  description: Old Ben Clouds — source image from the algorotoscope target set.
+  tags:
+  - old
 - name: old-black-car.jpg
   batch: 1
+  title: Old Black Car
+  description: Old Black Car — source image from the algorotoscope target set.
+  tags:
+  - car
+  - old
 - name: old-books-rack.jpg
   batch: 1
+  title: Old Books Rack
+  description: Old Books Rack — source image from the algorotoscope target set.
+  tags:
+  - old
 - name: old-broken-piano-street.jpg
   batch: 1
+  title: Old Broken Piano Street
+  description: Old Broken Piano Street — source image from the algorotoscope target set.
+  tags:
+  - old
+  - piano
+  - street
 - name: old-building-and-cars_36680898846_o.jpg
   batch: 1
+  title: Old Building And Cars O
+  description: Old Building And Cars O — source image from the algorotoscope target set.
+  tags:
+  - building
+  - cars
+  - old
 - name: old-building-barcelona-waterfront.jpg
   batch: 1
+  title: Old Building Barcelona Waterfront
+  description: Old Building Barcelona Waterfront — source image from the algorotoscope target set.
+  tags:
+  - building
+  - old
+  - waterfront
 - name: old-building-fence.jpg
   batch: 1
+  title: Old Building Fence
+  description: Old Building Fence — source image from the algorotoscope target set.
+  tags:
+  - building
+  - fence
+  - old
 - name: old-building-paris.jpg
   batch: 1
+  title: Old Building Paris
+  description: Old Building Paris — source image from the algorotoscope target set.
+  tags:
+  - building
+  - old
 - name: old-building-phoenix.jpg
   batch: 1
+  title: Old Building Phoenix
+  description: Old Building Phoenix — source image from the algorotoscope target set.
+  tags:
+  - building
+  - old
 - name: old-building-seattle-clouds.jpg
   batch: 1
+  title: Old Building Seattle Clouds
+  description: Old Building Seattle Clouds — source image from the algorotoscope target set.
+  tags:
+  - building
+  - old
 - name: old-car-model-t.jpg
   batch: 1
+  title: Old Car Model T
+  description: Old Car Model T — source image from the algorotoscope target set.
+  tags:
+  - car
+  - old
 - name: old-chair-hopsital.jpg
   batch: 1
+  title: Old Chair Hopsital
+  description: Old Chair Hopsital — source image from the algorotoscope target set.
+  tags:
+  - old
 - name: old-cherry-close.jpeg
   batch: 1
+  title: Old Cherry Close
+  description: Old Cherry Close — source image from the algorotoscope target set.
+  tags:
+  - old
 - name: old-cherry-tree.jpeg
   batch: 1
+  title: Old Cherry Tree
+  description: Old Cherry Tree — source image from the algorotoscope target set.
+  tags:
+  - old
+  - tree
 - name: old-church_36588495271_o.jpg
   batch: 1
+  title: Old Church O
+  description: Old Church O — source image from the algorotoscope target set.
+  tags:
+  - church
+  - old
 - name: old-church-in-field.jpg
   batch: 1
+  title: Old Church In Field
+  description: Old Church In Field — source image from the algorotoscope target set.
+  tags:
+  - church
+  - old
 - name: old-church-in-sierras.jpeg
   batch: 1
+  title: Old Church In Sierras
+  description: Old Church In Sierras — source image from the algorotoscope target set.
+  tags:
+  - church
+  - old
+  - sierras
 - name: old-computer-bletchley-crypto.jpg
   batch: 1
+  title: Old Computer Bletchley Crypto
+  description: Old Computer Bletchley Crypto — source image from the algorotoscope target set.
+  tags:
+  - old
 - name: old-computer-box.jpg
   batch: 1
+  title: Old Computer Box
+  description: Old Computer Box — source image from the algorotoscope target set.
+  tags:
+  - old
 - name: old-comuter-wheels-crypto.jpg
   batch: 1
+  title: Old Comuter Wheels Crypto
+  description: Old Comuter Wheels Crypto — source image from the algorotoscope target set.
+  tags:
+  - old
 - name: old-crypto-wheels.jpg
   batch: 1
+  title: Old Crypto Wheels
+  description: Old Crypto Wheels — source image from the algorotoscope target set.
+  tags:
+  - old
 - name: old-dark-bridge.jpg
   batch: 1
+  title: Old Dark Bridge
+  description: Old Dark Bridge — source image from the algorotoscope target set.
+  tags:
+  - bridge
+  - old
 - name: old-foggy-tree-rocks.jpeg
   batch: 1
+  title: Old Foggy Tree Rocks
+  description: Old Foggy Tree Rocks — source image from the algorotoscope target set.
+  tags:
+  - foggy
+  - old
+  - tree
 - name: old-foggy-trees.jpeg
   batch: 1
+  title: Old Foggy Trees
+  description: Old Foggy Trees — source image from the algorotoscope target set.
+  tags:
+  - foggy
+  - old
+  - trees
 - name: old-gas-station_35891228584_o.jpg
   batch: 1
+  title: Old Gas Station O
+  description: Old Gas Station O — source image from the algorotoscope target set.
+  tags:
+  - gas
+  - old
+  - station
 - name: old-gas-station_36588462091_o.jpg
   batch: 1
+  title: Old Gas Station O
+  description: Old Gas Station O — source image from the algorotoscope target set.
+  tags:
+  - gas
+  - old
+  - station
 - name: old-gas-station_36680991076_o.jpg
   batch: 1
+  title: Old Gas Station O
+  description: Old Gas Station O — source image from the algorotoscope target set.
+  tags:
+  - gas
+  - old
+  - station
 - name: old-house_36681740046_o.jpg
   batch: 1
+  title: Old House O
+  description: Old House O — source image from the algorotoscope target set.
+  tags:
+  - house
+  - old
 - name: old-ibm-computer.jpg
   batch: 1
+  title: Old Ibm Computer
+  description: Old Ibm Computer — source image from the algorotoscope target set.
+  tags:
+  - old
 - name: old-jeep-green.jpg
   batch: 1
+  title: Old Jeep Green
+  description: Old Jeep Green — source image from the algorotoscope target set.
+  tags:
+  - old
 - name: old-mail-slot.jpeg
   batch: 1
+  title: Old Mail Slot
+  description: Old Mail Slot — source image from the algorotoscope target set.
+  tags:
+  - old
 - name: old-man-crossing-border.jpg
   batch: 1
+  title: Old Man Crossing Border
+  description: Old Man Crossing Border — source image from the algorotoscope target set.
+  tags:
+  - border
+  - old
 - name: old-pay-phone.jpg
   batch: 1
+  title: Old Pay Phone
+  description: Old Pay Phone — source image from the algorotoscope target set.
+  tags:
+  - old
 - name: old-phat-face.jpg
   batch: 1
+  title: Old Phat Face
+  description: Old Phat Face — source image from the algorotoscope target set.
+  tags:
+  - old
 - name: old-piano-paris-hospital.jpg
   batch: 1
+  title: Old Piano Paris Hospital
+  description: Old Piano Paris Hospital — source image from the algorotoscope target set.
+  tags:
+  - old
+  - piano
 - name: old-piano-playing-hospital.jpg
   batch: 1
+  title: Old Piano Playing Hospital
+  description: Old Piano Playing Hospital — source image from the algorotoscope target set.
+  tags:
+  - old
+  - piano
 - name: old-remington-typewriter.jpg
   batch: 1
+  title: Old Remington Typewriter
+  description: Old Remington Typewriter — source image from the algorotoscope target set.
+  tags:
+  - old
 - name: old-ship-waterfront-harbor.jpg
   batch: 1
+  title: Old Ship Waterfront Harbor
+  description: Old Ship Waterfront Harbor — source image from the algorotoscope target set.
+  tags:
+  - harbor
+  - old
+  - waterfront
 - name: old-tank-british.jpg
   batch: 1
+  title: Old Tank British
+  description: Old Tank British — source image from the algorotoscope target set.
+  tags:
+  - old
 - name: old-time-cash-register.jpg
   batch: 1
+  title: Old Time Cash Register
+  description: Old Time Cash Register — source image from the algorotoscope target set.
+  tags:
+  - old
 - name: old-town-bristol.jpg
   batch: 1
+  title: Old Town Bristol
+  description: Old Town Bristol — source image from the algorotoscope target set.
+  tags:
+  - old
 - name: old-train-on-tracks.jpg
   batch: 1
+  title: Old Train On Tracks
+  description: Old Train On Tracks — source image from the algorotoscope target set.
+  tags:
+  - old
+  - train
 - name: old-trolley-car-sf.jpg
   batch: 1
+  title: Old Trolley Car SF
+  description: Old Trolley Car SF — source image from the algorotoscope target set.
+  tags:
+  - car
+  - old
+  - sf
 - name: orchard-almonds-2.jpeg
   batch: 1
+  title: Orchard Almonds (alt 2)
+  description: Orchard Almonds (alt 2) — source image from the algorotoscope target set.
+  tags:
+  - orchard
 - name: orchard-almonds.jpeg
   batch: 1
+  title: Orchard Almonds
+  description: Orchard Almonds — source image from the algorotoscope target set.
+  tags:
+  - orchard
 - name: over-the-town.jpg
   batch: 1
+  title: Over The Town
+  description: Over The Town — source image from the algorotoscope target set.
+  tags: []
 - name: oxford-old-building.jpg
   batch: 1
+  title: Oxford Old Building
+  description: Oxford Old Building — source image from the algorotoscope target set.
+  tags:
+  - building
+  - old
 - name: oxoford-circus-station.jpg
   batch: 1
+  title: Oxoford Circus Station
+  description: Oxoford Circus Station — source image from the algorotoscope target set.
+  tags:
+  - station
 - name: p9180054.jpg
   batch: 1
+  title: P9180054
+  description: P9180054 — source image from the algorotoscope target set.
+  tags: []
 - name: palace-water-fountain.jpg
   batch: 1
+  title: Palace Water Fountain
+  description: Palace Water Fountain — source image from the algorotoscope target set.
+  tags: []
 - name: paris-bookstand.jpg
   batch: 1
+  title: Paris Bookstand
+  description: Paris Bookstand — source image from the algorotoscope target set.
+  tags: []
 - name: parking-ay.jpeg
   batch: 1
+  title: Parking Ay
+  description: Parking Ay — source image from the algorotoscope target set.
+  tags: []
 - name: parking-meter-close.jpeg
   batch: 1
+  title: Parking Meter Close
+  description: Parking Meter Close — source image from the algorotoscope target set.
+  tags: []
 - name: parking-open-closed.jpeg
   batch: 1
+  title: Parking Open Closed
+  description: Parking Open Closed — source image from the algorotoscope target set.
+  tags: []
 - name: path-in-woods-green-lush.jpg
   batch: 1
+  title: Path In Woods Green Lush
+  description: Path In Woods Green Lush — source image from the algorotoscope target set.
+  tags:
+  - path
 - name: pelican-flying-low.jpg
   batch: 1
+  title: Pelican Flying Low
+  description: Pelican Flying Low — source image from the algorotoscope target set.
+  tags: []
 - name: people-eating-canal.jpg
   batch: 1
+  title: People Eating Canal
+  description: People Eating Canal — source image from the algorotoscope target set.
+  tags: []
 - name: people-walking-down-street.jpg
   batch: 1
+  title: People Walking Down Street
+  description: People Walking Down Street — source image from the algorotoscope target set.
+  tags:
+  - street
 - name: piano-in-street-good.jpg
   batch: 1
+  title: Piano In Street Good
+  description: Piano In Street Good — source image from the algorotoscope target set.
+  tags:
+  - piano
+  - street
 - name: pier-fishing-boat.jpeg
   batch: 1
+  title: Pier Fishing Boat
+  description: Pier Fishing Boat — source image from the algorotoscope target set.
+  tags:
+  - boat
+  - pier
 - name: pier-long-foggy.jpeg
   batch: 1
+  title: Pier Long Foggy
+  description: Pier Long Foggy — source image from the algorotoscope target set.
+  tags:
+  - foggy
+  - pier
 - name: pier-under.jpeg
   batch: 1
+  title: Pier Under
+  description: Pier Under — source image from the algorotoscope target set.
+  tags:
+  - pier
 - name: pier-waves.jpeg
   batch: 1
+  title: Pier Waves
+  description: Pier Waves — source image from the algorotoscope target set.
+  tags:
+  - pier
 - name: pigeon_35927783393_o.jpg
   batch: 1
+  title: Pigeon O
+  description: Pigeon O — source image from the algorotoscope target set.
+  tags:
+  - pigeon
 - name: pigeons-do-not-feed-them.jpg
   batch: 1
+  title: Pigeons Do Not Feed Them
+  description: Pigeons Do Not Feed Them — source image from the algorotoscope target set.
+  tags:
+  - pigeons
 - name: pigeons-on-ledge.jpg
   batch: 1
+  title: Pigeons On Ledge
+  description: Pigeons On Ledge — source image from the algorotoscope target set.
+  tags:
+  - pigeons
 - name: pink-elephant-car-wash.jpg
   batch: 1
+  title: Pink Elephant Car Wash
+  description: Pink Elephant Car Wash — source image from the algorotoscope target set.
+  tags:
+  - car
 - name: plane-wing.jpeg
   batch: 1
+  title: Plane Wing
+  description: Plane Wing — source image from the algorotoscope target set.
+  tags:
+  - plane
 - name: playing-guitar.jpg
   batch: 1
+  title: Playing Guitar
+  description: Playing Guitar — source image from the algorotoscope target set.
+  tags: []
 - name: please-do-not-feed-the-pigeon.jpg
   batch: 1
+  title: Please Do Not Feed The Pigeon
+  description: Please Do Not Feed The Pigeon — source image from the algorotoscope target set.
+  tags:
+  - pigeon
 - name: plumbing-water-agriculture.jpeg
   batch: 1
+  title: Plumbing Water Agriculture
+  description: Plumbing Water Agriculture — source image from the algorotoscope target set.
+  tags: []
 - name: pong.jpg
   batch: 1
+  title: Pong
+  description: Pong — source image from the algorotoscope target set.
+  tags: []
 - name: poppy-close-up.jpeg
   batch: 1
+  title: Poppy Close Up
+  description: Poppy Close Up — source image from the algorotoscope target set.
+  tags: []
 - name: poppy-flower-sidewalk.jpeg
   batch: 1
+  title: Poppy Flower Sidewalk
+  description: Poppy Flower Sidewalk — source image from the algorotoscope target set.
+  tags:
+  - flower
+  - sidewalk
 - name: poppy-running.jpeg
   batch: 1
+  title: Poppy Running
+  description: Poppy Running — source image from the algorotoscope target set.
+  tags: []
 - name: public-market-farmers-market.jpg
   batch: 1
+  title: Public Market Farmers Market
+  description: Public Market Farmers Market — source image from the algorotoscope target set.
+  tags: []
 - name: public-market-fish.jpg
   batch: 1
+  title: Public Market Fish
+  description: Public Market Fish — source image from the algorotoscope target set.
+  tags: []
 - name: radio-antanae.jpeg
   batch: 1
+  title: Radio Antenna
+  description: Radio Antenna — source image from the algorotoscope target set.
+  tags: []
 - name: radio-antannae-building.jpeg
   batch: 1
+  title: Radio Antannae Building
+  description: Radio Antannae Building — source image from the algorotoscope target set.
+  tags:
+  - building
 - name: rail-crossing.jpg
   batch: 1
+  title: Rail Crossing
+  description: Rail Crossing — source image from the algorotoscope target set.
+  tags: []
 - name: railroad-tracks-rocks.jpeg
   batch: 1
+  title: Railroad Tracks Rocks
+  description: Railroad Tracks Rocks — source image from the algorotoscope target set.
+  tags: []
 - name: raven-on-fence.jpg
   batch: 1
+  title: Raven On Fence
+  description: Raven On Fence — source image from the algorotoscope target set.
+  tags:
+  - fence
 - name: razor-wire-buildings.jpg
   batch: 1
+  title: Razor Wire Buildings
+  description: Razor Wire Buildings — source image from the algorotoscope target set.
+  tags:
+  - razor
+  - wire
 - name: razor-wire-weeds-2.jpg
   batch: 1
+  title: Razor Wire Weeds (alt 2)
+  description: Razor Wire Weeds (alt 2) — source image from the algorotoscope target set.
+  tags:
+  - razor
+  - wire
 - name: razor-wire-weeds.jpg
   batch: 1
+  title: Razor Wire Weeds
+  description: Razor Wire Weeds — source image from the algorotoscope target set.
+  tags:
+  - razor
+  - wire
 - name: red-chairs-hallway.jpg
   batch: 1
+  title: Red Chairs Hallway
+  description: Red Chairs Hallway — source image from the algorotoscope target set.
+  tags: []
 - name: red-roses-garden.jpg
   batch: 1
+  title: Red Roses Garden
+  description: Red Roses Garden — source image from the algorotoscope target set.
+  tags:
+  - garden
 - name: red-typwriter.jpg
   batch: 1
+  title: Red Typwriter
+  description: Red Typwriter — source image from the algorotoscope target set.
+  tags: []
 - name: robot-sign-helper.jpg
   batch: 1
+  title: Robot Sign Helper
+  description: Robot Sign Helper — source image from the algorotoscope target set.
+  tags: []
 - name: rocking-chair-on-porch_36332220150_o.jpg
   batch: 1
+  title: Rocking Chair On Porch O
+  description: Rocking Chair On Porch O — source image from the algorotoscope target set.
+  tags: []
 - name: roman-marcus-looking-down.jpg
   batch: 1
+  title: Roman Marcus Looking Down
+  description: Roman Marcus Looking Down — source image from the algorotoscope target set.
+  tags: []
 - name: row-houses-england.jpg
   batch: 1
+  title: Row Houses England
+  description: Row Houses England — source image from the algorotoscope target set.
+  tags: []
 - name: sailboat-in-front-of-housing.jpg
   batch: 1
+  title: Sailboat In Front Of Housing
+  description: Sailboat In Front Of Housing — source image from the algorotoscope target set.
+  tags: []
 - name: sailboat-in-harbor.jpg
   batch: 1
+  title: Sailboat In Harbor
+  description: Sailboat In Harbor — source image from the algorotoscope target set.
+  tags:
+  - harbor
 - name: san-diego-city.jpeg
   batch: 1
+  title: San Diego City
+  description: San Diego City — source image from the algorotoscope target set.
+  tags: []
 - name: san-francisco-across-runway.jpeg
   batch: 1
+  title: San Francisco Across Runway
+  description: San Francisco Across Runway — source image from the algorotoscope target set.
+  tags: []
 - name: san-francisco-fence.jpeg
   batch: 1
+  title: San Francisco Fence
+  description: San Francisco Fence — source image from the algorotoscope target set.
+  tags:
+  - fence
 - name: san-francisco-from-salesforce-west.jpg
   batch: 1
+  title: San Francisco From Salesforce West
+  description: San Francisco From Salesforce West — source image from the algorotoscope target set.
+  tags: []
 - name: san-francisco-lights-skyline.jpg
   batch: 1
+  title: San Francisco Lights Skyline
+  description: San Francisco Lights Skyline — source image from the algorotoscope target set.
+  tags:
+  - skyline
 - name: san-francisco-salesforce-bay-bridge.jpg
   batch: 1
+  title: San Francisco Salesforce Bay Bridge
+  description: San Francisco Salesforce Bay Bridge — source image from the algorotoscope target set.
+  tags:
+  - bridge
 - name: san-francisco-skyline-smoke.jpg
   batch: 1
+  title: San Francisco Skyline Smoke
+  description: San Francisco Skyline Smoke — source image from the algorotoscope target set.
+  tags:
+  - skyline
 - name: san-francisco-skyline.jpg
   batch: 1
+  title: San Francisco Skyline
+  description: San Francisco Skyline — source image from the algorotoscope target set.
+  tags:
+  - skyline
 - name: san-francisco-wharf-clock.jpg
   batch: 1
+  title: San Francisco Wharf Clock
+  description: San Francisco Wharf Clock — source image from the algorotoscope target set.
+  tags: []
 - name: san-pedro-light-cities.jpg
   batch: 1
+  title: San Pedro Light Cities
+  description: San Pedro Light Cities — source image from the algorotoscope target set.
+  tags: []
 - name: satellite-dish-pointing-upwards.jpg
   batch: 1
+  title: Satellite Dish Pointing Upwards
+  description: Satellite Dish Pointing Upwards — source image from the algorotoscope target set.
+  tags: []
 - name: satellite-dishes-pointing-up.jpg
   batch: 1
+  title: Satellite Dishes Pointing Up
+  description: Satellite Dishes Pointing Up — source image from the algorotoscope target set.
+  tags: []
 - name: satellite-with-sunset.jpg
   batch: 1
+  title: Satellite With Sunset
+  description: Satellite With Sunset — source image from the algorotoscope target set.
+  tags:
+  - sunset
 - name: screaming-face-statue.jpg
   batch: 1
+  title: Screaming Face Statue
+  description: Screaming Face Statue — source image from the algorotoscope target set.
+  tags:
+  - statue
 - name: seatlle-shipping-mountain.jpg
   batch: 1
+  title: Seatlle Shipping Mountain
+  description: Seatlle Shipping Mountain — source image from the algorotoscope target set.
+  tags:
+  - mountain
 - name: seattle-looking-north.jpg
   batch: 1
+  title: Seattle Looking North
+  description: Seattle Looking North — source image from the algorotoscope target set.
+  tags: []
 - name: seattle-public-market_36725946605_o.jpg
   batch: 1
+  title: Seattle Public Market O
+  description: Seattle Public Market O — source image from the algorotoscope target set.
+  tags: []
 - name: seattle-shipping-people-walking.jpg
   batch: 1
+  title: Seattle Shipping People Walking
+  description: Seattle Shipping People Walking — source image from the algorotoscope target set.
+  tags: []
 - name: seattle-waterfront-ferris-wheel.jpg
   batch: 1
+  title: Seattle Waterfront Ferris Wheel
+  description: Seattle Waterfront Ferris Wheel — source image from the algorotoscope target set.
+  tags:
+  - waterfront
 - name: senior-citizen-facility.jpeg
   batch: 1
+  title: Senior Citizen Facility
+  description: Senior Citizen Facility — source image from the algorotoscope target set.
+  tags: []
 - name: server-rack-1.jpg
   batch: 1
+  title: Server Rack (alt 1)
+  description: Server Rack (alt 1) — source image from the algorotoscope target set.
+  tags: []
 - name: server-rack-2.jpg
   batch: 1
+  title: Server Rack (alt 2)
+  description: Server Rack (alt 2) — source image from the algorotoscope target set.
+  tags: []
 - name: sheep-grazing-grass-green.jpg
   batch: 1
+  title: Sheep Grazing Grass Green
+  description: Sheep Grazing Grass Green — source image from the algorotoscope target set.
+  tags:
+  - sheep
 - name: ship-bird-foreground.jpg
   batch: 1
+  title: Ship Bird Foreground
+  description: Ship Bird Foreground — source image from the algorotoscope target set.
+  tags: []
 - name: ship-grain-docking.jpg
   batch: 1
+  title: Ship Grain Docking
+  description: Ship Grain Docking — source image from the algorotoscope target set.
+  tags: []
 - name: shipping-container-ship-sunny-day.jpg
   batch: 1
+  title: Shipping Container Ship Sunny Day
+  description: Shipping Container Ship Sunny Day — source image from the algorotoscope target set.
+  tags: []
 - name: shipping-container-yard-police-boat.jpg
   batch: 1
+  title: Shipping Container Yard Police Boat
+  description: Shipping Container Yard Police Boat — source image from the algorotoscope target set.
+  tags:
+  - boat
 - name: shipping-containers-cranes.jpeg
   batch: 1
+  title: Shipping Containers Cranes
+  description: Shipping Containers Cranes — source image from the algorotoscope target set.
+  tags: []
 - name: shipping-docks_36331347010_o.jpg
   batch: 1
+  title: Shipping Docks O
+  description: Shipping Docks O — source image from the algorotoscope target set.
+  tags:
+  - docks
 - name: shipping-docs-cranes.jpg
   batch: 1
+  title: Shipping Docs Cranes
+  description: Shipping Docs Cranes — source image from the algorotoscope target set.
+  tags: []
 - name: sierra-town-corner.jpeg
   batch: 1
+  title: Sierra Town Corner
+  description: Sierra Town Corner — source image from the algorotoscope target set.
+  tags: []
 - name: sierraville-post-office.jpeg
   batch: 1
+  title: Sierraville Post Office
+  description: Sierraville Post Office — source image from the algorotoscope target set.
+  tags: []
 - name: single-headstone.jpg
   batch: 1
+  title: Single Headstone
+  description: Single Headstone — source image from the algorotoscope target set.
+  tags: []
 - name: skulls-catacomb-up-close.jpg
   batch: 1
+  title: Skulls Catacomb Up Close
+  description: Skulls Catacomb Up Close — source image from the algorotoscope target set.
+  tags: []
 - name: skulls-catacombs.jpg
   batch: 1
+  title: Skulls Catacombs
+  description: Skulls Catacombs — source image from the algorotoscope target set.
+  tags: []
 - name: skyline-standing.jpg
   batch: 1
+  title: Skyline Standing
+  description: Skyline Standing — source image from the algorotoscope target set.
+  tags:
+  - skyline
 - name: skyline-thinking.jpg
   batch: 1
+  title: Skyline Thinking
+  description: Skyline Thinking — source image from the algorotoscope target set.
+  tags:
+  - skyline
 - name: skyscraper-dark.jpg
   batch: 1
+  title: Skyscraper Dark
+  description: Skyscraper Dark — source image from the algorotoscope target set.
+  tags: []
 - name: small-lighthouse_36556509232_o.jpg
   batch: 1
+  title: Small Lighthouse O
+  description: Small Lighthouse O — source image from the algorotoscope target set.
+  tags: []
 - name: small-town-street-2.jpg
   batch: 1
+  title: Small Town Street (alt 2)
+  description: Small Town Street (alt 2) — source image from the algorotoscope target set.
+  tags:
+  - street
 - name: small-town-street.jpg
   batch: 1
+  title: Small Town Street
+  description: Small Town Street — source image from the algorotoscope target set.
+  tags:
+  - street
 - name: smiling-face-wall.jpeg
   batch: 1
+  title: Smiling Face Wall
+  description: Smiling Face Wall — source image from the algorotoscope target set.
+  tags:
+  - wall
 - name: snow-machine-1.jpeg
   batch: 1
+  title: Snow Machine (alt 1)
+  description: Snow Machine (alt 1) — source image from the algorotoscope target set.
+  tags:
+  - snow
 - name: social-distancing-is-mandatory.jpeg
   batch: 1
+  title: Social Distancing Is Mandatory
+  description: Social Distancing Is Mandatory — source image from the algorotoscope target set.
+  tags: []
 - name: soliders-fighting-statue.jpg
   batch: 1
+  title: Soliders Fighting Statue
+  description: Soliders Fighting Statue — source image from the algorotoscope target set.
+  tags:
+  - statue
 - name: stainless-tree-clouds.jpg
   batch: 1
+  title: Stainless Tree Clouds
+  description: Stainless Tree Clouds — source image from the algorotoscope target set.
+  tags:
+  - tree
 - name: stainless-tree-sun-ray.jpg
   batch: 1
+  title: Stainless Tree Sun Ray
+  description: Stainless Tree Sun Ray — source image from the algorotoscope target set.
+  tags:
+  - sun
+  - tree
 - name: stairs-down-blue-green.jpg
   batch: 1
+  title: Stairs Down Blue Green
+  description: Stairs Down Blue Green — source image from the algorotoscope target set.
+  tags: []
 - name: stairs-up-subway.jpg
   batch: 1
+  title: Stairs Up Subway
+  description: Stairs Up Subway — source image from the algorotoscope target set.
+  tags:
+  - subway
 - name: statue-architecture-holding.jpg
   batch: 1
+  title: Statue Architecture Holding
+  description: Statue Architecture Holding — source image from the algorotoscope target set.
+  tags:
+  - statue
 - name: statue-capital-cannon.jpg
   batch: 1
+  title: Statue Capital Cannon
+  description: Statue Capital Cannon — source image from the algorotoscope target set.
+  tags:
+  - capital
+  - statue
 - name: statue-face-looking-up.jpg
   batch: 1
+  title: Statue Face Looking Up
+  description: Statue Face Looking Up — source image from the algorotoscope target set.
+  tags:
+  - statue
 - name: statue-face-spikes.jpg
   batch: 1
+  title: Statue Face Spikes
+  description: Statue Face Spikes — source image from the algorotoscope target set.
+  tags:
+  - statue
 - name: statue-facing-scrunched.jpg
   batch: 1
+  title: Statue Facing Scrunched
+  description: Statue Facing Scrunched — source image from the algorotoscope target set.
+  tags:
+  - statue
 - name: statue-green-eyes.jpg
   batch: 1
+  title: Statue Green Eyes
+  description: Statue Green Eyes — source image from the algorotoscope target set.
+  tags:
+  - statue
 - name: statue-liberty-clouds-front-far.jpg
   batch: 1
+  title: Statue Liberty Clouds Front Far
+  description: Statue Liberty Clouds Front Far — source image from the algorotoscope target set.
+  tags:
+  - liberty
+  - statue
 - name: statue-of-liberty_35910144944_o.jpg
   batch: 1
+  title: Statue Of Liberty O
+  description: Statue Of Liberty O — source image from the algorotoscope target set.
+  tags:
+  - liberty
+  - statue
 - name: statue-of-liberty_36744433525_o.jpg
   batch: 1
+  title: Statue Of Liberty O
+  description: Statue Of Liberty O — source image from the algorotoscope target set.
+  tags:
+  - liberty
+  - statue
 - name: statue-of-liberty-back.jpg
   batch: 1
+  title: Statue Of Liberty Back
+  description: Statue Of Liberty Back — source image from the algorotoscope target set.
+  tags:
+  - liberty
+  - statue
 - name: statue-of-liberty-front-bright.jpg
   batch: 1
+  title: Statue Of Liberty Front Bright
+  description: Statue Of Liberty Front Bright — source image from the algorotoscope target set.
+  tags:
+  - liberty
+  - statue
 - name: statue-playing-instrument.jpg
   batch: 1
+  title: Statue Playing Instrument
+  description: Statue Playing Instrument — source image from the algorotoscope target set.
+  tags:
+  - statue
 - name: statue-preaching.jpg
   batch: 1
+  title: Statue Preaching
+  description: Statue Preaching — source image from the algorotoscope target set.
+  tags:
+  - statue
 - name: statue-staring-down-to-right.jpg
   batch: 1
+  title: Statue Staring Down To Right
+  description: Statue Staring Down To Right — source image from the algorotoscope target set.
+  tags:
+  - statue
 - name: statue-supreme-court.jpg
   batch: 1
+  title: Statue Supreme Court
+  description: Statue Supreme Court — source image from the algorotoscope target set.
+  tags:
+  - court
+  - statue
+  - supreme
 - name: statue-thinking.jpg
   batch: 1
+  title: Statue Thinking
+  description: Statue Thinking — source image from the algorotoscope target set.
+  tags:
+  - statue
 - name: statue-with-shield-dark.jpg
   batch: 1
+  title: Statue With Shield Dark
+  description: Statue With Shield Dark — source image from the algorotoscope target set.
+  tags:
+  - statue
 - name: statue-woman.jpeg
   batch: 1
+  title: Statue Woman
+  description: Statue Woman — source image from the algorotoscope target set.
+  tags:
+  - statue
 - name: steam-engine-iceland.jpg
   batch: 1
+  title: Steam Engine Iceland
+  description: Steam Engine Iceland — source image from the algorotoscope target set.
+  tags: []
 - name: stone-door.jpeg
   batch: 1
+  title: Stone Door
+  description: Stone Door — source image from the algorotoscope target set.
+  tags: []
 - name: stop-empty.jpeg
   batch: 1
+  title: Stop Empty
+  description: Stop Empty — source image from the algorotoscope target set.
+  tags: []
 - name: storefront-signage.jpg
   batch: 1
+  title: Storefront Signage
+  description: Storefront Signage — source image from the algorotoscope target set.
+  tags:
+  - storefront
 - name: stork-club.jpeg
   batch: 1
+  title: Stork Club
+  description: Stork Club — source image from the algorotoscope target set.
+  tags: []
 - name: street-car-san-francisco.jpg
   batch: 1
+  title: Street Car San Francisco
+  description: Street Car San Francisco — source image from the algorotoscope target set.
+  tags:
+  - car
+  - street
 - name: sub-way-bart-going-by.jpg
   batch: 1
+  title: Sub Way Bart Going By
+  description: Sub Way Bart Going By — source image from the algorotoscope target set.
+  tags: []
 - name: subway-brooklyn-station.jpg
   batch: 1
+  title: Subway Brooklyn Station
+  description: Subway Brooklyn Station — source image from the algorotoscope target set.
+  tags:
+  - station
+  - subway
 - name: subway-c-line-nyc.jpg
   batch: 1
+  title: Subway C Line NYC
+  description: Subway C Line NYC — source image from the algorotoscope target set.
+  tags:
+  - nyc
+  - subway
 - name: subway-train-125th.jpg
   batch: 1
+  title: Subway Train 125th Street
+  description: Subway Train 125th Street — source image from the algorotoscope target set.
+  tags:
+  - subway
+  - train
 - name: subway-underground_35904617894_o.jpg
   batch: 1
+  title: Subway Underground O
+  description: Subway Underground O — source image from the algorotoscope target set.
+  tags:
+  - subway
 - name: subway-underground_36599191851_o.jpg
   batch: 1
+  title: Subway Underground O
+  description: Subway Underground O — source image from the algorotoscope target set.
+  tags:
+  - subway
 - name: sundial.jpeg
   batch: 1
+  title: Sundial
+  description: Sundial — source image from the algorotoscope target set.
+  tags: []
 - name: sunflower-big-green.jpg
   batch: 1
+  title: Sunflower Big Green
+  description: Sunflower Big Green — source image from the algorotoscope target set.
+  tags: []
 - name: sunset-seattle.jpg
   batch: 1
+  title: Sunset Seattle
+  description: Sunset Seattle — source image from the algorotoscope target set.
+  tags:
+  - sunset
 - name: supreme-court_36341562380_o.jpg
   batch: 1
+  title: Supreme Court O
+  description: Supreme Court O — source image from the algorotoscope target set.
+  tags:
+  - court
+  - supreme
 - name: supreme-court-columns.jpg
   batch: 1
+  title: Supreme Court Columns
+  description: Supreme Court Columns — source image from the algorotoscope target set.
+  tags:
+  - court
+  - supreme
 - name: surveillance-3-camers.jpg
   batch: 1
+  title: Surveillance 3 Cameras
+  description: Surveillance 3 Cameras — source image from the algorotoscope target set.
+  tags:
+  - surveillance
 - name: surveillance-cameras_36343058400_o.jpg
   batch: 1
+  title: Surveillance Cameras O
+  description: Surveillance Cameras O — source image from the algorotoscope target set.
+  tags:
+  - cameras
+  - surveillance
 - name: surveillance-cameras_36569244062_o.jpg
   batch: 1
+  title: Surveillance Cameras O
+  description: Surveillance Cameras O — source image from the algorotoscope target set.
+  tags:
+  - cameras
+  - surveillance
 - name: surveillance-over-the-city.jpg
   batch: 1
+  title: Surveillance Over The City
+  description: Surveillance Over The City — source image from the algorotoscope target set.
+  tags:
+  - surveillance
 - name: sydney-opera-house.jpg
   batch: 1
+  title: Sydney Opera House
+  description: Sydney Opera House — source image from the algorotoscope target set.
+  tags:
+  - house
 - name: target-new.zip
   batch: 1
+  title: Target New.zip
+  description: Target New.zip — source image from the algorotoscope target set.
+  tags: []
 - name: thinking-man-statue.jpg
   batch: 1
+  title: Thinking Man Statue
+  description: Thinking Man Statue — source image from the algorotoscope target set.
+  tags:
+  - statue
 - name: through-berlin-wall.jpg
   batch: 1
+  title: Through Berlin Wall
+  description: Through Berlin Wall — source image from the algorotoscope target set.
+  tags:
+  - wall
 - name: times-square-up-road.jpg
   batch: 1
+  title: Times Square Up Road
+  description: Times Square Up Road — source image from the algorotoscope target set.
+  tags:
+  - road
 - name: tower-trees-sky.jpg
   batch: 1
+  title: Tower Trees Sky
+  description: Tower Trees Sky — source image from the algorotoscope target set.
+  tags:
+  - trees
 - name: trail-bridge-walking.jpg
   batch: 1
+  title: Trail Bridge Walking
+  description: Trail Bridge Walking — source image from the algorotoscope target set.
+  tags:
+  - bridge
 - name: trail-in-the-woods.jpg
   batch: 1
+  title: Trail In The Woods
+  description: Trail In The Woods — source image from the algorotoscope target set.
+  tags: []
 - name: train--car-orange.jpeg
   batch: 1
+  title: Train Car Orange
+  description: Train Car Orange — source image from the algorotoscope target set.
+  tags:
+  - car
+  - train
 - name: train-car_35892468014_o.jpg
   batch: 1
+  title: Train Car O
+  description: Train Car O — source image from the algorotoscope target set.
+  tags:
+  - car
+  - train
 - name: train-coming-up-tracks.jpg
   batch: 1
+  title: Train Coming Up Tracks
+  description: Train Coming Up Tracks — source image from the algorotoscope target set.
+  tags:
+  - train
 - name: train-france-high-speed-in-station.jpg
   batch: 1
+  title: Train France High Speed In Station
+  description: Train France High Speed In Station — source image from the algorotoscope target set.
+  tags:
+  - station
+  - train
 - name: train-in-nyc-long.jpg
   batch: 1
+  title: Train In NYC Long
+  description: Train In NYC Long — source image from the algorotoscope target set.
+  tags:
+  - nyc
+  - train
 - name: train-in-station-two-coming.jpg
   batch: 1
+  title: Train In Station Two Coming
+  description: Train In Station Two Coming — source image from the algorotoscope target set.
+  tags:
+  - station
+  - train
 - name: train-nyc-125th.jpg
   batch: 1
+  title: Train NYC 125th Street
+  description: Train NYC 125th Street — source image from the algorotoscope target set.
+  tags:
+  - nyc
+  - train
 - name: train-small-town-station.jpg
   batch: 1
+  title: Train Small Town Station
+  description: Train Small Town Station — source image from the algorotoscope target set.
+  tags:
+  - station
+  - train
 - name: train-station-cloud.jpg
   batch: 1
+  title: Train Station Cloud
+  description: Train Station Cloud — source image from the algorotoscope target set.
+  tags:
+  - station
+  - train
 - name: train-station-old.jpeg
   batch: 1
+  title: Train Station Old
+  description: Train Station Old — source image from the algorotoscope target set.
+  tags:
+  - old
+  - station
+  - train
 - name: train-station-statue.jpg
   batch: 1
+  title: Train Station Statue
+  description: Train Station Statue — source image from the algorotoscope target set.
+  tags:
+  - station
+  - statue
+  - train
 - name: train-subway-125th-down-the-line.jpg
   batch: 1
+  title: Train Subway 125th Street Down The Line
+  description: Train Subway 125th Street Down The Line — source image from the algorotoscope target set.
+  tags:
+  - subway
+  - train
 - name: train-switch.jpg
   batch: 1
+  title: Train Switch
+  description: Train Switch — source image from the algorotoscope target set.
+  tags:
+  - train
 - name: train-tracks-bending.jpg
   batch: 1
+  title: Train Tracks Bending
+  description: Train Tracks Bending — source image from the algorotoscope target set.
+  tags:
+  - train
 - name: train-tracks-seattle-waterfront.jpg
   batch: 1
+  title: Train Tracks Seattle Waterfront
+  description: Train Tracks Seattle Waterfront — source image from the algorotoscope target set.
+  tags:
+  - train
+  - waterfront
 - name: tree-rock-view-city.jpeg
   batch: 1
+  title: Tree Rock View City
+  description: Tree Rock View City — source image from the algorotoscope target set.
+  tags:
+  - tree
 - name: trees-killer.jpeg
   batch: 1
+  title: Trees Killer
+  description: Trees Killer — source image from the algorotoscope target set.
+  tags:
+  - trees
 - name: tribume-downtown.jpeg
   batch: 1
+  title: Tribume Downtown
+  description: Tribume Downtown — source image from the algorotoscope target set.
+  tags:
+  - downtown
 - name: tribune-top.jpeg
   batch: 1
+  title: Tribune Top
+  description: Tribune Top — source image from the algorotoscope target set.
+  tags: []
 - name: tug-boat-ties.jpg
   batch: 1
+  title: Tug Boat Ties
+  description: Tug Boat Ties — source image from the algorotoscope target set.
+  tags:
+  - boat
 - name: turing-front-view.jpg
   batch: 1
+  title: Turing Front View
+  description: Turing Front View — source image from the algorotoscope target set.
+  tags: []
 - name: two-smoke-stacks.jpg
   batch: 1
+  title: Two Smoke Stacks
+  description: Two Smoke Stacks — source image from the algorotoscope target set.
+  tags: []
 - name: two-statues-rock.jpg
   batch: 1
+  title: Two Statues Rock
+  description: Two Statues Rock — source image from the algorotoscope target set.
+  tags: []
 - name: underground-subway_35929749683_o.jpg
   batch: 1
+  title: Underground Subway O
+  description: Underground Subway O — source image from the algorotoscope target set.
+  tags:
+  - subway
 - name: underground-subway_36342747010_o.jpg
   batch: 1
+  title: Underground Subway O
+  description: Underground Subway O — source image from the algorotoscope target set.
+  tags:
+  - subway
 - name: us-flag-close-up.jpg
   batch: 1
+  title: US Flag Close Up
+  description: US Flag Close Up — source image from the algorotoscope target set.
+  tags:
+  - flag
 - name: vancouver-waterfront_36556357642_o.jpg
   batch: 1
+  title: Vancouver Waterfront O
+  description: Vancouver Waterfront O — source image from the algorotoscope target set.
+  tags:
+  - waterfront
 - name: vending-machines.jpeg
   batch: 1
+  title: Vending Machines
+  description: Vending Machines — source image from the algorotoscope target set.
+  tags: []
 - name: viewer-close.jpg
   batch: 1
+  title: Viewer Close
+  description: Viewer Close — source image from the algorotoscope target set.
+  tags: []
 - name: volkswagon-microbus-windows.jpg
   batch: 1
+  title: Volkswagon Microbus Windows
+  description: Volkswagon Microbus Windows — source image from the algorotoscope target set.
+  tags: []
 - name: waiting-for-subway.jpg
   batch: 1
+  title: Waiting For Subway
+  description: Waiting For Subway — source image from the algorotoscope target set.
+  tags:
+  - subway
 - name: walk-through-garden-tunnel.jpg
   batch: 1
+  title: Walk Through Garden Tunnel
+  description: Walk Through Garden Tunnel — source image from the algorotoscope target set.
+  tags:
+  - garden
+  - tunnel
 - name: walking-sand-dunes.jpg
   batch: 1
+  title: Walking Sand Dunes
+  description: Walking Sand Dunes — source image from the algorotoscope target set.
+  tags: []
 - name: walking-water-front-sun.jpg
   batch: 1
+  title: Walking Water Front Sun
+  description: Walking Water Front Sun — source image from the algorotoscope target set.
+  tags:
+  - sun
 - name: washington-monument-afar.jpg
   batch: 1
+  title: Washington Monument Afar
+  description: Washington Monument Afar — source image from the algorotoscope target set.
+  tags:
+  - monument
+  - washington
 - name: water-canal-annaci.jpg
   batch: 1
+  title: Water Canal Annaci
+  description: Water Canal Annaci — source image from the algorotoscope target set.
+  tags: []
 - name: water-fountain-many-shooting.jpg
   batch: 1
+  title: Water Fountain Many Shooting
+  description: Water Fountain Many Shooting — source image from the algorotoscope target set.
+  tags: []
 - name: water-splashing-in-rocks.jpg
   batch: 1
+  title: Water Splashing In Rocks
+  description: Water Splashing In Rocks — source image from the algorotoscope target set.
+  tags: []
 - name: water-taxi-canada.jpg
   batch: 1
+  title: Water Taxi Canada
+  description: Water Taxi Canada — source image from the algorotoscope target set.
+  tags: []
 - name: waterfall-iceland.jpg
   batch: 1
+  title: Waterfall Iceland
+  description: Waterfall Iceland — source image from the algorotoscope target set.
+  tags: []
 - name: waterfall-southern-oregon.jpg
   batch: 1
+  title: Waterfall Southern Oregon
+  description: Waterfall Southern Oregon — source image from the algorotoscope target set.
+  tags: []
 - name: waterfront-in-italy-mist.jpg
   batch: 1
+  title: Waterfront In Italy Mist
+  description: Waterfront In Italy Mist — source image from the algorotoscope target set.
+  tags:
+  - waterfront
 - name: waterpump-old-time.jpg
   batch: 1
+  title: Waterpump Old Time
+  description: Waterpump Old Time — source image from the algorotoscope target set.
+  tags:
+  - old
 - name: watson-headstone.jpg
   batch: 1
+  title: Watson Headstone
+  description: Watson Headstone — source image from the algorotoscope target set.
+  tags: []
 - name: weeds-sidewalk.jpeg
   batch: 1
+  title: Weeds Sidewalk
+  description: Weeds Sidewalk — source image from the algorotoscope target set.
+  tags:
+  - sidewalk
 - name: western-union-telegraph-and-cable.jpeg
   batch: 1
+  title: Western Union Telegraph And Cable
+  description: Western Union Telegraph And Cable — source image from the algorotoscope target set.
+  tags: []
 - name: whie-house-close-up-2.jpg
   batch: 1
+  title: White House Close Up (alt 2)
+  description: White House Close Up (alt 2) — source image from the algorotoscope target set.
+  tags:
+  - house
 - name: white-face-freaky.jpg
   batch: 1
+  title: White Face Freaky
+  description: White Face Freaky — source image from the algorotoscope target set.
+  tags: []
 - name: white-house-close-up.jpg
   batch: 1
+  title: White House Close Up
+  description: White House Close Up — source image from the algorotoscope target set.
+  tags:
+  - house
 - name: white-house-kin.jpg
   batch: 1
+  title: White House Kin
+  description: White House Kin — source image from the algorotoscope target set.
+  tags:
+  - house
 - name: white-house-lawn-view.jpg
   batch: 1
+  title: White House Lawn View
+  description: White House Lawn View — source image from the algorotoscope target set.
+  tags:
+  - house
 - name: white-house-press-room-flag.jpg
   batch: 1
+  title: White House Press Room Flag
+  description: White House Press Room Flag — source image from the algorotoscope target set.
+  tags:
+  - flag
+  - house
 - name: white-house-west-wing-view.jpg
   batch: 1
+  title: White House West Wing View
+  description: White House West Wing View — source image from the algorotoscope target set.
+  tags:
+  - house
 - name: who-cares.jpg
   batch: 1
+  title: Who Cares
+  description: Who Cares — source image from the algorotoscope target set.
+  tags: []
 - name: wild-gease-in-the-water.jpg
   batch: 1
+  title: Wild Gease In The Water
+  description: Wild Gease In The Water — source image from the algorotoscope target set.
+  tags: []
 - name: window-mountain.jpg
   batch: 1
+  title: Window Mountain
+  description: Window Mountain — source image from the algorotoscope target set.
+  tags:
+  - mountain
 - name: wooden-path.jpeg
   batch: 1
+  title: Wooden Path
+  description: Wooden Path — source image from the algorotoscope target set.
+  tags:
+  - path
 - name: working-on-railroad-1.jpg
   batch: 1
+  title: Working On Railroad (alt 1)
+  description: Working On Railroad (alt 1) — source image from the algorotoscope target set.
+  tags: []
 - name: working-on-railroad-2.jpg
   batch: 1
+  title: Working On Railroad (alt 2)
+  description: Working On Railroad (alt 2) — source image from the algorotoscope target set.
+  tags: []
 - name: working-ship.jpg
   batch: 1
+  title: Working Ship
+  description: Working Ship — source image from the algorotoscope target set.
+  tags: []
 - name: working-waterfront-2.jpg
   batch: 1
+  title: Working Waterfront (alt 2)
+  description: Working Waterfront (alt 2) — source image from the algorotoscope target set.
+  tags:
+  - waterfront
 - name: working-waterfront.jpg
   batch: 1
+  title: Working Waterfront
+  description: Working Waterfront — source image from the algorotoscope target set.
+  tags:
+  - waterfront
 - name: wwdc-2011---moscone---san-francisco_5809419816_o.jpg
   batch: 1
+  title: Wwdc 2011 Moscone San Francisco O
+  description: Wwdc 2011 Moscone San Francisco O — source image from the algorotoscope target set.
+  tags: []
 - name: wysteria-walk.jpeg
   batch: 1
+  title: Wysteria Walk
+  description: Wysteria Walk — source image from the algorotoscope target set.
+  tags: []
 - name: yarder-back.jpeg
   batch: 1
+  title: Yarder Back
+  description: Yarder Back — source image from the algorotoscope target set.
+  tags: []
 - name: yarder-black.jpeg
   batch: 1
+  title: Yarder Black
+  description: Yarder Black — source image from the algorotoscope target set.
+  tags: []
 - name: yarder.jpeg
   batch: 1
+  title: Yarder
+  description: Yarder — source image from the algorotoscope target set.
+  tags: []
 - name: yello-taxi-nyc.jpg
   batch: 1
+  title: Yello Taxi NYC
+  description: Yello Taxi NYC — source image from the algorotoscope target set.
+  tags:
+  - nyc
 - name: yellow-roses-garden.jpg
   batch: 1
+  title: Yellow Roses Garden
+  description: Yellow Roses Garden — source image from the algorotoscope target set.
+  tags:
+  - garden
 - name: yellow-tree-car.jpeg
   batch: 1
+  title: Yellow Tree Car
+  description: Yellow Tree Car — source image from the algorotoscope target set.
+  tags:
+  - car
+  - tree
 - name: yellow-tree-in-rocks.jpg
   batch: 1
+  title: Yellow Tree In Rocks
+  description: Yellow Tree In Rocks — source image from the algorotoscope target set.
+  tags:
+  - tree
 - name: man-walking-on-phone-together.jpg
   batch: 3
+  title: Man Walking On Phone Together
+  description: Man Walking On Phone Together — source image from the algorotoscope target set.
+  tags: []
 - name: person-walking-on-phone-godzilla-2.jpg
-  batch: 3 
+  batch: 3
+  title: Person Walking On Phone Godzilla (alt 2)
+  description: Person Walking On Phone Godzilla (alt 2) — source image from the algorotoscope target set.
+  tags: []
 - name: person-walking-on-phone-godzilla-back.jpg
-  batch: 3 
+  batch: 3
+  title: Person Walking On Phone Godzilla Back
+  description: Person Walking On Phone Godzilla Back — source image from the algorotoscope target set.
+  tags: []
 - name: woman-walking-on-phone-scaffolding.jpg
-  batch: 3 
+  batch: 3
+  title: Woman Walking On Phone Scaffolding
+  description: Woman Walking On Phone Scaffolding — source image from the algorotoscope target set.
+  tags: []
 - name: woman-walking-on-phone-store.jpg
-  batch: 3 
+  batch: 3
+  title: Woman Walking On Phone Store
+  description: Woman Walking On Phone Store — source image from the algorotoscope target set.
+  tags:
+  - store
 - name: woman-walking-on-phone-tan-building.jpg
-  batch: 3         
+  batch: 3
+  title: Woman Walking On Phone Tan Building
+  description: Woman Walking On Phone Tan Building — source image from the algorotoscope target set.
+  tags:
+  - building
 - name: delivery-bike-orange-on-phone-backpack.jpg
-  batch: 3 
+  batch: 3
+  title: Delivery Bike Orange On Phone Backpack
+  description: Delivery Bike Orange On Phone Backpack — source image from the algorotoscope target set.
+  tags:
+  - bike
 - name: e-bike-delivery-in-road-on-phone.jpg
-  batch: 3 
+  batch: 3
+  title: E Bike Delivery In Road On Phone
+  description: E Bike Delivery In Road On Phone — source image from the algorotoscope target set.
+  tags:
+  - bike
+  - road
 - name: gear-blue.jpeg
-  batch: 3 
+  batch: 3
+  title: Gear Blue
+  description: Gear Blue — source image from the algorotoscope target set.
+  tags: []
 - name: gear-green.jpeg
-  batch: 3 
+  batch: 3
+  title: Gear Green
+  description: Gear Green — source image from the algorotoscope target set.
+  tags: []
 - name: gear-orange.jpeg
-  batch: 3 
+  batch: 3
+  title: Gear Orange
+  description: Gear Orange — source image from the algorotoscope target set.
+  tags: []
 - name: gear-original.jpeg
-  batch: 3 
+  batch: 3
+  title: Gear Original
+  description: Gear Original — source image from the algorotoscope target set.
+  tags: []
 - name: gear-purple.jpeg
-  batch: 3     
+  batch: 3
+  title: Gear Purple
+  description: Gear Purple — source image from the algorotoscope target set.
+  tags: []
 - name: gear-red.jpeg
-  batch: 3   
+  batch: 3
+  title: Gear Red
+  description: Gear Red — source image from the algorotoscope target set.
+  tags: []
 - name: bicycle-delivery-side-of-street.jpg
-  batch: 3   
+  batch: 3
+  title: Bicycle Delivery Side Of Street
+  description: Bicycle Delivery Side Of Street — source image from the algorotoscope target set.
+  tags:
+  - street
 - name: gear-blue-painted.jpg
-  batch: 3 
+  batch: 3
+  title: Gear Blue Painted
+  description: Gear Blue Painted — source image from the algorotoscope target set.
+  tags: []
 - name: gear-green-painted.jpg
-  batch: 3 
+  batch: 3
+  title: Gear Green Painted
+  description: Gear Green Painted — source image from the algorotoscope target set.
+  tags: []
 - name: gear-orange-painted.jpg
-  batch: 3 
+  batch: 3
+  title: Gear Orange Painted
+  description: Gear Orange Painted — source image from the algorotoscope target set.
+  tags: []
 - name: gear-purple-painted.jpg
-  batch: 3     
+  batch: 3
+  title: Gear Purple Painted
+  description: Gear Purple Painted — source image from the algorotoscope target set.
+  tags: []
 - name: gear-red-painted.jpg
-  batch: 3      
+  batch: 3
+  title: Gear Red Painted
+  description: Gear Red Painted — source image from the algorotoscope target set.
+  tags: []
 - name: 0w25XrzB7KXdJ.jpg
   batch: 4
+  title: 0w25xrzb7kxdj
+  description: 0w25xrzb7kxdj — source image from the algorotoscope target set.
+  tags: []
 - name: 0woB9r9oD0Nl5.jpg
   batch: 4
+  title: 0wob9r9od0nl5
+  description: 0wob9r9od0nl5 — source image from the algorotoscope target set.
+  tags: []
 - name: 0woBRGBmE02lb.jpg
   batch: 4
+  title: 0wobrgbme02lb
+  description: 0wobrgbme02lb — source image from the algorotoscope target set.
+  tags: []
 - name: 0woBRWQ0m69Pd.jpg
   batch: 4
+  title: 0wobrwq0m69pd
+  description: 0wobrwq0m69pd — source image from the algorotoscope target set.
+  tags: []
 - name: 0woG7NwgdMkXb.jpg
   batch: 4
+  title: 0wog7nwgdmkxb
+  description: 0wog7nwgdmkxb — source image from the algorotoscope target set.
+  tags: []
 - name: 0woGQ005olOzN.jpg
   batch: 4
+  title: 0wogq005olozn
+  description: 0wogq005olozn — source image from the algorotoscope target set.
+  tags: []
 - name: 1Z13G89218E3Q.jpg
   batch: 4
+  title: 1z13g89218e3q
+  description: 1z13g89218e3q — source image from the algorotoscope target set.
+  tags: []
 - name: 1ZMPvGLXeoVMM.jpg
   batch: 4
+  title: 1zmpvglxeovmm
+  description: 1zmpvglxeovmm — source image from the algorotoscope target set.
+  tags: []
 - name: 2q1BNpBJ2DbeM.jpg
   batch: 4
+  title: 2q1bnpbj2dbem
+  description: 2q1bnpbj2dbem — source image from the algorotoscope target set.
+  tags: []
 - name: 2q1GD96P5E5lw.jpg
   batch: 4
+  title: 2q1gd96p5e5lw
+  description: 2q1gd96p5e5lw — source image from the algorotoscope target set.
+  tags: []
 - name: 2q1GDPoG1kV1w.jpg
   batch: 4
+  title: 2q1gdpog1kv1w
+  description: 2q1gdpog1kv1w — source image from the algorotoscope target set.
+  tags: []
 - name: 3a1mK6B221vlk.jpg
   batch: 4
+  title: 3a1mk6b221vlk
+  description: 3a1mk6b221vlk — source image from the algorotoscope target set.
+  tags: []
 - name: 3a1Ml0KMN7MQr.jpg
   batch: 4
+  title: 3a1ml0kmn7mqr
+  description: 3a1ml0kmn7mqr — source image from the algorotoscope target set.
+  tags: []
 - name: 3a1Ml33zXa2mk.jpg
   batch: 4
+  title: 3a1ml33zxa2mk
+  description: 3a1ml33zxa2mk — source image from the algorotoscope target set.
+  tags: []
 - name: 3a1MnmMdMed6n.jpg
   batch: 4
+  title: 3a1mnmmdmed6n
+  description: 3a1mnmmdmed6n — source image from the algorotoscope target set.
+  tags: []
 - name: 3a1NR9KPPE96L.jpg
   batch: 4
+  title: 3a1nr9kppe96l
+  description: 3a1nr9kppe96l — source image from the algorotoscope target set.
+  tags: []
 - name: 3kdf83jf83842Xdde1.jpg
   batch: 4
+  title: 3kdf83jf83842xdde1
+  description: 3kdf83jf83842xdde1 — source image from the algorotoscope target set.
+  tags: []
 - name: 5W1Bmb3Rqn1KR.jpg
   batch: 4
+  title: 5w1bmb3rqn1kr
+  description: 5w1bmb3rqn1kr — source image from the algorotoscope target set.
+  tags: []
 - name: 5W1nrmRl2l9Xl.jpg
   batch: 4
+  title: 5w1nrmrl2l9xl
+  description: 5w1nrmrl2l9xl — source image from the algorotoscope target set.
+  tags: []
 - name: 8G1KDJwQVrVWN.jpg
   batch: 4
+  title: 8g1kdjwqvrvwn
+  description: 8g1kdjwqvrvwn — source image from the algorotoscope target set.
+  tags: []
 - name: 8G1KDXwLK8m2a.jpg
   batch: 4
+  title: 8g1kdxwlk8m2a
+  description: 8g1kdxwlk8m2a — source image from the algorotoscope target set.
+  tags: []
 - name: 8G1M2W5NJzkoQ.jpg
   batch: 4
+  title: 8g1m2w5njzkoq
+  description: 8g1m2w5njzkoq — source image from the algorotoscope target set.
+  tags: []
 - name: 8G1MQmLw1w8by.jpg
   batch: 4
+  title: 8g1mqmlw1w8by
+  description: 8g1mqmlw1w8by — source image from the algorotoscope target set.
+  tags: []
 - name: 8G8p3zpML5b1R.jpg
   batch: 4
+  title: 8g8p3zpml5b1r
+  description: 8g8p3zpml5b1r — source image from the algorotoscope target set.
+  tags: []
 - name: 9m1M73K9BJBpR.jpg
   batch: 4
+  title: 9m1m73k9bjbpr
+  description: 9m1m73k9bjbpr — source image from the algorotoscope target set.
+  tags: []
 - name: 9m1MGk3G00bdv.jpg
   batch: 4
+  title: 9m1mgk3g00bdv
+  description: 9m1mgk3g00bdv — source image from the algorotoscope target set.
+  tags: []
 - name: 9m5Kvgoraag41.jpg
   batch: 4
+  title: 9m5kvgoraag41
+  description: 9m5kvgoraag41 — source image from the algorotoscope target set.
+  tags: []
 - name: 46V8vn3meN0MW.jpg
   batch: 4
+  title: 46v8vn3men0mw
+  description: 46v8vn3men0mw — source image from the algorotoscope target set.
+  tags: []
 - name: 46V84nRJdNX44.jpg
   batch: 4
+  title: 46v84nrjdnx44
+  description: 46v84nrjdnx44 — source image from the algorotoscope target set.
+  tags: []
 - name: 46VPqVdkBGK04.jpg
   batch: 4
+  title: 46vpqvdkbgk04
+  description: 46vpqvdkbgk04 — source image from the algorotoscope target set.
+  tags: []
 - name: 69vpGn3e52GZ4.jpg
   batch: 4
+  title: 69vpgn3e52gz4
+  description: 69vpgn3e52gz4 — source image from the algorotoscope target set.
+  tags: []
 - name: 69vpGXoqG6pe2.jpg
   batch: 4
+  title: 69vpgxoqg6pe2
+  description: 69vpgxoqg6pe2 — source image from the algorotoscope target set.
+  tags: []
 - name: 691Nkkl449OM2.jpg
   batch: 4
+  title: 691nkkl449om2
+  description: 691nkkl449om2 — source image from the algorotoscope target set.
+  tags: []
 - name: 691NPd50mGGDP.jpg
   batch: 4
+  title: 691npd50mggdp
+  description: 691npd50mggdp — source image from the algorotoscope target set.
+  tags: []
 - name: 725NqNVmZ5kW5.jpg
   batch: 4
+  title: 725nqnvmz5kw5
+  description: 725nqnvmz5kw5 — source image from the algorotoscope target set.
+  tags: []
 - name: 725NvMMoadgWX.jpg
   batch: 4
+  title: 725nvmmoadgwx
+  description: 725nvmmoadgwx — source image from the algorotoscope target set.
+  tags: []
 - name: 725rqvWVkrRKG.jpg
   batch: 4
+  title: 725rqvwvkrrkg
+  description: 725rqvwvkrrkg — source image from the algorotoscope target set.
+  tags: []
 - name: aoQezBoZL6Ze7.jpg
   batch: 4
+  title: Aoqezbozl6ze7
+  description: Aoqezbozl6ze7 — source image from the algorotoscope target set.
+  tags: []
 - name: aov6mV1n7VGeQ.jpg
   batch: 4
+  title: Aov6mv1n7vgeq
+  description: Aov6mv1n7vgeq — source image from the algorotoscope target set.
+  tags: []
 - name: aovqbML2NNkdO.jpg
   batch: 4
+  title: Aovqbml2nnkdo
+  description: Aovqbml2nnkdo — source image from the algorotoscope target set.
+  tags: []
 - name: aovqEmEk4bavk.jpg
   batch: 4
+  title: Aovqemek4bavk
+  description: Aovqemek4bavk — source image from the algorotoscope target set.
+  tags: []
 - name: aovqOyK1kRgkO.jpg
   batch: 4
+  title: Aovqoyk1krgko
+  description: Aovqoyk1krgko — source image from the algorotoscope target set.
+  tags: []
 - name: Bbz1kvOoMa5DN.jpg
   batch: 4
+  title: Bbz1kvooma5dn
+  description: Bbz1kvooma5dn — source image from the algorotoscope target set.
+  tags: []
 - name: BbznkJnzad5Pn.jpg
   batch: 4
+  title: Bbznkjnzad5pn
+  description: Bbznkjnzad5pn — source image from the algorotoscope target set.
+  tags: []
 - name: bqa545LJr8eJX.jpg
   batch: 4
+  title: Bqa545ljr8ejx
+  description: Bqa545ljr8ejx — source image from the algorotoscope target set.
+  tags: []
 - name: bqEpkg7DVK1q1.jpg
   batch: 4
+  title: Bqepkg7dvk1q1
+  description: Bqepkg7dvk1q1 — source image from the algorotoscope target set.
+  tags: []
 - name: bqEpkPZlbe6n1.jpg
   batch: 4
+  title: Bqepkpzlbe6n1
+  description: Bqepkpzlbe6n1 — source image from the algorotoscope target set.
+  tags: []
 - name: dbNlgnkW1R1EG.jpg
   batch: 4
+  title: Dbnlgnkw1r1eg
+  description: Dbnlgnkw1r1eg — source image from the algorotoscope target set.
+  tags: []
 - name: dbNlK2qole250.jpg
   batch: 4
+  title: Dbnlk2qole250
+  description: Dbnlk2qole250 — source image from the algorotoscope target set.
+  tags: []
 - name: dbNzPwWN8ewb6.jpg
   batch: 4
+  title: Dbnzpwwn8ewb6
+  description: Dbnzpwwn8ewb6 — source image from the algorotoscope target set.
+  tags: []
 - name: dbNzRMPe9olqN.jpg
   batch: 4
+  title: Dbnzrmpe9olqn
+  description: Dbnzrmpe9olqn — source image from the algorotoscope target set.
+  tags: []
 - name: Dk0ewNEeqbGlP.jpg
   batch: 4
+  title: Dk0ewneeqbglp
+  description: Dk0ewneeqbglp — source image from the algorotoscope target set.
+  tags: []
 - name: Dk0w4dgWDeQGp.jpg
   batch: 4
+  title: Dk0w4dgwdeqgp
+  description: Dk0w4dgwdeqgp — source image from the algorotoscope target set.
+  tags: []
 - name: DkLDX5P63BPpV.jpg
   batch: 4
+  title: Dkldx5p63bppv
+  description: Dkldx5p63bppv — source image from the algorotoscope target set.
+  tags: []
 - name: DkLDXGLrgNm67.jpg
   batch: 4
+  title: Dkldxglrgnm67
+  description: Dkldxglrgnm67 — source image from the algorotoscope target set.
+  tags: []
 - name: DkLManO24WL9R.jpg
   batch: 4
+  title: Dklmano24wl9r
+  description: Dklmano24wl9r — source image from the algorotoscope target set.
+  tags: []
 - name: DkLraa7XZq96e.jpg
   batch: 4
+  title: Dklraa7xzq96e
+  description: Dklraa7xzq96e — source image from the algorotoscope target set.
+  tags: []
 - name: DkLraOWKaldKe.jpg
   batch: 4
+  title: Dklraowkaldke
+  description: Dklraowkaldke — source image from the algorotoscope target set.
+  tags: []
 - name: DkLrawl8LV4PP.jpg
   batch: 4
+  title: Dklrawl8lv4pp
+  description: Dklrawl8lv4pp — source image from the algorotoscope target set.
+  tags: []
 - name: EB9aJr7543QKv.jpg
   batch: 4
+  title: Eb9ajr7543qkv
+  description: Eb9ajr7543qkv — source image from the algorotoscope target set.
+  tags: []
 - name: EB9EmVOr10qgZ.jpg
   batch: 4
+  title: Eb9emvor10qgz
+  description: Eb9emvor10qgz — source image from the algorotoscope target set.
+  tags: []
 - name: EB9Ew9b9v541O.jpg
   batch: 4
+  title: Eb9ew9b9v541o
+  description: Eb9ew9b9v541o — source image from the algorotoscope target set.
+  tags: []
 - name: EBRk85lK11G4e.jpg
   batch: 4
+  title: Ebrk85lk11g4e
+  description: Ebrk85lk11g4e — source image from the algorotoscope target set.
+  tags: []
 - name: ezwD9nJmGJZ0M.jpg
   batch: 4
+  title: Ezwd9njmgjz0m
+  description: Ezwd9njmgjz0m — source image from the algorotoscope target set.
+  tags: []
 - name: ezwDbBEL7P0d8.jpg
   batch: 4
+  title: Ezwdbbel7p0d8
+  description: Ezwdbbel7p0d8 — source image from the algorotoscope target set.
+  tags: []
 - name: ezwDnNDkMbML7.jpg
   batch: 4
+  title: Ezwdnndkmbml7
+  description: Ezwdnndkmbml7 — source image from the algorotoscope target set.
+  tags: []
 - name: ezwDnq1vkNwlD.jpg
   batch: 4
+  title: Ezwdnq1vknwld
+  description: Ezwdnq1vknwld — source image from the algorotoscope target set.
+  tags: []
 - name: ezwDnQW1Xz6E7.jpg
   batch: 4
+  title: Ezwdnqw1xz6e7
+  description: Ezwdnqw1xz6e7 — source image from the algorotoscope target set.
+  tags: []
 - name: ezwlq6B4PymN7.jpg
   batch: 4
+  title: Ezwlq6b4pymn7
+  description: Ezwlq6b4pymn7 — source image from the algorotoscope target set.
+  tags: []
 - name: ezwlqwOB7dvP7.jpg
   batch: 4
+  title: Ezwlqwob7dvp7
+  description: Ezwlqwob7dvp7 — source image from the algorotoscope target set.
+  tags: []
 - name: ezyJm6DOMe6DJ.jpg
   batch: 4
+  title: Ezyjm6dome6dj
+  description: Ezyjm6dome6dj — source image from the algorotoscope target set.
+  tags: []
 - name: GBG02Be3lBe6b.jpg
   batch: 4
+  title: Gbg02be3lbe6b
+  description: Gbg02be3lbe6b — source image from the algorotoscope target set.
+  tags: []
 - name: GBG05R2m32VWw.jpg
   batch: 4
+  title: Gbg05r2m32vww
+  description: Gbg05r2m32vww — source image from the algorotoscope target set.
+  tags: []
 - name: GBgdq9NyJew4m.jpg
   batch: 4
+  title: Gbgdq9nyjew4m
+  description: Gbgdq9nyjew4m — source image from the algorotoscope target set.
+  tags: []
 - name: GBGmE7RqB79ZE.jpg
   batch: 4
+  title: Gbgme7rqb79ze
+  description: Gbgme7rqb79ze — source image from the algorotoscope target set.
+  tags: []
 - name: GBGmLywQBEo9e.jpg
   batch: 4
+  title: Gbgmlywqbeo9e
+  description: Gbgmlywqbeo9e — source image from the algorotoscope target set.
+  tags: []
 - name: gVG179EWzbpqW.jpg
   batch: 4
+  title: Gvg179ewzbpqw
+  description: Gvg179ewzbpqw — source image from the algorotoscope target set.
+  tags: []
 - name: gVGp2grEMGD4R.jpg
   batch: 4
+  title: Gvgp2gremgd4r
+  description: Gvgp2gremgd4r — source image from the algorotoscope target set.
+  tags: []
 - name: gVRX4NE1KE6nL.jpg
   batch: 4
+  title: Gvrx4ne1ke6nl
+  description: Gvrx4ne1ke6nl — source image from the algorotoscope target set.
+  tags: []
 - name: gVRXkngV4NpZD.jpg
   batch: 4
+  title: Gvrxkngv4npzd
+  description: Gvrxkngv4npzd — source image from the algorotoscope target set.
+  tags: []
 - name: gVRXOg2Lm5awW.jpg
   batch: 4
+  title: Gvrxog2lm5aww
+  description: Gvrxog2lm5aww — source image from the algorotoscope target set.
+  tags: []
 - name: gVRXrwOMeRXgX.jpg
   batch: 4
+  title: Gvrxrwomerxgx
+  description: Gvrxrwomerxgx — source image from the algorotoscope target set.
+  tags: []
 - name: IMG_2128.jpeg
-  batch: 3  
+  batch: 3
+  title: Img 2128
+  description: Img 2128 — source image from the algorotoscope target set.
+  tags: []
 - name: IMG_2129.jpeg
-  batch: 3  
+  batch: 3
+  title: Img 2129
+  description: Img 2129 — source image from the algorotoscope target set.
+  tags: []
 - name: IMG_2130.jpeg
-  batch: 3  
+  batch: 3
+  title: Img 2130
+  description: Img 2130 — source image from the algorotoscope target set.
+  tags: []
 - name: IMG_2132.jpeg
-  batch: 3  
+  batch: 3
+  title: Img 2132
+  description: Img 2132 — source image from the algorotoscope target set.
+  tags: []
 - name: IMG_2164.jpeg
-  batch: 3  
+  batch: 3
+  title: Img 2164
+  description: Img 2164 — source image from the algorotoscope target set.
+  tags: []
 - name: IMG_2191.jpeg
-  batch: 3  
+  batch: 3
+  title: Img 2191
+  description: Img 2191 — source image from the algorotoscope target set.
+  tags: []
 - name: IMG_2209.jpeg
-  batch: 3  
+  batch: 3
+  title: Img 2209
+  description: Img 2209 — source image from the algorotoscope target set.
+  tags: []
 - name: IMG_2210.jpeg
-  batch: 3  
+  batch: 3
+  title: Img 2210
+  description: Img 2210 — source image from the algorotoscope target set.
+  tags: []
 - name: IMG_2221.jpeg
-  batch: 3  
+  batch: 3
+  title: Img 2221
+  description: Img 2221 — source image from the algorotoscope target set.
+  tags: []
 - name: IMG_2222.jpeg
-  batch: 3  
+  batch: 3
+  title: Img 2222
+  description: Img 2222 — source image from the algorotoscope target set.
+  tags: []
 - name: IMG_2223.jpeg
-  batch: 3  
+  batch: 3
+  title: Img 2223
+  description: Img 2223 — source image from the algorotoscope target set.
+  tags: []
 - name: IMG_2229.jpeg
-  batch: 3  
+  batch: 3
+  title: Img 2229
+  description: Img 2229 — source image from the algorotoscope target set.
+  tags: []
 - name: IMG_2230.jpeg
-  batch: 3  
+  batch: 3
+  title: Img 2230
+  description: Img 2230 — source image from the algorotoscope target set.
+  tags: []
 - name: IMG_2244.jpeg
-  batch: 3  
+  batch: 3
+  title: Img 2244
+  description: Img 2244 — source image from the algorotoscope target set.
+  tags: []
 - name: IMG_2247.jpeg
-  batch: 3  
+  batch: 3
+  title: Img 2247
+  description: Img 2247 — source image from the algorotoscope target set.
+  tags: []
 - name: IMG_2273.jpeg
-  batch: 3  
+  batch: 3
+  title: Img 2273
+  description: Img 2273 — source image from the algorotoscope target set.
+  tags: []
 - name: IMG_2282.jpeg
-  batch: 3  
+  batch: 3
+  title: Img 2282
+  description: Img 2282 — source image from the algorotoscope target set.
+  tags: []
 - name: IMG_2290.jpeg
-  batch: 3  
+  batch: 3
+  title: Img 2290
+  description: Img 2290 — source image from the algorotoscope target set.
+  tags: []
 - name: IMG_2292.jpeg
-  batch: 3  
+  batch: 3
+  title: Img 2292
+  description: Img 2292 — source image from the algorotoscope target set.
+  tags: []
 - name: IMG_2311.jpeg
-  batch: 3  
+  batch: 3
+  title: Img 2311
+  description: Img 2311 — source image from the algorotoscope target set.
+  tags: []
 - name: IMG_2313.jpeg
-  batch: 3  
+  batch: 3
+  title: Img 2313
+  description: Img 2313 — source image from the algorotoscope target set.
+  tags: []
 - name: IMG_2317.jpeg
-  batch: 3  
+  batch: 3
+  title: Img 2317
+  description: Img 2317 — source image from the algorotoscope target set.
+  tags: []
 - name: IMG_2320.jpeg
-  batch: 3  
+  batch: 3
+  title: Img 2320
+  description: Img 2320 — source image from the algorotoscope target set.
+  tags: []
 - name: IMG_2322.jpeg
-  batch: 3  
+  batch: 3
+  title: Img 2322
+  description: Img 2322 — source image from the algorotoscope target set.
+  tags: []
 - name: IMG_2330.jpeg
-  batch: 3  
+  batch: 3
+  title: Img 2330
+  description: Img 2330 — source image from the algorotoscope target set.
+  tags: []
 - name: IMG_2344.jpeg
-  batch: 3  
+  batch: 3
+  title: Img 2344
+  description: Img 2344 — source image from the algorotoscope target set.
+  tags: []
 - name: IMG_2345.jpeg
-  batch: 3  
+  batch: 3
+  title: Img 2345
+  description: Img 2345 — source image from the algorotoscope target set.
+  tags: []
 - name: IMG_2346.jpeg
-  batch: 3  
+  batch: 3
+  title: Img 2346
+  description: Img 2346 — source image from the algorotoscope target set.
+  tags: []
 - name: IMG_2356.jpeg
-  batch: 3  
+  batch: 3
+  title: Img 2356
+  description: Img 2356 — source image from the algorotoscope target set.
+  tags: []
 - name: IMG_2358.jpeg
-  batch: 3  
+  batch: 3
+  title: Img 2358
+  description: Img 2358 — source image from the algorotoscope target set.
+  tags: []
 - name: IMG_2359.jpeg
-  batch: 3  
+  batch: 3
+  title: Img 2359
+  description: Img 2359 — source image from the algorotoscope target set.
+  tags: []
 - name: IMG_2360.jpeg
-  batch: 3  
+  batch: 3
+  title: Img 2360
+  description: Img 2360 — source image from the algorotoscope target set.
+  tags: []
 - name: IMG_2394.jpeg
-  batch: 3  
+  batch: 3
+  title: Img 2394
+  description: Img 2394 — source image from the algorotoscope target set.
+  tags: []
 - name: IMG_2401.jpeg
-  batch: 3  
+  batch: 3
+  title: Img 2401
+  description: Img 2401 — source image from the algorotoscope target set.
+  tags: []
 - name: IMG_2413.jpeg
-  batch: 3  
+  batch: 3
+  title: Img 2413
+  description: Img 2413 — source image from the algorotoscope target set.
+  tags: []
 - name: IMG_2414.jpeg
-  batch: 3  
+  batch: 3
+  title: Img 2414
+  description: Img 2414 — source image from the algorotoscope target set.
+  tags: []
 - name: IMG_2416.jpeg
-  batch: 3  
+  batch: 3
+  title: Img 2416
+  description: Img 2416 — source image from the algorotoscope target set.
+  tags: []
 - name: IMG_2442.jpeg
-  batch: 3  
+  batch: 3
+  title: Img 2442
+  description: Img 2442 — source image from the algorotoscope target set.
+  tags: []
 - name: IMG_2443.jpeg
-  batch: 3  
+  batch: 3
+  title: Img 2443
+  description: Img 2443 — source image from the algorotoscope target set.
+  tags: []
 - name: IMG_2445.jpeg
-  batch: 3  
+  batch: 3
+  title: Img 2445
+  description: Img 2445 — source image from the algorotoscope target set.
+  tags: []
 - name: IMG_2471.jpeg
-  batch: 3  
+  batch: 3
+  title: Img 2471
+  description: Img 2471 — source image from the algorotoscope target set.
+  tags: []
 - name: IMG_2476.jpeg
-  batch: 3  
+  batch: 3
+  title: Img 2476
+  description: Img 2476 — source image from the algorotoscope target set.
+  tags: []
 - name: IMG_2481.jpeg
-  batch: 3  
+  batch: 3
+  title: Img 2481
+  description: Img 2481 — source image from the algorotoscope target set.
+  tags: []
 - name: IMG_2511.jpeg
-  batch: 3  
+  batch: 3
+  title: Img 2511
+  description: Img 2511 — source image from the algorotoscope target set.
+  tags: []
 - name: IMG_2519.jpeg
-  batch: 3  
+  batch: 3
+  title: Img 2519
+  description: Img 2519 — source image from the algorotoscope target set.
+  tags: []
 - name: IMG_2520.jpeg
-  batch: 3  
+  batch: 3
+  title: Img 2520
+  description: Img 2520 — source image from the algorotoscope target set.
+  tags: []
 - name: IMG_2530.jpeg
-  batch: 3  
+  batch: 3
+  title: Img 2530
+  description: Img 2530 — source image from the algorotoscope target set.
+  tags: []
 - name: IMG_2539.jpeg
-  batch: 3  
+  batch: 3
+  title: Img 2539
+  description: Img 2539 — source image from the algorotoscope target set.
+  tags: []
 - name: IMG_2540.jpeg
-  batch: 3  
+  batch: 3
+  title: Img 2540
+  description: Img 2540 — source image from the algorotoscope target set.
+  tags: []
 - name: IMG_2541.jpeg
-  batch: 3  
+  batch: 3
+  title: Img 2541
+  description: Img 2541 — source image from the algorotoscope target set.
+  tags: []
 - name: IMG_2574.jpeg
-  batch: 3  
+  batch: 3
+  title: Img 2574
+  description: Img 2574 — source image from the algorotoscope target set.
+  tags: []
 - name: IMG_2575.jpeg
-  batch: 3  
+  batch: 3
+  title: Img 2575
+  description: Img 2575 — source image from the algorotoscope target set.
+  tags: []
 - name: IMG_2578.jpeg
-  batch: 3  
+  batch: 3
+  title: Img 2578
+  description: Img 2578 — source image from the algorotoscope target set.
+  tags: []
 - name: IMG_2592.jpeg
-  batch: 3  
+  batch: 3
+  title: Img 2592
+  description: Img 2592 — source image from the algorotoscope target set.
+  tags: []
 - name: IMG_2596.jpeg
-  batch: 3  
+  batch: 3
+  title: Img 2596
+  description: Img 2596 — source image from the algorotoscope target set.
+  tags: []
 - name: IMG_2599.jpeg
-  batch: 3  
+  batch: 3
+  title: Img 2599
+  description: Img 2599 — source image from the algorotoscope target set.
+  tags: []
 - name: IMG_2615.jpeg
-  batch: 3  
+  batch: 3
+  title: Img 2615
+  description: Img 2615 — source image from the algorotoscope target set.
+  tags: []
 - name: IMG_2617.jpeg
-  batch: 3  
+  batch: 3
+  title: Img 2617
+  description: Img 2617 — source image from the algorotoscope target set.
+  tags: []
 - name: IMG_2630.jpeg
-  batch: 3  
+  batch: 3
+  title: Img 2630
+  description: Img 2630 — source image from the algorotoscope target set.
+  tags: []
 - name: IMG_2636.jpeg
-  batch: 3  
+  batch: 3
+  title: Img 2636
+  description: Img 2636 — source image from the algorotoscope target set.
+  tags: []
 - name: IMG_2649.jpeg
-  batch: 3  
+  batch: 3
+  title: Img 2649
+  description: Img 2649 — source image from the algorotoscope target set.
+  tags: []
 - name: IMG_2650.jpeg
-  batch: 3  
+  batch: 3
+  title: Img 2650
+  description: Img 2650 — source image from the algorotoscope target set.
+  tags: []
 - name: IMG_5030.jpeg
-  batch: 3  
+  batch: 3
+  title: Img 5030
+  description: Img 5030 — source image from the algorotoscope target set.
+  tags: []
 - name: JgpD9bo3DNLd4.jpg
   batch: 4
+  title: Jgpd9bo3dnld4
+  description: Jgpd9bo3dnld4 — source image from the algorotoscope target set.
+  tags: []
 - name: JgpDlBlz3gPN4.jpg
   batch: 4
+  title: Jgpdlblz3gpn4
+  description: Jgpdlblz3gpn4 — source image from the algorotoscope target set.
+  tags: []
 - name: Jgpeloz8DoLkp.jpg
   batch: 4
+  title: Jgpeloz8dolkp
+  description: Jgpeloz8dolkp — source image from the algorotoscope target set.
+  tags: []
 - name: JgpoK9Man8P9n.jpg
   batch: 4
+  title: Jgpok9man8p9n
+  description: Jgpok9man8p9n — source image from the algorotoscope target set.
+  tags: []
 - name: JgpoKLJzKL0ln.jpg
   batch: 4
+  title: Jgpokljzkl0ln
+  description: Jgpokljzkl0ln — source image from the algorotoscope target set.
+  tags: []
 - name: JgpolbawQ02kg.jpg
   batch: 4
+  title: Jgpolbawq02kg
+  description: Jgpolbawq02kg — source image from the algorotoscope target set.
+  tags: []
 - name: JgpolpmgGO966.jpg
   batch: 4
+  title: Jgpolpmggo966
+  description: Jgpolpmggo966 — source image from the algorotoscope target set.
+  tags: []
 - name: k4wGObL6eM5EN.jpg
   batch: 4
+  title: K4wgobl6em5en
+  description: K4wgobl6em5en — source image from the algorotoscope target set.
+  tags: []
 - name: k4wkorGPkRJDM.jpg
   batch: 4
+  title: K4wkorgpkrjdm
+  description: K4wkorgpkrjdm — source image from the algorotoscope target set.
+  tags: []
 - name: k4wROk587mdrm.jpg
   batch: 4
+  title: K4wrok587mdrm
+  description: K4wrok587mdrm — source image from the algorotoscope target set.
+  tags: []
 - name: KBgEQWVd65DEG.jpg
   batch: 4
+  title: Kbgeqwvd65deg
+  description: Kbgeqwvd65deg — source image from the algorotoscope target set.
+  tags: []
 - name: KBy3bEgkz568e.jpg
   batch: 4
+  title: Kby3begkz568e
+  description: Kby3begkz568e — source image from the algorotoscope target set.
+  tags: []
 - name: KBy3mOW99wpMJ.jpg
   batch: 4
+  title: Kby3mow99wpmj
+  description: Kby3mow99wpmj — source image from the algorotoscope target set.
+  tags: []
 - name: KBy3Nl7RQQnoo.jpg
   batch: 4
+  title: Kby3nl7rqqnoo
+  description: Kby3nl7rqqnoo — source image from the algorotoscope target set.
+  tags: []
 - name: KByLw3OkRq7B8.jpg
   batch: 4
+  title: Kbylw3okrq7b8
+  description: Kbylw3okrq7b8 — source image from the algorotoscope target set.
+  tags: []
 - name: KByLweD7gMeQ0.jpg
   batch: 4
+  title: Kbylwed7gmeq0
+  description: Kbylwed7gmeq0 — source image from the algorotoscope target set.
+  tags: []
 - name: lne4a1W6lagVl.jpg
   batch: 4
+  title: Lne4a1w6lagvl
+  description: Lne4a1w6lagvl — source image from the algorotoscope target set.
+  tags: []
 - name: lnepBmM7Ga6Mv.jpg
   batch: 4
+  title: Lnepbmm7ga6mv
+  description: Lnepbmm7ga6mv — source image from the algorotoscope target set.
+  tags: []
 - name: lnOG2rPazOWqV.jpg
   batch: 4
+  title: Lnog2rpazowqv
+  description: Lnog2rpazowqv — source image from the algorotoscope target set.
+  tags: []
 - name: lnOGLwrer9nmv.jpg
   batch: 4
+  title: Lnoglwrer9nmv
+  description: Lnoglwrer9nmv — source image from the algorotoscope target set.
+  tags: []
 - name: lnOkM6oeJ7dMV.jpg
   batch: 4
+  title: Lnokm6oej7dmv
+  description: Lnokm6oej7dmv — source image from the algorotoscope target set.
+  tags: []
 - name: lnOv2XpM3zlb5.jpg
   batch: 4
+  title: Lnov2xpm3zlb5
+  description: Lnov2xpm3zlb5 — source image from the algorotoscope target set.
+  tags: []
 - name: lnOvgoE0M2ybP.jpg
   batch: 4
+  title: Lnovgoe0m2ybp
+  description: Lnovgoe0m2ybp — source image from the algorotoscope target set.
+  tags: []
 - name: lnOvm0roLmZwV.jpg
   batch: 4
+  title: Lnovm0rolmzwv
+  description: Lnovm0rolmzwv — source image from the algorotoscope target set.
+  tags: []
 - name: LR9aPK3OKr7L7.jpg
   batch: 4
+  title: Lr9apk3okr7l7
+  description: Lr9apk3okr7l7 — source image from the algorotoscope target set.
+  tags: []
 - name: LR9aQEvl9vBDB.jpg
   batch: 4
+  title: Lr9aqevl9vbdb
+  description: Lr9aqevl9vbdb — source image from the algorotoscope target set.
+  tags: []
 - name: LR9XBq0ERyKdB.jpg
   batch: 4
+  title: Lr9xbq0erykdb
+  description: Lr9xbq0erykdb — source image from the algorotoscope target set.
+  tags: []
 - name: LR90erd3wdo87.jpg
   batch: 4
+  title: Lr90erd3wdo87
+  description: Lr90erd3wdo87 — source image from the algorotoscope target set.
+  tags: []
 - name: LR90eRmQWNLz5.jpg
   batch: 4
+  title: Lr90ermqwnlz5
+  description: Lr90ermqwnlz5 — source image from the algorotoscope target set.
+  tags: []
 - name: LR90JkdXMQve7.jpg
   batch: 4
+  title: Lr90jkdxmqve7
+  description: Lr90jkdxmqve7 — source image from the algorotoscope target set.
+  tags: []
 - name: LR90JPlgw15V7.jpg
   batch: 4
+  title: Lr90jplgw15v7
+  description: Lr90jplgw15v7 — source image from the algorotoscope target set.
+  tags: []
 - name: LR90JZVOr7DKB.jpg
   batch: 4
+  title: Lr90jzvor7dkb
+  description: Lr90jzvor7dkb — source image from the algorotoscope target set.
+  tags: []
 - name: LR90Q0JL7DMby.jpg
   batch: 4
+  title: Lr90q0jl7dmby
+  description: Lr90q0jl7dmby — source image from the algorotoscope target set.
+  tags: []
 - name: LRdm8QeZQllDX.jpg
   batch: 4
+  title: Lrdm8qezqlldx
+  description: Lrdm8qezqlldx — source image from the algorotoscope target set.
+  tags: []
 - name: LRdmJ57pvmmqd.jpg
   batch: 4
+  title: Lrdmj57pvmmqd
+  description: Lrdmj57pvmmqd — source image from the algorotoscope target set.
+  tags: []
 - name: LRdmJqlvrl8Rm.jpg
   batch: 4
+  title: Lrdmjqlvrl8rm
+  description: Lrdmjqlvrl8rm — source image from the algorotoscope target set.
+  tags: []
 - name: m4mGDrV00mBy3.jpg
   batch: 4
+  title: M4mgdrv00mby3
+  description: M4mgdrv00mby3 — source image from the algorotoscope target set.
+  tags: []
 - name: m4mklRn3K36yL.jpg
   batch: 4
+  title: M4mklrn3k36yl
+  description: M4mklrn3k36yl — source image from the algorotoscope target set.
+  tags: []
 - name: MW3a7Wdz6m3oR.jpg
   batch: 4
+  title: Mw3a7wdz6m3or
+  description: Mw3a7wdz6m3or — source image from the algorotoscope target set.
+  tags: []
 - name: MW3aboNglWOm3.jpg
   batch: 4
+  title: Mw3abonglwom3
+  description: Mw3abonglwom3 — source image from the algorotoscope target set.
+  tags: []
 - name: MW3gk3V9XqOPa.jpg
   batch: 4
+  title: Mw3gk3v9xqopa
+  description: Mw3gk3v9xqopa — source image from the algorotoscope target set.
+  tags: []
 - name: MW3gOy17nQDZZ.jpg
   batch: 4
+  title: Mw3goy17nqdzz
+  description: Mw3goy17nqdzz — source image from the algorotoscope target set.
+  tags: []
 - name: NN9a0qwea8gJw.jpg
   batch: 4
+  title: Nn9a0qwea8gjw
+  description: Nn9a0qwea8gjw — source image from the algorotoscope target set.
+  tags: []
 - name: NN9aEB5dVRmq8.jpg
   batch: 4
+  title: Nn9aeb5dvrmq8
+  description: Nn9aeb5dvrmq8 — source image from the algorotoscope target set.
+  tags: []
 - name: NN9aeMg2Ln7bw.jpg
   batch: 4
+  title: Nn9aemg2ln7bw
+  description: Nn9aemg2ln7bw — source image from the algorotoscope target set.
+  tags: []
 - name: NN9aKW6X8pqD4.jpg
   batch: 4
+  title: Nn9akw6x8pqd4
+  description: Nn9akw6x8pqd4 — source image from the algorotoscope target set.
+  tags: []
 - name: NN9aKzpkrnR38.jpg
   batch: 4
+  title: Nn9akzpkrnr38
+  description: Nn9akzpkrnr38 — source image from the algorotoscope target set.
+  tags: []
 - name: NNpW35m1LJJ58.jpg
   batch: 4
+  title: Nnpw35m1ljj58
+  description: Nnpw35m1ljj58 — source image from the algorotoscope target set.
+  tags: []
 - name: nqP0g0vreXmR1.jpg
   batch: 4
+  title: Nqp0g0vrexmr1
+  description: Nqp0g0vrexmr1 — source image from the algorotoscope target set.
+  tags: []
 - name: nqP0GByy45Ndp.jpg
   batch: 4
+  title: Nqp0gbyy45ndp
+  description: Nqp0gbyy45ndp — source image from the algorotoscope target set.
+  tags: []
 - name: nqP0LNzqZ3gPV.jpg
   batch: 4
+  title: Nqp0lnzqz3gpv
+  description: Nqp0lnzqz3gpv — source image from the algorotoscope target set.
+  tags: []
 - name: nqP0LqkZdpzR7.jpg
   batch: 4
+  title: Nqp0lqkzdpzr7
+  description: Nqp0lqkzdpzr7 — source image from the algorotoscope target set.
+  tags: []
 - name: nqP0MJbwrp4Xp.jpg
   batch: 4
+  title: Nqp0mjbwrp4xp
+  description: Nqp0mjbwrp4xp — source image from the algorotoscope target set.
+  tags: []
 - name: nqP01wNoZMkJa.jpg
   batch: 4
+  title: Nqp01wnozmkja
+  description: Nqp01wnozmkja — source image from the algorotoscope target set.
+  tags: []
 - name: nqPvD43MLEnkZ.jpg
   batch: 4
+  title: Nqpvd43mlenkz
+  description: Nqpvd43mlenkz — source image from the algorotoscope target set.
+  tags: []
 - name: oKmGgNVDQke5N.jpg
   batch: 4
+  title: Okmggnvdqke5n
+  description: Okmggnvdqke5n — source image from the algorotoscope target set.
+  tags: []
 - name: Owb0aZ0VaPgJz.jpg
   batch: 4
+  title: Owb0az0vapgjz
+  description: Owb0az0vapgjz — source image from the algorotoscope target set.
+  tags: []
 - name: OwbE8qXDkVe7o.jpg
   batch: 4
+  title: Owbe8qxdkve7o
+  description: Owbe8qxdkve7o — source image from the algorotoscope target set.
+  tags: []
 - name: OwbQDq8POJd2P.jpg
   batch: 4
+  title: Owbqdq8pojd2p
+  description: Owbqdq8pojd2p — source image from the algorotoscope target set.
+  tags: []
 - name: P31Qvb4nqWnWO.jpg
   batch: 4
+  title: P31qvb4nqwnwo
+  description: P31qvb4nqwnwo — source image from the algorotoscope target set.
+  tags: []
 - name: P31QvvE13oPZn.jpg
   batch: 4
+  title: P31qvve13opzn
+  description: P31qvve13opzn — source image from the algorotoscope target set.
+  tags: []
 - name: P310JW9NGq55J.jpg
   batch: 4
+  title: P310jw9ngq55j
+  description: P310jw9ngq55j — source image from the algorotoscope target set.
+  tags: []
 - name: P310p0X1lD6WJ.jpg
   batch: 4
+  title: P310p0x1ld6wj
+  description: P310p0x1ld6wj — source image from the algorotoscope target set.
+  tags: []
 - name: plQGWVgz3bgpr.jpg
   batch: 4
+  title: Plqgwvgz3bgpr
+  description: Plqgwvgz3bgpr — source image from the algorotoscope target set.
+  tags: []
 - name: plQOkLyzBL0zl.jpg
   batch: 4
+  title: Plqoklyzbl0zl
+  description: Plqoklyzbl0zl — source image from the algorotoscope target set.
+  tags: []
 - name: q6OpdmkD4ZvzW.jpg
   batch: 4
+  title: Q6opdmkd4zvzw
+  description: Q6opdmkd4zvzw — source image from the algorotoscope target set.
+  tags: []
 - name: q6OpdZ32y5R3W.jpg
   batch: 4
+  title: Q6opdz32y5r3w
+  description: Q6opdz32y5r3w — source image from the algorotoscope target set.
+  tags: []
 - name: q65GBDN6BZwrp.jpg
   batch: 4
+  title: Q65gbdn6bzwrp
+  description: Q65gbdn6bzwrp — source image from the algorotoscope target set.
+  tags: []
 - name: q65kwy7JEQ4oX.jpg
   batch: 4
+  title: Q65kwy7jeq4ox
+  description: Q65kwy7jeq4ox — source image from the algorotoscope target set.
+  tags: []
 - name: RD9pm3PpDaab1.jpg
   batch: 4
+  title: Rd9pm3ppdaab1
+  description: Rd9pm3ppdaab1 — source image from the algorotoscope target set.
+  tags: []
 - name: RD90WZlXDdn9g.jpg
   batch: 4
+  title: Rd90wzlxddn9g
+  description: Rd90wzlxddn9g — source image from the algorotoscope target set.
+  tags: []
 - name: rdepN8VGPWBd4.jpg
   batch: 4
+  title: Rdepn8vgpwbd4
+  description: Rdepn8vgpwbd4 — source image from the algorotoscope target set.
+  tags: []
 - name: rdmGE6PmvPPqE.jpg
   batch: 4
+  title: Rdmge6pmvppqe
+  description: Rdmge6pmvppqe — source image from the algorotoscope target set.
+  tags: []
 - name: rdmGkR1oVkE7B.jpg
   batch: 4
+  title: Rdmgkr1ovke7b
+  description: Rdmgkr1ovke7b — source image from the algorotoscope target set.
+  tags: []
 - name: rdmV87aQRJR9O.jpg
   batch: 4
+  title: Rdmv87aqrjr9o
+  description: Rdmv87aqrjr9o — source image from the algorotoscope target set.
+  tags: []
 - name: rdmvaNo0DZrZ8.jpg
   batch: 4
+  title: Rdmvano0dzrz8
+  description: Rdmvano0dzrz8 — source image from the algorotoscope target set.
+  tags: []
 - name: rdmvaVOR5l3Vd.jpg
   batch: 4
+  title: Rdmvavor5l3vd
+  description: Rdmvavor5l3vd — source image from the algorotoscope target set.
+  tags: []
 - name: V6B3GKQ6pzMN4.jpg
   batch: 4
+  title: V6b3gkq6pzmn4
+  description: V6b3gkq6pzmn4 — source image from the algorotoscope target set.
+  tags: []
 - name: V6B08v4bb3O5l.jpg
   batch: 4
+  title: V6b08v4bb3o5l
+  description: V6b08v4bb3o5l — source image from the algorotoscope target set.
+  tags: []
 - name: V6BQG0nmen4w0.jpg
   batch: 4
+  title: V6bqg0nmen4w0
+  description: V6bqg0nmen4w0 — source image from the algorotoscope target set.
+  tags: []
 - name: V6BQGXpXJV314.jpg
   batch: 4
+  title: V6bqgxpxjv314
+  description: V6bqgxpxjv314 — source image from the algorotoscope target set.
+  tags: []
 - name: V6NpKZ3yOrDoJ.jpg
   batch: 4
+  title: V6npkz3yordoj
+  description: V6npkz3yordoj — source image from the algorotoscope target set.
+  tags: []
 - name: vkJ5dpm0bK2Gn.jpg
   batch: 4
+  title: Vkj5dpm0bk2gn
+  description: Vkj5dpm0bk2gn — source image from the algorotoscope target set.
+  tags: []
 - name: vkJpZrJmzpd8n.jpg
   batch: 4
+  title: Vkjpzrjmzpd8n
+  description: Vkjpzrjmzpd8n — source image from the algorotoscope target set.
+  tags: []
 - name: vkJya86yGmXvv.jpg
   batch: 4
+  title: Vkjya86ygmxvv
+  description: Vkjya86ygmxvv — source image from the algorotoscope target set.
+  tags: []
 - name: vkJyOBaXOMX7V.jpg
   batch: 4
+  title: Vkjyobaxomx7v
+  description: Vkjyobaxomx7v — source image from the algorotoscope target set.
+  tags: []
 - name: vkJyzqgrWk0PW.jpg
   batch: 4
+  title: Vkjyzqgrwk0pw
+  description: Vkjyzqgrwk0pw — source image from the algorotoscope target set.
+  tags: []
 - name: vkNnG333lDlre.jpg
   batch: 4
+  title: Vknng333ldlre
+  description: Vknng333ldlre — source image from the algorotoscope target set.
+  tags: []
 - name: vkNrE4qbpryGM.jpg
   batch: 4
+  title: Vknre4qbprygm
+  description: Vknre4qbprygm — source image from the algorotoscope target set.
+  tags: []
 - name: vkNrElKPLK200.jpg
   batch: 4
+  title: Vknrelkplk200
+  description: Vknrelkplk200 — source image from the algorotoscope target set.
+  tags: []
 - name: wb3G2V8EMJ6dP.jpg
   batch: 4
+  title: Wb3g2v8emj6dp
+  description: Wb3g2v8emj6dp — source image from the algorotoscope target set.
+  tags: []
 - name: wb3GaqKr2nNqn.jpg
   batch: 4
+  title: Wb3gaqkr2nnqn
+  description: Wb3gaqkr2nnqn — source image from the algorotoscope target set.
+  tags: []
 - name: wb3vaR166NmBX.jpg
   batch: 4
+  title: Wb3var166nmbx
+  description: Wb3var166nmbx — source image from the algorotoscope target set.
+  tags: []
 - name: wb3Z1bvaae9nl.jpg
   batch: 4
+  title: Wb3z1bvaae9nl
+  description: Wb3z1bvaae9nl — source image from the algorotoscope target set.
+  tags: []
 - name: wb3ZNamOW4nkQ.jpg
   batch: 4
+  title: Wb3znamow4nkq
+  description: Wb3znamow4nkq — source image from the algorotoscope target set.
+  tags: []
 - name: wb5KM977lZrJX.jpg
   batch: 4
+  title: Wb5km977lzrjx
+  description: Wb5km977lzrjx — source image from the algorotoscope target set.
+  tags: []
 - name: wb5l8MPD9GnLl.jpg
   batch: 4
+  title: Wb5l8mpd9gnll
+  description: Wb5l8mpd9gnll — source image from the algorotoscope target set.
+  tags: []
 - name: Wlb3R5nXgRpZn.jpg
   batch: 4
+  title: Wlb3r5nxgrpzn
+  description: Wlb3r5nxgrpzn — source image from the algorotoscope target set.
+  tags: []
 - name: WlbQ0KRL0GZRV.jpg
   batch: 4
+  title: Wlbq0krl0gzrv
+  description: Wlbq0krl0gzrv — source image from the algorotoscope target set.
+  tags: []
 - name: WlbQB6PX8ak4P.jpg
   batch: 4
+  title: Wlbqb6px8ak4p
+  description: Wlbqb6px8ak4p — source image from the algorotoscope target set.
+  tags: []
 - name: WlbQLy36Ey3yZ.jpg
   batch: 4
+  title: Wlbqly36ey3yz
+  description: Wlbqly36ey3yz — source image from the algorotoscope target set.
+  tags: []
 - name: WlbQvbkaqrGgB.jpg
   batch: 4
+  title: Wlbqvbkaqrggb
+  description: Wlbqvbkaqrggb — source image from the algorotoscope target set.
+  tags: []
 - name: WlW1RDEbnlgzz.jpg
   batch: 4
+  title: Wlw1rdebnlgzz
+  description: Wlw1rdebnlgzz — source image from the algorotoscope target set.
+  tags: []
 - name: XNG0d5dGE19JG.jpg
   batch: 4
+  title: Xng0d5dge19jg
+  description: Xng0d5dge19jg — source image from the algorotoscope target set.
+  tags: []
 - name: XNG0dDBPVMN0G.jpg
   batch: 4
+  title: Xng0ddbpvmn0g
+  description: Xng0ddbpvmn0g — source image from the algorotoscope target set.
+  tags: []
 - name: XNG0dMyKWVJvQ.jpg
   batch: 4
+  title: Xng0dmykwvjvq
+  description: Xng0dmykwvjvq — source image from the algorotoscope target set.
+  tags: []
 - name: XNG0geL6wPEok.jpg
   batch: 4
+  title: Xng0gel6wpeok
+  description: Xng0gel6wpeok — source image from the algorotoscope target set.
+  tags: []
 - name: XNG0gmz5oJ6KL.jpg
   batch: 4
+  title: Xng0gmz5oj6kl
+  description: Xng0gmz5oj6kl — source image from the algorotoscope target set.
+  tags: []
 - name: XNG09Pw8oKdbN.jpg
   batch: 4
+  title: Xng09pw8okdbn
+  description: Xng09pw8okdbn — source image from the algorotoscope target set.
+  tags: []
 - name: XNG09wrk1bGg8.jpg
   batch: 4
+  title: Xng09wrk1bgg8
+  description: Xng09wrk1bgg8 — source image from the algorotoscope target set.
+  tags: []
 - name: XNGere5kwbPLk.jpg
   batch: 4
+  title: Xngere5kwbplk
+  description: Xngere5kwbplk — source image from the algorotoscope target set.
+  tags: []
 - name: XNGQa9mJyaLdN.jpg
   batch: 4
+  title: Xngqa9mjyaldn
+  description: Xngqa9mjyaldn — source image from the algorotoscope target set.
+  tags: []
 - name: XNGQaPwyzV8Wz.jpg
   batch: 4
+  title: Xngqapwyzv8wz
+  description: Xngqapwyzv8wz — source image from the algorotoscope target set.
+  tags: []
 - name: XNW6o7ZnEV9yL.jpg
   batch: 4
+  title: Xnw6o7znev9yl
+  description: Xnw6o7znev9yl — source image from the algorotoscope target set.
+  tags: []
 - name: ymJ6WzMOwlr5R.jpg
   batch: 4
+  title: Ymj6wzmowlr5r
+  description: Ymj6wzmowlr5r — source image from the algorotoscope target set.
+  tags: []
 - name: ymNogvMNLXz41.jpg
   batch: 4
+  title: Ymnogvmnlxz41
+  description: Ymnogvmnlxz41 — source image from the algorotoscope target set.
+  tags: []
 - name: ymNoOJy96E6g7.jpg
   batch: 4
+  title: Ymnoojy96e6g7
+  description: Ymnoojy96e6g7 — source image from the algorotoscope target set.
+  tags: []
 - name: ymNZG5KM767N7.jpg
   batch: 4
+  title: Ymnzg5km767n7
+  description: Ymnzg5km767n7 — source image from the algorotoscope target set.
+  tags: []
 - name: ymNZGJLrRWdyZ.jpg
   batch: 4
+  title: Ymnzgjlrrwdyz
+  description: Ymnzgjlrrwdyz — source image from the algorotoscope target set.
+  tags: []
 - name: Z0vQOdorMw5mp.jpg
   batch: 4
+  title: Z0vqodormw5mp
+  description: Z0vqodormw5mp — source image from the algorotoscope target set.
+  tags: []
 - name: zbaqRPPgvaORG.jpg
   batch: 4
+  title: Zbaqrppgvaorg
+  description: Zbaqrppgvaorg — source image from the algorotoscope target set.
+  tags: []
 - name: zbNdBg973GZoX.jpg
   batch: 4
+  title: Zbndbg973gzox
+  description: Zbndbg973gzox — source image from the algorotoscope target set.
+  tags: []
 - name: zbNdBMB305NWk.jpg
   batch: 4
+  title: Zbndbmb305nwk
+  description: Zbndbmb305nwk — source image from the algorotoscope target set.
+  tags: []
 - name: zbNdBp6P8bkqX.jpg
   batch: 4
+  title: Zbndbp6p8bkqx
+  description: Zbndbp6p8bkqx — source image from the algorotoscope target set.
+  tags: []
 - name: zbNdg9EOwvOlX.jpg
   batch: 4
+  title: Zbndg9eowvolx
+  description: Zbndg9eowvolx — source image from the algorotoscope target set.
+  tags: []
 - name: zbNdQGGQ2m7zd.jpg
   batch: 4
+  title: Zbndqggq2m7zd
+  description: Zbndqggq2m7zd — source image from the algorotoscope target set.
+  tags: []
 - name: zbNvg8p8GMVXX.jpg
   batch: 4
+  title: Zbnvg8p8gmvxx
+  description: Zbnvg8p8gmvxx — source image from the algorotoscope target set.
+  tags: []
 - name: zbNvm0bMZlLBX.jpg
   batch: 4
+  title: Zbnvm0bmzllbx
+  description: Zbnvm0bmzllbx — source image from the algorotoscope target set.
+  tags: []
 - name: zbNvQNb7dZdde.jpg
   batch: 4
+  title: Zbnvqnb7dzdde
+  description: Zbnvqnb7dzdde — source image from the algorotoscope target set.
+  tags: []
 - name: zbNvrRvl9keo3.jpg
   batch: 4
-
+  title: Zbnvrrvl9keo3
+  description: Zbnvrrvl9keo3 — source image from the algorotoscope target set.
+  tags: []
 - name: minneapolis-1.jpg
   batch: 5
+  title: Minneapolis (alt 1)
+  description: Minneapolis (alt 1) — source image from the algorotoscope target set.
+  tags: []
 - name: minneapolis-2.jpg
   batch: 5
+  title: Minneapolis (alt 2)
+  description: Minneapolis (alt 2) — source image from the algorotoscope target set.
+  tags: []
 - name: minneapolis-3.jpg
   batch: 5
+  title: Minneapolis (alt 3)
+  description: Minneapolis (alt 3) — source image from the algorotoscope target set.
+  tags: []
 - name: minneapolis-4.jpg
   batch: 5
+  title: Minneapolis (alt 4)
+  description: Minneapolis (alt 4) — source image from the algorotoscope target set.
+  tags: []
 - name: minneapolis-5.jpg
   batch: 5
+  title: Minneapolis (alt 5)
+  description: Minneapolis (alt 5) — source image from the algorotoscope target set.
+  tags: []
 - name: minneapolis-6.jpg
   batch: 5
+  title: Minneapolis (alt 6)
+  description: Minneapolis (alt 6) — source image from the algorotoscope target set.
+  tags: []
 - name: minneapolis-7.jpg
   batch: 5
+  title: Minneapolis (alt 7)
+  description: Minneapolis (alt 7) — source image from the algorotoscope target set.
+  tags: []
 - name: minneapolis-8.jpg
   batch: 5
+  title: Minneapolis (alt 8)
+  description: Minneapolis (alt 8) — source image from the algorotoscope target set.
+  tags: []
 - name: minneapolis-9.jpg
   batch: 5
+  title: Minneapolis (alt 9)
+  description: Minneapolis (alt 9) — source image from the algorotoscope target set.
+  tags: []
 - name: minneapolis-10.jpg
   batch: 5
+  title: Minneapolis (alt 10)
+  description: Minneapolis (alt 10) — source image from the algorotoscope target set.
+  tags: []
 - name: minneapolis-11.jpg
   batch: 5
+  title: Minneapolis (alt 11)
+  description: Minneapolis (alt 11) — source image from the algorotoscope target set.
+  tags: []
 - name: minneapolis-12.jpg
   batch: 5
+  title: Minneapolis (alt 12)
+  description: Minneapolis (alt 12) — source image from the algorotoscope target set.
+  tags: []
 - name: minneapolis-13.jpg
   batch: 5
+  title: Minneapolis (alt 13)
+  description: Minneapolis (alt 13) — source image from the algorotoscope target set.
+  tags: []
 - name: minneapolis-14.jpg
   batch: 5
+  title: Minneapolis (alt 14)
+  description: Minneapolis (alt 14) — source image from the algorotoscope target set.
+  tags: []
 - name: minneapolis-15.jpg
   batch: 5
+  title: Minneapolis (alt 15)
+  description: Minneapolis (alt 15) — source image from the algorotoscope target set.
+  tags: []

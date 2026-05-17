@@ -110,10 +110,11 @@ title: Algorotoscope - Browse & Search
             sub = item.collection_name || '';
             desc = item.description || '';
         } else {
-            img = TARGET_BASE + 'uncle-sam-' + item.name;
+            img = TARGET_BASE + 'uncle-sam-' + (item.file || item.name);
             href = item.url;
             badge = 'Target';
             sub = 'batch ' + (item.batch || '?');
+            desc = item.description || '';
         }
         return '' +
             '<div>' +
